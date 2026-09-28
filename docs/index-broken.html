@@ -1,0 +1,434 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2685.7">
+  <style type="text/css">
+    body {background-color: #f5f3eb}
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px Arial; color: #0e1223; -webkit-text-stroke: #0e1223}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px Arial; color: #0e1223; -webkit-text-stroke: #0e1223; min-height: 18.0px}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1"><b>&lt;!doctype html&gt;</b></span></p>
+<p class="p1"><span class="s1"><b>&lt;html lang="en"&gt;</b></span></p>
+<p class="p1"><span class="s1"><b>&lt;head&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;meta charset="utf-8"&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;title&gt;US Midterm Elections | Digital Politics&lt;/title&gt;</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;style&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>:root {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>--ink: #10182f;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>--paper: #f7f5ef;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>--surface: #fffdf8;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>--line: #d8d3c5;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>--gold: #f3bd42;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>--blue: #2d6cdf;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>--muted: #5f6774;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>* { box-sizing: border-box; }</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>body {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>margin: 0;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>background: var(--paper);</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>color: var(--ink);</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>font: 16px/1.5 Arial, sans-serif;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>header, main, footer {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>max-width: 1160px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>margin: auto;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>header {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>display: flex;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>justify-content: space-between;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>padding: 20px 24px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>border-bottom: 1px solid var(--line);</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>font-weight: 700;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>main { padding: 48px 24px 70px; }</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.intro { max-width: 800px; }</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.eyebrow {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>margin: 0 0 8px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>color: var(--muted);</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>font-size: 12px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>font-weight: 700;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>letter-spacing: 0.11em;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>text-transform: uppercase;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>h1 {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>margin: 0 0 20px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>font: 700 clamp(42px, 7vw, 76px)/0.96 Georgia, serif;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>h2 {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>margin: 4px 0 18px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>font: 700 28px/1.1 Georgia, serif;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.dek {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>max-width: 720px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>font-size: 18px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.metrics, .two-up {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>display: grid;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>gap: 16px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.metrics {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>grid-template-columns: repeat(4, 1fr);</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>margin: 42px 0 20px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.two-up { grid-template-columns: 1fr 1fr; }</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.metric, .panel {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>background: var(--surface);</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>border: 1px solid var(--line);</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.metric { padding: 20px; }</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.metric strong {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>display: block;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>margin: 8px 0 4px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>font-size: 28px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>line-height: 1.1;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.metric small, .note {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>color: var(--muted);</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>font-size: 13px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.panel {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>margin-top: 20px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>padding: 24px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.section-head {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>display: flex;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>justify-content: space-between;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>gap: 20px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.section-head .note {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>max-width: 350px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>text-align: right;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.daily-bars {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>display: flex;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>align-items: end;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>gap: 16px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>min-height: 310px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>padding: 24px 0 4px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>border-bottom: 1px solid var(--line);</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.daily-bar {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>display: flex;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>flex: 1;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>min-width: 95px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>flex-direction: column;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>justify-content: end;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>align-items: center;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>gap: 8px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.daily-bar .value {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>font-size: 13px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>font-weight: 700;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>text-align: center;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.daily-bar .bar {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>width: 100%;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>min-height: 8px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>background: var(--blue);</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.daily-bar .date {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>color: var(--muted);</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>font-size: 13px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.bar-row {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>display: grid;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>grid-template-columns: 125px 1fr 82px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>align-items: center;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>gap: 10px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>margin: 10px 0;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>font-size: 14px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.state-bar { height: 12px; background: var(--gold); }</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.amount {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>text-align: right;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>white-space: nowrap;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>table {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>width: 100%;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>border-collapse: collapse;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>font-size: 14px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>th, td {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>padding: 10px 4px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>border-bottom: 1px solid var(--line);</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>text-align: left;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>vertical-align: top;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>th {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>color: var(--muted);</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>font-size: 11px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>letter-spacing: 0.08em;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>text-transform: uppercase;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>td.amount, th.amount { text-align: right; }</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.method { max-width: 900px; }</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>.method p { max-width: 820px; }</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>footer {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>padding: 24px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>border-top: 1px solid var(--line);</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>color: var(--muted);</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>font-size: 13px;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>@media (max-width: 760px) {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>.metrics, .two-up { grid-template-columns: 1fr 1fr; }</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>.section-head { display: block; }</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>.section-head .note { text-align: left; }</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>.daily-bars { gap: 8px; overflow-x: auto; }</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>@media (max-width: 480px) {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>main { padding: 32px 16px 50px; }</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>.metrics { grid-template-columns: 1fr; }</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>.bar-row { grid-template-columns: 95px 1fr 70px; }</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;/style&gt;</b></span></p>
+<p class="p1"><span class="s1"><b>&lt;/head&gt;</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b>&lt;body&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;header&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;span&gt;Digital Politics&lt;/span&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;span&gt;Data monitor&lt;/span&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;/header&gt;</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;main&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;section class="intro"&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;p class="eyebrow"&gt;US midterm elections&lt;/p&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;h1&gt;Digital Politics Political Ad Tracker — US Midterm Elections&lt;/h1&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;p class="dek"&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>Reported political, election and issue-ad spending delivered via</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>Facebook in the United States. The baseline covers the 90 days to</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>Sept 20, 2026. Daily observations track the period that follows.</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;/p&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;/section&gt;</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;section id="metrics" class="metrics"&gt;&lt;/section&gt;</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;section class="panel"&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;div class="section-head"&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;div&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;p class="eyebrow"&gt;Daily monitor&lt;/p&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;h2&gt;How much is being spent on Facebook ads in the US midterms?&lt;/h2&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;/div&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;p id="daily-note" class="note"&gt;&lt;/p&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;/div&gt;</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;div id="daily-bars" class="daily-bars"&gt;&lt;/div&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;/section&gt;</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;section class="two-up"&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;section class="panel"&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;p class="eyebrow"&gt;Cumulative reported spend&lt;/p&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;h2&gt;Where the money went&lt;/h2&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;div id="state-bars"&gt;&lt;/div&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;/section&gt;</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;section class="panel"&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;p class="eyebrow"&gt;Latest daily report&lt;/p&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;h2&gt;Leading advertisers&lt;/h2&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;div id="advertisers"&gt;&lt;/div&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;/section&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;/section&gt;</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;section class="panel method"&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;p class="eyebrow"&gt;Methodology&lt;/p&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;h2&gt;How the tracker is built&lt;/h2&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>&lt;p id="methodology"&gt;&lt;/p&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>&lt;/section&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;/main&gt;</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;footer&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>Source: Meta Ad Library Report. Raw reports are retained privately and are</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>not distributed through this page.</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;/footer&gt;</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;script&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>const money = new Intl.NumberFormat("en-US", {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>style: "currency",</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>currency: "USD",</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>maximumFractionDigits: 0</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>});</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>const integer = new Intl.NumberFormat("en-US");</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>const fullDate = value =&gt; new Date(`${value}T00:00:00`).toLocaleDateString(</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>"en-US",</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>{ month: "short", day: "numeric", year: "numeric" }</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>);</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>const shortDate = value =&gt; new Date(`${value}T00:00:00`).toLocaleDateString(</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>"en-US",</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>{ month: "short", day: "numeric" }</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>);</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>const escapeHtml = value =&gt; String(value).replace(/[&amp;&lt;&gt;"']/g, character =&gt; ({</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>"&amp;": "&amp;amp;",</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>"&lt;": "&amp;lt;",</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>"&gt;": "&amp;gt;",</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>'"': "&amp;quot;",</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>"'": "&amp;#039;"</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>})[character]);</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>fetch("data.json")</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>.then(response =&gt; response.json())</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>.then(renderDashboard);</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>function renderDashboard(data) {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>const daily = data.daily_observations;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>const latest = daily[daily.length - 1];</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>const previous = daily[daily.length - 2];</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>const cumulative = data.cumulative;</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>const change = previous</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>? ((latest.national_spend_usd - previous.national_spend_usd) /</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">           </span>previous.national_spend_usd) * 100</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>: null;</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>document.querySelector("#metrics").innerHTML = [</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>[</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>"Cumulative reported spend",</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>money.format(cumulative.national_spend_usd),</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>`90-day baseline plus ${cumulative.daily_reports_added} later daily reports`</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>],</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>[</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>"Latest Daily Spend",</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>money.format(latest.national_spend_usd),</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>fullDate(latest.report_end_date)</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>],</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>[</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>"Daily % change in ad spend",</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>change === null ? "—" : `${change &gt;= 0 ? "+" : ""}${change.toFixed(1)}%`,</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>previous</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">            </span>? `${shortDate(previous.report_end_date)} to ${shortDate(latest.report_end_date)}`</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">            </span>: ""</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>],</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>[</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>"Total number of advertisers",</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>integer.format(cumulative.advertiser_count),</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>"Unique reported Page and disclaimer records"</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>]</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>].map(([label, value, note]) =&gt; `</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;article class="metric"&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;p class="eyebrow"&gt;${label}&lt;/p&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;strong&gt;${value}&lt;/strong&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;small&gt;${note}&lt;/small&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;/article&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>`).join("");</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>document.querySelector("#daily-note").textContent =</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>`${daily.length} observed reports. Missing dates are not zero-spend days.`;</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>drawDailyBars(daily);</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>drawStates(</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>cumulative.states.slice(0, 12),</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>cumulative.national_spend_usd</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>);</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>drawAdvertisers(latest.top_advertisers.slice(0, 10));</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>document.querySelector("#methodology").textContent = data.methodology;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>function drawDailyBars(rows) {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>const maximum = Math.max(</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>...rows.map(row =&gt; row.national_spend_usd)</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>);</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>document.querySelector("#daily-bars").innerHTML = rows.map(row =&gt; `</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;div class="daily-bar"&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;span class="value"&gt;${money.format(row.national_spend_usd)}&lt;/span&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;div class="bar"</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">               </span>style="height: ${(row.national_spend_usd / maximum) * 220}px"&gt;&lt;/div&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;span class="date"&gt;${shortDate(row.report_end_date)}&lt;/span&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;/div&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>`).join("");</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>function drawStates(states, total) {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>const maximum = states[0].spend_usd;</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>document.querySelector("#state-bars").innerHTML = states.map(row =&gt; `</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;div class="bar-row"&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;span&gt;${escapeHtml(row.state)}&lt;/span&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;div class="state-bar"</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">               </span>style="width: ${(row.spend_usd / maximum) * 100}%"&gt;&lt;/div&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;span class="amount"&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">            </span>${(row.spend_usd / total * 100).toFixed(1)}%</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;/span&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;/div&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>`).join("");</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p2"><span class="s1"><b></b></span><br></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>function drawAdvertisers(advertisers) {</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>document.querySelector("#advertisers").innerHTML = `</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;table&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;thead&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">            </span>&lt;tr&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">              </span>&lt;th&gt;Advertiser&lt;/th&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">              </span>&lt;th class="amount"&gt;Spend&lt;/th&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">              </span>&lt;th class="amount"&gt;Ads&lt;/th&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">            </span>&lt;/tr&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;/thead&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;tbody&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">            </span>${advertisers.map(row =&gt; `</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">              </span>&lt;tr&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">                </span>&lt;td&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">                  </span>&lt;strong&gt;${escapeHtml(row.page_name)}&lt;/strong&gt;&lt;br&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">                  </span>&lt;small&gt;${escapeHtml(row.disclaimer)}&lt;/small&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">                </span>&lt;/td&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">                </span>&lt;td class="amount"&gt;${money.format(row.spend_usd)}&lt;/td&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">                </span>&lt;td class="amount"&gt;${integer.format(row.ad_count)}&lt;/td&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">              </span>&lt;/tr&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">            </span>`).join("")}</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">          </span>&lt;/tbody&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">        </span>&lt;/table&gt;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">      </span>`;</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">    </span>}</b></span></p>
+<p class="p1"><span class="s1"><b><span class="Apple-converted-space">  </span>&lt;/script&gt;</b></span></p>
+<p class="p1"><span class="s1"><b>&lt;/body&gt;</b></span></p>
+<p class="p1"><span class="s1"><b>&lt;/html&gt;</b></span></p>
+</body>
+</html>
