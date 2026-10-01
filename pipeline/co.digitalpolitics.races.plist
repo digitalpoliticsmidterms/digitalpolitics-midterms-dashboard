@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Runs the toss-up races update every day at 08:55 local time, after the nationwide report.
+     Install: replace REPO_PATH below, then
+       cp pipeline/co.digitalpolitics.races.plist ~/Library/LaunchAgents/
+       launchctl load ~/Library/LaunchAgents/co.digitalpolitics.races.plist
+     If the Mac is asleep at 08:55, launchd runs it when the Mac wakes. -->
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>co.digitalpolitics.races</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>REPO_PATH/pipeline/run_races_update.sh</string>
+  </array>
+  <key>StartCalendarInterval</key>
+  <dict><key>Hour</key><integer>8</integer><key>Minute</key><integer>55</integer></dict>
+  <key>StandardOutPath</key><string>/tmp/digitalpolitics-races.log</string>
+  <key>StandardErrorPath</key><string>/tmp/digitalpolitics-races.log</string>
+</dict>
+</plist>

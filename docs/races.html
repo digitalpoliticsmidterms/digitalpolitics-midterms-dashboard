@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Toss-Up Races | Digital Politics</title><style>
+:root{--ink:#10182f;--paper:#f7f5ef;--surface:#fffdf8;--line:#d8d3c5;--gold:#f3bd42;--blue:#2d6cdf;--dem:#2d6cdf;--rep:#c8423b;--oth:#8a8f98;--muted:#5f6774}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.5 Arial,sans-serif}
+main,footer{max-width:1160px;margin:auto}main{padding:20px 24px 70px}
+.tabs{display:flex;gap:0;border-bottom:1px solid var(--ink);margin:0 0 28px}.tabs a{padding:10px 16px;color:var(--ink);text-decoration:none;font-weight:700;font-size:14px;letter-spacing:.04em;border:1px solid transparent;border-bottom:none;margin-bottom:-1px}.tabs a.active{background:var(--surface);border-color:var(--ink)}.tabs a:not(.active):hover{text-decoration:underline}
+.eyebrow{margin:0 0 8px;color:var(--muted);font-size:12px;font-weight:700;letter-spacing:.11em;text-transform:uppercase}
+h1{margin:0 0 16px;font:700 clamp(25px,2.75vw,34px)/1.05 Georgia,serif}h2{margin:4px 0 18px;font:700 28px/1.1 Georgia,serif}h3{margin:0 0 4px;font:700 19px/1.2 Georgia,serif}
+.dek{font-size:18px;margin:0}.updated{font-size:15px;color:var(--muted);margin:10px 0 0}
+.metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:32px 0 20px}.metric,.panel{background:var(--surface);border:1px solid var(--line)}.metric{padding:20px}.metric strong{display:block;margin:8px 0 4px;font-size:28px;line-height:1.1}.metric small,.note{color:var(--muted);font-size:13px}
+.panel{margin-top:20px;padding:24px}.section-head{display:flex;justify-content:space-between;gap:20px;align-items:flex-start}.section-head .note{max-width:360px;text-align:right}
+.controls{display:flex;flex-wrap:wrap;gap:8px;margin:4px 0 18px}.controls button{border:1px solid var(--ink);background:transparent;padding:7px 10px;font:inherit;font-size:14px;cursor:pointer;color:var(--ink)}.controls button.active{background:var(--ink);color:#fff}
+.legend{display:flex;gap:16px;font-size:13px;color:var(--muted);margin:0 0 8px}.legend i{display:inline-block;width:10px;height:10px;margin-right:6px;vertical-align:0}
+.race{border-top:1px solid var(--line)}.race:last-child{border-bottom:1px solid var(--line)}
+.race>button{all:unset;box-sizing:border-box;display:grid;grid-template-columns:150px 1fr 150px 22px;gap:14px;align-items:center;width:100%;padding:14px 4px;cursor:pointer}.race>button:focus-visible{outline:2px solid var(--blue);outline-offset:2px}.race>button:hover .rname{text-decoration:underline}
+.rname{font-weight:700}.rname small{display:block;font-weight:400;color:var(--muted);font-size:12px}
+.stack{display:flex;height:16px;background:#ece8dd}.stack span{height:100%}.stack-names{display:flex;justify-content:space-between;gap:10px;font-size:12px;color:var(--muted);margin-top:5px}
+.ramt{text-align:right;font-weight:700;white-space:nowrap}.ramt small{display:block;font-weight:400;color:var(--muted);font-size:12px}
+.chev{transition:transform .15s;font-size:13px;color:var(--muted)}.race.open .chev{transform:rotate(90deg)}
+.detail{display:none;padding:4px 4px 24px}.race.open .detail{display:block}
+.cands{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px}
+.cand{border:1px solid var(--line);padding:18px;border-top:4px solid var(--oth)}.cand.D{border-top-color:var(--dem)}.cand.R{border-top-color:var(--rep)}
+.cand .tag{font-size:12px;color:var(--muted)}.big{font-size:24px;font-weight:700;margin:10px 0 0}.range{font-size:13px;color:var(--muted)}
+.kv{display:grid;grid-template-columns:1fr 1fr;gap:8px 12px;margin:14px 0;font-size:14px}.kv b{display:block;font-size:11px;color:var(--muted);letter-spacing:.08em;text-transform:uppercase;font-weight:700}
+.sub{margin:16px 0 6px;font-size:11px;color:var(--muted);letter-spacing:.08em;text-transform:uppercase;font-weight:700}
+.hbar{display:grid;grid-template-columns:62px 1fr 44px;gap:8px;align-items:center;font-size:13px;margin:4px 0}.hbar div{height:9px;background:#ece8dd}.hbar div span{display:block;height:100%;background:var(--ink)}.hbar em{font-style:normal;text-align:right;color:var(--muted)}
+.weeks{display:flex;align-items:end;gap:2px;height:56px;border-bottom:1px solid var(--line)}.weeks span{flex:1;background:var(--ink);min-height:1px}.cand.D .weeks span{background:var(--dem)}.cand.R .weeks span{background:var(--rep)}.weeks-axis{display:flex;justify-content:space-between;font-size:11px;color:var(--muted);margin-top:3px}
+.ads{list-style:none;margin:0;padding:0;font-size:13px}.ads li{padding:8px 0;border-bottom:1px solid var(--line)}.ads li:last-child{border-bottom:none}.ads a{color:var(--ink)}.ads small{display:block;color:var(--muted)}
+.pending{color:var(--muted);font-size:14px;margin-top:12px}
+.up{color:#1c7a45}.flat{color:var(--muted)}
+table{width:100%;border-collapse:collapse;font-size:14px}th,td{padding:10px 4px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}th{color:var(--muted);font-size:11px;letter-spacing:.08em;text-transform:uppercase}td.amount,th.amount{text-align:right;white-space:nowrap}
+.dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px;background:var(--oth)}.dot.D{background:var(--dem)}.dot.R{background:var(--rep)}
+.method p{margin:0 0 12px}.method a{color:var(--ink)}
+footer{padding:24px;border-top:1px solid var(--line);color:var(--muted);font-size:13px}
+@media(max-width:760px){.metrics{grid-template-columns:1fr 1fr}.section-head{display:block}.section-head .note{text-align:left}.race>button{grid-template-columns:1fr 110px 18px}.race>button .stackwrap{grid-column:1/-1;grid-row:2}}
+@media(max-width:560px){.hide-sm{display:none}main{padding:16px 16px 50px}.metrics{grid-template-columns:1fr}.tabs a{padding:9px 10px;font-size:13px}}
+</style></head><body><main>
+<nav class="tabs" aria-label="Tracker sections"><a href="index.html">Nationwide</a><a href="races.html" class="active" aria-current="page">Toss-up races</a></nav>
+<section class="intro"><h1>The toss-up races: what the candidates themselves are spending</h1><p class="dek">Facebook and Instagram ad spending by the nominees' own campaign Pages in every Senate, governor and House race the Cook Political Report rates a Toss Up. Outside groups and super PACs are excluded.</p><p id="updated" class="updated"></p></section>
+<section id="metrics" class="metrics"></section>
+<section class="panel"><div class="section-head"><div><p class="eyebrow">By race</p><h2>Where the campaigns are spending</h2></div><p class="note">Midpoint of Meta's reported spend ranges. Select a race for candidate detail, audiences and top ads.</p></div>
+<div class="controls" id="filters"><button data-f="all" class="active">All races</button><button data-f="senate">Senate</button><button data-f="governor">Governor</button><button data-f="house">House</button></div>
+<div class="legend"><span><i style="background:var(--dem)"></i>Democrat</span><span><i style="background:var(--rep)"></i>Republican</span><span><i style="background:var(--oth)"></i>Other</span></div>
+<div id="races"></div></section>
+<section class="panel"><p class="eyebrow">Candidates</p><h2>Biggest spenders</h2><div id="top"></div></section>
+<section class="panel method"><p class="eyebrow">Methodology</p><h2>How this tab is built</h2><p id="methodology"></p><p id="sources" class="note"></p></section>
+</main><footer>Source: Meta Ad Library API; race ratings from the Cook Political Report. Raw API responses are retained privately and are not distributed through this page.</footer>
+<script>
+const money=new Intl.NumberFormat('en-US',{style:'currency',currency:'USD',maximumFractionDigits:0}),integer=new Intl.NumberFormat('en-US'),compact=new Intl.NumberFormat('en-US',{notation:'compact',maximumFractionDigits:1});
+const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));
+const fullDate=v=>new Date(v+'T00:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}),shortDate=v=>new Date(v+'T00:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric'});
+const PARTY={D:'Democrat',R:'Republican',I:'Independent'},CH={senate:'Senate',governor:'Governor',house:'House'},pct=v=>(v*100).toFixed(0)+'%';
+const color=p=>p==='D'?'var(--dem)':p==='R'?'var(--rep)':'var(--oth)';
+const delta=v=>v==null?'<span class="flat">—</span>':v>0?`<span class="up">+${money.format(v)}</span>`:`<span class="flat">${v<0?'−'+money.format(-v):'$0'}</span>`;
+let data,filter='all';
+fetch('races.json').then(r=>r.json()).then(d=>{data=d;render()}).catch(()=>{document.querySelector('#races').innerHTML='<p class="note">The first daily update has not run yet. Figures will appear here after it does.</p>'});
+function render(){
+ const s=data.summary;
+ document.querySelector('#updated').innerHTML=`<strong>Updated ${fullDate(data.updated)}</strong> — ads delivered since ${fullDate(data.window_start)}${data.change_since?`; changes compare with ${shortDate(data.change_since)}`:''}.`;
+ const dShare=s.spend_mid?(s.by_party.D||0)/s.spend_mid:0,rShare=s.spend_mid?(s.by_party.R||0)/s.spend_mid:0;
+ document.querySelector('#metrics').innerHTML=[
+  ['Candidate ad spend',money.format(s.spend_mid),`Reported range ${compact.format(s.spend_lo)}–${compact.format(s.spend_hi)} USD`],
+  ['Ads run',integer.format(s.ads),`${integer.format(s.active_ads)} still delivering`],
+  ['Party split',`${pct(dShare)} D · ${pct(rShare)} R`,'Share of tracked candidate spend'],
+  ['Races tracked',`${s.races}`,`${s.candidates_tracked} of ${s.candidates} nominees' Pages identified`]
+ ].map(x=>`<article class="metric"><p class="eyebrow">${x[0]}</p><strong>${x[1]}</strong><small>${x[2]}</small></article>`).join('');
+ drawRaces();drawTop();
+ document.querySelector('#methodology').textContent=data.methodology;
+ const r=data.ratings_source;document.querySelector('#sources').innerHTML=`Race list: ${esc(r.name)} “${esc(r.rating)}” ratings — <a href="${esc(r.urls.senate)}">Senate</a> (${shortDate(r.as_of.senate)}), <a href="${esc(r.urls.governor)}">governor</a> (${shortDate(r.as_of.governor)}), <a href="${esc(r.urls.house)}">House</a> (${shortDate(r.as_of.house)}). Nominees confirmed from post-primary news coverage.${data.untracked.length?` Pages not yet identified for: ${data.untracked.map(u=>esc(u.name)+' ('+esc(u.race)+')').join(', ')}.`:''}`;
+}
+function drawRaces(){
+ const rows=data.races.filter(r=>filter==='all'||r.chamber===filter),max=Math.max(1,...rows.map(r=>r.spend_mid));
+ document.querySelector('#races').innerHTML=rows.map(r=>{
+  const segs=r.candidates.filter(c=>c.spend_mid>0).map(c=>`<span style="width:${c.spend_mid/max*100}%;background:${color(c.party)}" title="${esc(c.name)}: ${money.format(c.spend_mid)}"></span>`).join('');
+  const names=r.candidates.map(c=>`<span>${esc(c.name.split(' ').slice(-1)[0])} ${c.tracked?compact.format(c.spend_mid):'—'}</span>`).join('');
+  const tracked=r.candidates.filter(c=>c.tracked).length;
+  return `<div class="race" id="r-${esc(r.id)}"><button aria-expanded="false"><span class="rname">${esc(r.label)}<small>${CH[r.chamber]} · held by ${esc(r.held_by)}</small></span><span class="stackwrap"><div class="stack">${segs}</div><div class="stack-names">${names}</div></span><span class="ramt">${tracked?money.format(r.spend_mid):'Pending'}<small>${!tracked?'Pages not yet identified':tracked<r.candidates.length?`${tracked} of ${r.candidates.length} campaigns`:'candidate spend'}</small></span><span class="chev">▶</span></button><div class="detail"></div></div>`}).join('')||'<p class="note">No races in this group.</p>';
+ document.querySelectorAll('.race>button').forEach(b=>b.onclick=()=>{const el=b.parentElement,open=!el.classList.contains('open');el.classList.toggle('open',open);b.setAttribute('aria-expanded',open);if(open&&!el.dataset.drawn){el.querySelector('.detail').innerHTML=detail(data.races.find(r=>'r-'+r.id===el.id));el.dataset.drawn=1}});
+}
+function detail(r){return `<div class="cands">${r.candidates.map(c=>cand(c,r)).join('')}</div>`}
+function cand(c,r){
+ const head=`<p class="tag">${PARTY[c.party]||esc(c.party)}${c.incumbent?' · incumbent':''}</p><h3>${esc(c.name)}</h3>`;
+ if(!c.tracked)return `<article class="cand ${esc(c.party)}">${head}<p class="pending">Campaign Page not yet identified — spend will appear once it is confirmed.</p></article>`;
+ if(!c.ads)return `<article class="cand ${esc(c.party)}">${head}<p class="big">$0</p><p class="pending">No ads delivered from the campaign's Pages since ${shortDate(data.window_start)}.</p></article>`;
+ const ages=Object.entries(c.age).filter(([k])=>k!=='unknown'),amax=Math.max(...ages.map(a=>a[1]),.01);
+ const g=c.gender,gtxt=g&&Object.keys(g).length?`${pct(g.female||0)} women · ${pct(g.male||0)} men`:'—';
+ const wk=c.weekly_est,wmax=Math.max(...wk,1);
+ return `<article class="cand ${esc(c.party)}">${head}<p class="big">${money.format(c.spend_mid)}</p><p class="range">Reported ${money.format(c.spend_lo)}–${money.format(c.spend_hi)}</p>
+ <div class="kv"><span><b>Ads</b>${integer.format(c.ads)} (${integer.format(c.active_ads)} live)</span><span><b>New, 7 days</b>${integer.format(c.new_ads_7d)}</span><span><b>Since ${data.change_since?shortDate(data.change_since):'last run'}</b>${delta(c.spend_change_mid)}</span><span><b>Impressions</b>${compact.format(c.impressions_lo)}–${compact.format(c.impressions_hi)}</span><span><b>Seen in ${esc(r.state)}</b>${c.in_state_share==null?'—':pct(c.in_state_share)}</span><span><b>Audience</b>${gtxt}</span></div>
+ <p class="sub">Estimated weekly spend</p><div class="weeks">${wk.map((v,i)=>`<span style="height:${v/wmax*100}%" title="Week of ${shortDate(data.weeks[i])}: ${money.format(v)}"></span>`).join('')}</div><div class="weeks-axis"><span>${data.weeks.length?shortDate(data.weeks[0]):''}</span><span>${data.weeks.length?shortDate(data.weeks.at(-1)):''}</span></div>
+ ${ages.length?`<p class="sub">Who saw the ads, by age</p>${ages.map(([k,v])=>`<div class="hbar"><span>${esc(k)}</span><div><span style="width:${v/amax*100}%"></span></div><em>${pct(v)}</em></div>`).join('')}`:''}
+ ${c.top_regions.length?`<p class="sub">Where the ads were seen</p>${c.top_regions.map(x=>`<div class="hbar"><span title="${esc(x.region)}">${esc(x.region.length>9?x.region.slice(0,8)+'…':x.region)}</span><div><span style="width:${x.share*100}%"></span></div><em>${pct(x.share)}</em></div>`).join('')}`:''}
+ <p class="sub">Largest ads</p><ul class="ads">${c.top_ads.map(a=>`<li><a href="https://www.facebook.com/ads/library/?id=${encodeURIComponent(a.id)}" target="_blank" rel="noopener">${esc(a.text||'(no text)')}</a><small>${money.format(a.spend_lo)}–${money.format(a.spend_hi)} · from ${a.start?shortDate(a.start):'—'}${a.stop?' to '+shortDate(a.stop):', still running'}</small></li>`).join('')}</ul>
+ <p class="note">Pages: ${c.pages.map(p=>esc(p.name||p.id)).join(', ')}${c.committee?` · Paid for by ${esc(c.committee)}`:''}</p></article>`;
+}
+function drawTop(){
+ const rows=data.top_candidates;
+ document.querySelector('#top').innerHTML=`<table><thead><tr><th>Candidate</th><th class="amount">Spend</th><th class="amount hide-sm">Ads</th><th class="amount">Since ${data.change_since?shortDate(data.change_since):'last run'}</th></tr></thead><tbody>${rows.map(c=>`<tr><td><span class="dot ${esc(c.party)}"></span><strong>${esc(c.name)}</strong><br><small class="note">${esc(c.race_label)}</small></td><td class="amount">${money.format(c.spend_mid)}<br><small class="note">${compact.format(c.spend_lo)}–${compact.format(c.spend_hi)}</small></td><td class="amount hide-sm">${integer.format(c.ads)}</td><td class="amount">${delta(c.spend_change_mid)}</td></tr>`).join('')}</tbody></table>`;
+}
+document.querySelectorAll('#filters button').forEach(b=>b.onclick=()=>{filter=b.dataset.f;document.querySelectorAll('#filters button').forEach(x=>x.classList.toggle('active',x===b));drawRaces()});
+</script></body></html>

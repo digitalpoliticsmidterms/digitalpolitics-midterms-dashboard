@@ -1,0 +1,795 @@
+{
+ "_readme": "Edit this file to change which races and Pages are tracked. page_ids are the Facebook Pages whose ads count as the candidate's own spend. Run `python3 update_races.py discover` to suggest Page IDs for candidates with none; review before adding.",
+ "ratings_source": {
+  "name": "Cook Political Report",
+  "rating": "Toss Up",
+  "as_of": {
+   "senate": "2026-09-23",
+   "governor": "2026-09-17",
+   "house": "2026-09-25"
+  },
+  "urls": {
+   "senate": "https://www.cookpolitical.com/ratings/senate-race-ratings",
+   "governor": "https://www.cookpolitical.com/ratings/governor-race-ratings",
+   "house": "https://www.cookpolitical.com/ratings/house-race-ratings"
+  }
+ },
+ "window_start": "2026-06-23",
+ "races": [
+  {
+   "id": "AK-SEN",
+   "chamber": "senate",
+   "state": "Alaska",
+   "label": "Alaska Senate",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Dan Sullivan",
+     "party": "R",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Mary Peltola",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": [
+      "106612915352436"
+     ],
+     "committee": "ALASKANS FOR MARY"
+    }
+   ]
+  },
+  {
+   "id": "IA-SEN",
+   "chamber": "senate",
+   "state": "Iowa",
+   "label": "Iowa Senate",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Ashley Hinson",
+     "party": "R",
+     "incumbent": false,
+     "page_ids": []
+    },
+    {
+     "name": "Josh Turek",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": [
+      "107572881870115"
+     ],
+     "committee": "Josh Turek for Iowa"
+    }
+   ]
+  },
+  {
+   "id": "ME-SEN",
+   "chamber": "senate",
+   "state": "Maine",
+   "label": "Maine Senate",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Susan Collins",
+     "party": "R",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Troy Jackson",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": [
+      "410726399046796"
+     ],
+     "committee": "Troy Jackson for Maine"
+    }
+   ]
+  },
+  {
+   "id": "MI-SEN",
+   "chamber": "senate",
+   "state": "Michigan",
+   "label": "Michigan Senate",
+   "held_by": "D",
+   "candidates": [
+    {
+     "name": "Mike Rogers",
+     "party": "R",
+     "incumbent": false,
+     "page_ids": []
+    },
+    {
+     "name": "Abdul El-Sayed",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": [
+      "174371409720577"
+     ],
+     "committee": "Abdul for U.S. Senate"
+    }
+   ]
+  },
+  {
+   "id": "NH-SEN",
+   "chamber": "senate",
+   "state": "New Hampshire",
+   "label": "New Hampshire Senate",
+   "held_by": "D",
+   "candidates": [
+    {
+     "name": "John E. Sununu",
+     "party": "R",
+     "incumbent": false,
+     "page_ids": []
+    },
+    {
+     "name": "Chris Pappas",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": [
+      "154510321337994"
+     ],
+     "committee": "Chris Pappas for Senate"
+    }
+   ]
+  },
+  {
+   "id": "OH-SEN",
+   "chamber": "senate",
+   "state": "Ohio",
+   "label": "Ohio Senate",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Jon Husted",
+     "party": "R",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Sherrod Brown",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": [
+      "6266829799"
+     ],
+     "committee": "Friends of Sherrod Brown"
+    }
+   ]
+  },
+  {
+   "id": "TX-SEN",
+   "chamber": "senate",
+   "state": "Texas",
+   "label": "Texas Senate",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Ken Paxton",
+     "party": "R",
+     "incumbent": false,
+     "page_ids": []
+    },
+    {
+     "name": "James Talarico",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": [
+      "1626884974030414",
+      "717869048073637"
+     ],
+     "committee": "TALARICO FOR TEXAS"
+    }
+   ]
+  },
+  {
+   "id": "AK-GOV",
+   "chamber": "governor",
+   "state": "Alaska",
+   "label": "Alaska Governor",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Jonathan Kreiss-Tomkins",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    },
+    {
+     "name": "Bernadette Wilson",
+     "party": "R",
+     "incumbent": false,
+     "page_ids": []
+    },
+    {
+     "name": "Dave Bronson",
+     "party": "R",
+     "incumbent": false,
+     "page_ids": []
+    },
+    {
+     "name": "Treg Taylor",
+     "party": "R",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "GA-GOV",
+   "chamber": "governor",
+   "state": "Georgia",
+   "label": "Georgia Governor",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Rick Jackson",
+     "party": "R",
+     "incumbent": false,
+     "page_ids": [
+      "956778190860716"
+     ],
+     "committee": "Jackson for Governor, Inc."
+    },
+    {
+     "name": "Keisha Lance Bottoms",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "NV-GOV",
+   "chamber": "governor",
+   "state": "Nevada",
+   "label": "Nevada Governor",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Joe Lombardo",
+     "party": "R",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Aaron Ford",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "OH-GOV",
+   "chamber": "governor",
+   "state": "Ohio",
+   "label": "Ohio Governor",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Vivek Ramaswamy",
+     "party": "R",
+     "incumbent": false,
+     "page_ids": [
+      "570953166908066"
+     ],
+     "committee": "Vivek Ramaswamy and Rob McColley for Ohio"
+    },
+    {
+     "name": "Amy Acton",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": [
+      "558219887366326"
+     ],
+     "committee": "Ohioans for Amy Acton"
+    }
+   ]
+  },
+  {
+   "id": "WI-GOV",
+   "chamber": "governor",
+   "state": "Wisconsin",
+   "label": "Wisconsin Governor",
+   "held_by": "D",
+   "candidates": [
+    {
+     "name": "Tom Tiffany",
+     "party": "R",
+     "incumbent": false,
+     "page_ids": [
+      "111025563615171"
+     ],
+     "committee": "Tiffany for Wisconsin"
+    },
+    {
+     "name": "David Crowley",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "AZ-06",
+   "chamber": "house",
+   "state": "Arizona",
+   "label": "AZ-06",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Juan Ciscomani",
+     "party": "R",
+     "incumbent": true,
+     "page_ids": [
+      "26165067250"
+     ],
+     "committee": "CISCOMANI FOR CONGRESS"
+    },
+    {
+     "name": "JoAnna Mendoza",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": [
+      "113010733380135"
+     ],
+     "committee": "MENDOZA FOR CONGRESS"
+    }
+   ]
+  },
+  {
+   "id": "CA-22",
+   "chamber": "house",
+   "state": "California",
+   "label": "CA-22",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "David Valadao",
+     "party": "R",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Randy Villegas",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "CO-08",
+   "chamber": "house",
+   "state": "Colorado",
+   "label": "CO-08",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Gabe Evans",
+     "party": "R",
+     "incumbent": true,
+     "page_ids": [
+      "105340938671825"
+     ],
+     "committee": "ELECTGABEEVANS.COM"
+    },
+    {
+     "name": "Manny Rutinel",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": [
+      "108108679019373"
+     ],
+     "committee": "MANNY RUTINEL FOR CONGRESS"
+    }
+   ]
+  },
+  {
+   "id": "FL-14",
+   "chamber": "house",
+   "state": "Florida",
+   "label": "FL-14",
+   "held_by": "D",
+   "candidates": [
+    {
+     "name": "Kathy Castor",
+     "party": "D",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Mike Beltran",
+     "party": "R",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "FL-22",
+   "chamber": "house",
+   "state": "Florida",
+   "label": "FL-22",
+   "held_by": "D",
+   "candidates": [
+    {
+     "name": "Pia Dandiya",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    },
+    {
+     "name": "Casey Askar",
+     "party": "R",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "FL-25",
+   "chamber": "house",
+   "state": "Florida",
+   "label": "FL-25",
+   "held_by": "D",
+   "candidates": [
+    {
+     "name": "Jared Moskowitz",
+     "party": "D",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Scott Singer",
+     "party": "R",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "IA-01",
+   "chamber": "house",
+   "state": "Iowa",
+   "label": "IA-01",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Mariannette Miller-Meeks",
+     "party": "R",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Christina Bohannan",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "IA-03",
+   "chamber": "house",
+   "state": "Iowa",
+   "label": "IA-03",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Zach Nunn",
+     "party": "R",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Sarah Trone Garriott",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "MI-07",
+   "chamber": "house",
+   "state": "Michigan",
+   "label": "MI-07",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Tom Barrett",
+     "party": "R",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "William Lawrence",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "MI-10",
+   "chamber": "house",
+   "state": "Michigan",
+   "label": "MI-10",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Michael Bouchard",
+     "party": "R",
+     "incumbent": false,
+     "page_ids": []
+    },
+    {
+     "name": "Christina Hines",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "NC-11",
+   "chamber": "house",
+   "state": "North Carolina",
+   "label": "NC-11",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Jennifer Balkcom",
+     "party": "R",
+     "incumbent": false,
+     "page_ids": []
+    },
+    {
+     "name": "Jamie Ager",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "NY-17",
+   "chamber": "house",
+   "state": "New York",
+   "label": "NY-17",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Mike Lawler",
+     "party": "R",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Cait Conley",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "OH-07",
+   "chamber": "house",
+   "state": "Ohio",
+   "label": "OH-07",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Max Miller",
+     "party": "R",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Brian Poindexter",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "OH-09",
+   "chamber": "house",
+   "state": "Ohio",
+   "label": "OH-09",
+   "held_by": "D",
+   "candidates": [
+    {
+     "name": "Marcy Kaptur",
+     "party": "D",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Derek Merrin",
+     "party": "R",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "PA-07",
+   "chamber": "house",
+   "state": "Pennsylvania",
+   "label": "PA-07",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Ryan Mackenzie",
+     "party": "R",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Bob Brooks",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "PA-08",
+   "chamber": "house",
+   "state": "Pennsylvania",
+   "label": "PA-08",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Rob Bresnahan",
+     "party": "R",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Paige Cognetti",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "PA-10",
+   "chamber": "house",
+   "state": "Pennsylvania",
+   "label": "PA-10",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Scott Perry",
+     "party": "R",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Janelle Stelson",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "TX-15",
+   "chamber": "house",
+   "state": "Texas",
+   "label": "TX-15",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Monica De La Cruz",
+     "party": "R",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Bobby Pulido",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "TX-34",
+   "chamber": "house",
+   "state": "Texas",
+   "label": "TX-34",
+   "held_by": "D",
+   "candidates": [
+    {
+     "name": "Vicente Gonzalez",
+     "party": "D",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Eric Flores",
+     "party": "R",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "VA-02",
+   "chamber": "house",
+   "state": "Virginia",
+   "label": "VA-02",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Jen Kiggans",
+     "party": "R",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Elaine Luria",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "WA-03",
+   "chamber": "house",
+   "state": "Washington",
+   "label": "WA-03",
+   "held_by": "D",
+   "candidates": [
+    {
+     "name": "Marie Gluesenkamp Perez",
+     "party": "D",
+     "incumbent": true,
+     "page_ids": [
+      "106540378626808"
+     ],
+     "committee": "MARIE FOR CONGRESS"
+    },
+    {
+     "name": "John Braun",
+     "party": "R",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  },
+  {
+   "id": "WI-03",
+   "chamber": "house",
+   "state": "Wisconsin",
+   "label": "WI-03",
+   "held_by": "R",
+   "candidates": [
+    {
+     "name": "Derrick Van Orden",
+     "party": "R",
+     "incumbent": true,
+     "page_ids": []
+    },
+    {
+     "name": "Rebecca Cooke",
+     "party": "D",
+     "incumbent": false,
+     "page_ids": []
+    }
+   ]
+  }
+ ]
+}
