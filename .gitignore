@@ -1,2 +1,5 @@
 pipeline/discovered_pages.json
 __pycache__/
+data/private/race_watch/
+classifications/candidate_page_review_queue.csv
+site/race-watch.json
