@@ -8,9 +8,10 @@ cd "$REPO"
 echo "== $(date '+%Y-%m-%d %H:%M') toss-up races update"
 
 git pull --rebase --autostash -q
+python3 pipeline/ensure_tabs.py   # nationwide job can regenerate index.html without the tab bar
 python3 pipeline/update_races.py
 
-git add docs/races.json
+git add docs/races.json docs/index.html
 if git diff --cached --quiet; then
   echo "No change to publish."
   exit 0
