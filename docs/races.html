@@ -36,14 +36,14 @@ footer{padding:24px;border-top:1px solid var(--line);color:var(--muted);font-siz
 @media(max-width:560px){.hide-sm{display:none}main{padding:16px 16px 50px}.metrics{grid-template-columns:1fr}.tabs a{padding:9px 10px;font-size:13px}}
 </style></head><body><main>
 <nav class="tabs" aria-label="Tracker sections"><a href="index.html">Nationwide</a><a href="races.html" class="active" aria-current="page">Toss-up races</a></nav>
-<section class="intro"><h1>The toss-up races: what the candidates themselves are spending</h1><p class="dek">Facebook and Instagram ad spending by the nominees' own campaign Pages in every Senate, governor and House race the Cook Political Report rates a Toss Up. Outside groups and super PACs are excluded.</p><p id="updated" class="updated"></p></section>
+<section class="intro"><h1>The Toss-Up Races</h1><p class="dek">The figures below include Facebook and Instagram combined ad spending by the nominees' own campaign pages in every US Senate, Governor and House of Representatives race that the Cook Political Report rates a “Toss Up.” Outside groups and super PACs are excluded.</p><p class="dek" style="margin-top:12px">Click on each Toss-Up race for a granular view of how each candidate is using Meta’s platforms to reach would-be supporters.</p><p id="updated" class="updated"></p></section>
 <section id="metrics" class="metrics"></section>
-<section class="panel"><div class="section-head"><div><p class="eyebrow">By race</p><h2>Where the campaigns are spending</h2></div><p class="note">Midpoint of Meta's reported spend ranges. Select a race for candidate detail, audiences and top ads.</p></div>
+<section class="panel"><div class="section-head"><div><p class="eyebrow">By Race</p><h2>Who's spending in the toss-up races?</h2></div><p class="note">Midpoint of Meta's reported spend ranges. Select a race for candidate detail, audiences and top ads.</p></div>
 <div class="controls" id="filters"><button data-f="all" class="active">All races</button><button data-f="senate">Senate</button><button data-f="governor">Governor</button><button data-f="house">House</button></div>
 <div class="legend"><span><i style="background:var(--dem)"></i>Democrat</span><span><i style="background:var(--rep)"></i>Republican</span><span><i style="background:var(--oth)"></i>Other</span></div>
 <div id="races"></div></section>
 <section class="panel"><p class="eyebrow">Candidates</p><h2>Biggest spenders</h2><div id="top"></div></section>
-<section class="panel method"><p class="eyebrow">Methodology</p><h2>How this tab is built</h2><p id="methodology"></p><p id="sources" class="note"></p></section>
+<section class="panel method"><p class="eyebrow">Methodology</p><h2>How this tab is built</h2><div id="methodology"></div><p id="sources" class="note"></p></section>
 </main><footer>Source: Meta Ad Library API; race ratings from the Cook Political Report. Raw API responses are retained privately and are not distributed through this page.</footer>
 <script>
 const money=new Intl.NumberFormat('en-US',{style:'currency',currency:'USD',maximumFractionDigits:0}),integer=new Intl.NumberFormat('en-US'),compact=new Intl.NumberFormat('en-US',{notation:'compact',maximumFractionDigits:1});
@@ -60,12 +60,12 @@ function render(){
  const dShare=s.spend_mid?(s.by_party.D||0)/s.spend_mid:0,rShare=s.spend_mid?(s.by_party.R||0)/s.spend_mid:0;
  document.querySelector('#metrics').innerHTML=[
   ['Candidate ad spend',money.format(s.spend_mid),`Reported range ${compact.format(s.spend_lo)}–${compact.format(s.spend_hi)} USD`],
-  ['Ads run',integer.format(s.ads),`${integer.format(s.active_ads)} still delivering`],
+  ['Total Ads Run',integer.format(s.ads),`${integer.format(s.active_ads)} still delivering`],
   ['Party split',`${pct(dShare)} D · ${pct(rShare)} R`,'Share of tracked candidate spend'],
   ['Races tracked',`${s.races}`,`${s.candidates_tracked} of ${s.candidates} nominees' Pages identified`]
  ].map(x=>`<article class="metric"><p class="eyebrow">${x[0]}</p><strong>${x[1]}</strong><small>${x[2]}</small></article>`).join('');
  drawRaces();drawTop();
- document.querySelector('#methodology').textContent=data.methodology;
+ document.querySelector('#methodology').innerHTML=data.methodology.split('\n\n').map(p=>`<p>${esc(p)}</p>`).join('');
  const r=data.ratings_source;document.querySelector('#sources').innerHTML=`Race list: ${esc(r.name)} “${esc(r.rating)}” ratings — <a href="${esc(r.urls.senate)}">Senate</a> (${shortDate(r.as_of.senate)}), <a href="${esc(r.urls.governor)}">governor</a> (${shortDate(r.as_of.governor)}), <a href="${esc(r.urls.house)}">House</a> (${shortDate(r.as_of.house)}). Nominees confirmed from post-primary news coverage.${data.untracked.length?` Pages not yet identified for: ${data.untracked.map(u=>esc(u.name)+' ('+esc(u.race)+')').join(', ')}.`:''}`;
 }
 function drawRaces(){
@@ -81,6 +81,7 @@ function detail(r){return `<div class="cands">${r.candidates.map(c=>cand(c,r)).j
 function cand(c,r){
  const head=`<p class="tag">${PARTY[c.party]||esc(c.party)}${c.incumbent?' · incumbent':''}</p><h3>${esc(c.name)}</h3>`;
  if(!c.tracked)return `<article class="cand ${esc(c.party)}">${head}<p class="pending">Campaign Page not yet identified — spend will appear once it is confirmed.</p></article>`;
+ if(c.no_meta_ads&&!c.ads)return `<article class="cand ${esc(c.party)}">${head}<p class="big">$0</p><p class="pending">No ads from the campaign found in Meta's Ad Library (checked ${shortDate(c.no_meta_ads)}).</p></article>`;
  if(!c.ads)return `<article class="cand ${esc(c.party)}">${head}<p class="big">$0</p><p class="pending">No ads delivered from the campaign's Pages since ${shortDate(data.window_start)}.</p></article>`;
  const ages=Object.entries(c.age).filter(([k])=>k!=='unknown'),amax=Math.max(...ages.map(a=>a[1]),.01);
  const g=c.gender,gtxt=g&&Object.keys(g).length?`${pct(g.female||0)} women · ${pct(g.male||0)} men`:'—';

@@ -27,7 +27,10 @@
      "name": "Dan Sullivan",
      "party": "R",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "698400060189827"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Mary Peltola",
@@ -51,7 +54,10 @@
      "name": "Ashley Hinson",
      "party": "R",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "894096170667732"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Josh Turek",
@@ -75,7 +81,10 @@
      "name": "Susan Collins",
      "party": "R",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "419237048158257"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Troy Jackson",
@@ -99,7 +108,10 @@
      "name": "Mike Rogers",
      "party": "R",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "168209963203416"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Abdul El-Sayed",
@@ -123,7 +135,9 @@
      "name": "John E. Sununu",
      "party": "R",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "835450049650805"
+     ]
     },
     {
      "name": "Chris Pappas",
@@ -147,7 +161,10 @@
      "name": "Jon Husted",
      "party": "R",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "532869779919546"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Sherrod Brown",
@@ -171,7 +188,10 @@
      "name": "Ken Paxton",
      "party": "R",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "123488374379680"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "James Talarico",
@@ -196,25 +216,36 @@
      "name": "Jonathan Kreiss-Tomkins",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "380102508715305"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Bernadette Wilson",
      "party": "R",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "680981865095468"
+     ]
     },
     {
      "name": "Dave Bronson",
      "party": "R",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "106891274473626"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Treg Taylor",
      "party": "R",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "667515239788473"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -238,7 +269,10 @@
      "name": "Keisha Lance Bottoms",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "350392855125476"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -253,13 +287,20 @@
      "name": "Joe Lombardo",
      "party": "R",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "1023107550882060",
+      "103890201865069"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Aaron Ford",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "192134324794"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -310,7 +351,10 @@
      "name": "David Crowley",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "984307011580765"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -352,13 +396,19 @@
      "name": "David Valadao",
      "party": "R",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "106005029501370"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Randy Villegas",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "104647279008516"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -400,13 +450,19 @@
      "name": "Kathy Castor",
      "party": "D",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "6888315697"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Mike Beltran",
      "party": "R",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "203075650524021"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -421,13 +477,18 @@
      "name": "Pia Dandiya",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "713118621877963"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Casey Askar",
      "party": "R",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "100669208248416"
+     ]
     }
    ]
   },
@@ -442,13 +503,19 @@
      "name": "Jared Moskowitz",
      "party": "D",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "107045481930055"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Scott Singer",
      "party": "R",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "1095097930347173"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -463,13 +530,18 @@
      "name": "Mariannette Miller-Meeks",
      "party": "R",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "1802584223384451"
+     ]
     },
     {
      "name": "Christina Bohannan",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "103510721077820"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -484,13 +556,20 @@
      "name": "Zach Nunn",
      "party": "R",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "102079292151917",
+      "1273708509162372"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Sarah Trone Garriott",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "866694087004978"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -505,13 +584,19 @@
      "name": "Tom Barrett",
      "party": "R",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "110574748749811"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "William Lawrence",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "789970980865606"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -526,13 +611,19 @@
      "name": "Michael Bouchard",
      "party": "R",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "834381463097947"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Christina Hines",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "117226691348617"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -547,13 +638,19 @@
      "name": "Jennifer Balkcom",
      "party": "R",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "113130424612096"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Jamie Ager",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "640691509138877"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -568,13 +665,19 @@
      "name": "Mike Lawler",
      "party": "R",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "106681674265863"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Cait Conley",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "634546263068362"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -589,13 +692,19 @@
      "name": "Max Miller",
      "party": "R",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "112703604191380"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Brian Poindexter",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "892023583998038"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -610,13 +719,19 @@
      "name": "Marcy Kaptur",
      "party": "D",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "6225522279"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Derek Merrin",
      "party": "R",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "393406704189185"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -631,13 +746,19 @@
      "name": "Ryan Mackenzie",
      "party": "R",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "303862472995397"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Bob Brooks",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "786848854506481"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -652,13 +773,19 @@
      "name": "Rob Bresnahan",
      "party": "R",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "170252986167427"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Paige Cognetti",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "773615949169303"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -673,13 +800,19 @@
      "name": "Scott Perry",
      "party": "R",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "184104508356643"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Janelle Stelson",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "128203077047916"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -694,13 +827,19 @@
      "name": "Monica De La Cruz",
      "party": "R",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "125845052150716"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Bobby Pulido",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "786961347824848"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -715,13 +854,19 @@
      "name": "Vicente Gonzalez",
      "party": "D",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "206690159663661"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Eric Flores",
      "party": "R",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "696687840200359"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -736,13 +881,19 @@
      "name": "Jen Kiggans",
      "party": "R",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "674093346356017"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Elaine Luria",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "1989932301306579"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -766,7 +917,10 @@
      "name": "John Braun",
      "party": "R",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "284694101621757"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   },
@@ -781,13 +935,19 @@
      "name": "Derrick Van Orden",
      "party": "R",
      "incumbent": true,
-     "page_ids": []
+     "page_ids": [
+      "104099074492299"
+     ],
+     "page_ids_source": "discover, reviewed"
     },
     {
      "name": "Rebecca Cooke",
      "party": "D",
      "incumbent": false,
-     "page_ids": []
+     "page_ids": [
+      "291391109320335"
+     ],
+     "page_ids_source": "discover, reviewed"
     }
    ]
   }

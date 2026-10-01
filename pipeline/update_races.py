@@ -52,6 +52,12 @@ US_STATES = {"Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado
              "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"}
 
 
+METHODOLOGY = [
+    "Digital Politics selected every race the Cook Political Report rated a Toss Up for Senate, Governor and House, and then identified each nominee's own Facebook Pages (Pages whose ads carried the candidate committee's 'Paid for by' disclaimer). Super PACs, parties and outside groups were excluded, including Pages set up to attack a candidate.",
+    "Each day the tracker queries Meta's Ad Library API for every political ad those Pages delivered in the United States since {date}. Meta reports spend and impressions as ranges for each ad's lifetime, so totals are shown as ranges with a midpoint estimate. Ads that began before the window may include earlier spending. Weekly figures are estimates that spread each ad's reported spend evenly across its delivery dates. Audience shares are weighted by estimated impressions and describe who saw the ads, not who the campaign targeted.",
+    'Raw API responses are retained privately.',
+]
+
 # ---------------------------------------------------------------- API access
 def get_token():
     tok = os.environ.get("FB_ACCESS_TOKEN")
@@ -303,7 +309,7 @@ def build(cfg, ads, run_date, previous):
             p = prev.get(k)
             cands.append({
                 "name": cand["name"], "party": cand["party"], "incumbent": cand.get("incumbent", False),
-                "tracked": bool(cand["page_ids"]), "pages": [{"id": pid, "name": a["pages"].get(str(pid), "")} for pid in cand["page_ids"]],
+                "tracked": bool(cand["page_ids"]) or bool(cand.get("no_meta_ads")), "no_meta_ads": cand.get("no_meta_ads"), "pages": [{"id": pid, "name": a["pages"].get(str(pid), "")} for pid in cand["page_ids"]],
                 "committee": max(a["bylines"], key=a["bylines"].get) if a["bylines"] else cand.get("committee"),
                 "ads": a["ads"], "active_ads": a["active"], "new_ads_7d": a["new_7d"],
                 "spend_lo": round(a["lo"]), "spend_hi": round(a["hi"]), "spend_mid": round(mid),
@@ -361,16 +367,7 @@ def build(cfg, ads, run_date, previous):
         "untracked": [{"name": c["name"], "race": c["race"]} for c in all_c if not c["tracked"]],
         "races": races_out,
         "history": history[-120:],
-        "methodology": (
-            "Digital Politics selects every race the Cook Political Report rates a Toss Up for Senate, governor and "
-            "House, and identifies each nominee's own Facebook Pages (Pages whose ads carry the candidate committee's "
-            "'Paid for by' disclaimer). Super PACs, parties and outside groups are excluded, including Pages set up to "
-            "attack a candidate. Each day the tracker queries Meta's Ad Library API for every political ad those Pages "
-            f"delivered in the United States since {cfg['window_start']}. Meta reports spend and impressions as ranges for "
-            "each ad's lifetime, so totals are shown as ranges with a midpoint estimate, and ads that began before the "
-            "window may include earlier spending. Weekly figures are estimates that spread each ad's reported spend evenly "
-            "across its delivery dates. Audience shares are weighted by estimated impressions and describe who saw the ads, "
-            "not who the campaign targeted. Raw API responses are retained privately."),
+        "methodology": "\n\n".join(p.format(date=f"{w:%B} {w.day}, {w.year}") for w in [dt.date.fromisoformat(cfg["window_start"])] for p in METHODOLOGY),
     }
 
 
