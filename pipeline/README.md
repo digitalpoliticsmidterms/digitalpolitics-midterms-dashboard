@@ -4,13 +4,42 @@ Builds `docs/races.json`, which powers `docs/races.html` (the "Toss-up races" ta
 
 **What it tracks:** every race the Cook Political Report rates *Toss Up* — 7 Senate (Sep 23), 5 governor (Sep 17), 22 House (Sep 25) — and only ads from each nominee's own campaign Pages. Parties, super PACs and attack Pages (e.g. "The Truth About Josh Turek", paid for by SLF PAC) are not counted.
 
+**Google layer:** the same candidate-only boundary applies. Google advertiser accounts are never inferred in the published tracker: add only a reviewed official campaign account ID in the candidate's `google_advertiser_ids` array in `races_config.json`. The collector takes a daily snapshot of Google's public cumulative US political-ad table, then derives the change from the prior snapshot.
+
 **Files**
 - `races_config.json` — races, nominees, and each candidate's Page IDs. This is the file you edit.
 - `update_races.py` — pulls `ads_archive` for those Pages and writes `docs/races.json`.
 - `run_races_update.sh` — pull → update → commit → push. This is what the schedule runs.
+- `collect_google_ads.py` — optional public-BigQuery collector for nationwide Google data and reviewed candidate campaign accounts.
 - `co.digitalpolitics.races.plist` — macOS launchd schedule (daily 08:55, after the nationwide run).
 
 ## One-time setup
+
+### Optional: Google political-ad layer
+
+1. Create a small Google Cloud project with BigQuery enabled. Public-dataset storage is free; Google bills only for queries, and the first 1 TB/month is free. Install the command-line tool and authenticate on the machine running launchd:
+   ```
+   brew install --cask google-cloud-sdk
+   gcloud auth application-default login
+   ```
+2. Save the project ID locally (this file is ignored by Git):
+   ```
+   printf '%s\n' 'YOUR_PROJECT_ID' > pipeline/.google_cloud_project
+   ```
+3. Generate review suggestions, then verify every result in Google's Ads Transparency Center before copying IDs into `races_config.json`:
+   ```
+   python3 pipeline/collect_google_ads.py --discover
+   open pipeline/google_advertiser_review.json
+   ```
+   Use this form for a reviewed match:
+   ```json
+   "google_advertiser_ids": ["AR01234567890123456789"]
+   ```
+4. Run a first collection:
+   ```
+   python3 pipeline/collect_google_ads.py
+   ```
+   `scripts/run_daily_pipeline.sh` will then collect Google automatically before rebuilding the nationwide page. The race job reads the resulting `site/google_data.json` and displays verified candidate Google spend alongside Meta, without combining the two sources.
 
 1. **Long-lived token.** Graph Explorer tokens expire within hours. Exchange one for a 60-day token (Graph Explorer → "i" icon next to the token → *Open in Access Token Tool* → *Extend Access Token*). Save it in your Keychain, not in a file:
    ```

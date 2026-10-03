@@ -3,3 +3,6 @@ __pycache__/
 data/private/race_watch/
 classifications/candidate_page_review_queue.csv
 site/race-watch.json
+pipeline/google_advertiser_review.json
+pipeline/.google_cloud_project
+data/private/google_ads/

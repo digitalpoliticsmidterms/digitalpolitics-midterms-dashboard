@@ -8,11 +8,20 @@ cd "$ROOT"
 META_REPORT_DIR="$ROOT/data/raw" \
 node "$ROOT/scripts/download_meta_daily_report.mjs"
 
+# Optional Google layer. It activates once pipeline/.google_cloud_project has
+# been created during the one-time BigQuery setup.
+if [[ -n "${GOOGLE_CLOUD_PROJECT:-}" || -f "$ROOT/pipeline/.google_cloud_project" ]]; then
+  python3 "$ROOT/pipeline/collect_google_ads.py"
+else
+  echo "Google political-ad collection not configured; skipping."
+fi
+
 python3 scripts/build_dashboard.py
 python3 scripts/send_review_email.py
 
 cp -R site/. docs/
 python3 pipeline/ensure_tabs.py
+python3 pipeline/ensure_google_panel.py
 
 git add docs
 

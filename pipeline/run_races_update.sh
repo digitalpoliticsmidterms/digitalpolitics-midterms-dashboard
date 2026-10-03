@@ -9,9 +9,18 @@ echo "== $(date '+%Y-%m-%d %H:%M') toss-up races update"
 
 git pull --rebase --autostash -q
 python3 pipeline/ensure_tabs.py   # nationwide job can regenerate index.html without the tab bar
-python3 pipeline/update_races.py
+python3 pipeline/ensure_google_panel.py
+GOOGLE_ARGS=()
+if [[ -f site/google_data.json ]]; then
+  GOOGLE_ARGS=(--google-data site/google_data.json)
+  cp site/google_data.json docs/google_data.json
+fi
+python3 pipeline/update_races.py "${GOOGLE_ARGS[@]}"
 
 git add docs/races.json docs/index.html
+if [[ -f docs/google_data.json ]]; then
+  git add docs/google_data.json
+fi
 if git diff --cached --quiet; then
   echo "No change to publish."
   exit 0

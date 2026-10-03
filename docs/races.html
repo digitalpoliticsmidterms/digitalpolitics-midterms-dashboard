@@ -36,7 +36,7 @@ footer{padding:24px;border-top:1px solid var(--line);color:var(--muted);font-siz
 @media(max-width:560px){.hide-sm{display:none}main{padding:16px 16px 50px}.metrics{grid-template-columns:1fr}.tabs a{padding:9px 10px;font-size:13px}}
 </style></head><body><main>
 <nav class="tabs" aria-label="Tracker sections"><a href="index.html">Nationwide</a><a href="races.html" class="active" aria-current="page">Toss-up races</a></nav>
-<section class="intro"><h1>The Toss-Up Races</h1><p class="dek">The figures below include Facebook and Instagram combined ad spending by the nominees' own campaign pages in every US Senate, Governor and House of Representatives race that the Cook Political Report rates a “Toss Up.” Outside groups and super PACs are excluded.</p><p class="dek" style="margin-top:12px">Click on each Toss-Up race for a granular view of how each candidate is using Meta’s platforms to reach would-be supporters.</p><p id="updated" class="updated"></p></section>
+<section class="intro"><h1>The Toss-Up Races</h1><p class="dek">The figures below include Facebook and Instagram combined ad spending by the nominees' own campaign pages in every US Senate, Governor and House of Representatives race that the Cook Political Report rates a “Toss Up.” Outside groups and super PACs are excluded.</p><p class="dek" style="margin-top:12px">Candidate cards also show Google political-ad spend where an official campaign advertiser account has been manually verified. Google and Meta figures remain separate.</p><p id="updated" class="updated"></p></section>
 <section id="metrics" class="metrics"></section>
 <section class="panel"><div class="section-head"><div><p class="eyebrow">By Race</p><h2>Who's spending in the toss-up races?</h2></div><p class="note">Midpoint of Meta's reported spend ranges. Select a race for candidate detail, audiences and top ads.</p></div>
 <div class="controls" id="filters"><button data-f="all" class="active">All races</button><button data-f="senate">Senate</button><button data-f="governor">Governor</button><button data-f="house">House</button></div>
@@ -57,12 +57,13 @@ fetch('races.json').then(r=>r.json()).then(d=>{data=d;render()}).catch(()=>{docu
 function render(){
  const s=data.summary;
  document.querySelector('#updated').innerHTML=`<strong>Updated ${fullDate(data.updated)}</strong> — ads delivered since ${fullDate(data.window_start)}${data.change_since?`; changes compare with ${shortDate(data.change_since)}`:''}.`;
- const dShare=s.spend_mid?(s.by_party.D||0)/s.spend_mid:0,rShare=s.spend_mid?(s.by_party.R||0)/s.spend_mid:0;
+ const dShare=s.spend_mid?(s.by_party.D||0)/s.spend_mid:0,rShare=s.spend_mid?(s.by_party.R||0)/s.spend_mid:0,gSpend=s.google_spend_usd||0,gTracked=s.google_candidates_tracked||0;
  document.querySelector('#metrics').innerHTML=[
   ['Candidate ad spend',money.format(s.spend_mid),`Reported range ${compact.format(s.spend_lo)}–${compact.format(s.spend_hi)} USD`],
+  ['Google campaign spend',money.format(gSpend),`${gTracked} of ${s.candidates} campaigns manually matched`],
   ['Total Ads Run',integer.format(s.ads),`${integer.format(s.active_ads)} still delivering`],
-  ['Party split',`${pct(dShare)} D · ${pct(rShare)} R`,'Share of tracked candidate spend'],
-  ['Races tracked',`${s.races}`,`${s.candidates_tracked} of ${s.candidates} nominees' Pages identified`]
+  ['Party split',`${pct(dShare)} D · ${pct(rShare)} R`,'Share of Meta tracked candidate spend'],
+  ['Races tracked',`${s.races}`,`${s.candidates_tracked} of ${s.candidates} nominees\' Pages identified`]
  ].map(x=>`<article class="metric"><p class="eyebrow">${x[0]}</p><strong>${x[1]}</strong><small>${x[2]}</small></article>`).join('');
  drawRaces();drawTop();
  document.querySelector('#methodology').innerHTML=data.methodology.split('\n\n').map(p=>`<p>${esc(p)}</p>`).join('');
@@ -74,7 +75,7 @@ function drawRaces(){
   const segs=r.candidates.filter(c=>c.spend_mid>0).map(c=>`<span style="width:${c.spend_mid/max*100}%;background:${color(c.party)}" title="${esc(c.name)}: ${money.format(c.spend_mid)}"></span>`).join('');
   const names=r.candidates.map(c=>`<span>${esc(c.name.split(' ').slice(-1)[0])} ${c.tracked?compact.format(c.spend_mid):'—'}</span>`).join('');
   const tracked=r.candidates.filter(c=>c.tracked).length;
-  return `<div class="race" id="r-${esc(r.id)}"><button aria-expanded="false"><span class="rname">${esc(r.label)}<small>${CH[r.chamber]} · held by ${esc(r.held_by)}</small></span><span class="stackwrap"><div class="stack">${segs}</div><div class="stack-names">${names}</div></span><span class="ramt">${tracked?money.format(r.spend_mid):'Pending'}<small>${!tracked?'Pages not yet identified':tracked<r.candidates.length?`${tracked} of ${r.candidates.length} campaigns`:'candidate spend'}</small></span><span class="chev">▶</span></button><div class="detail"></div></div>`}).join('')||'<p class="note">No races in this group.</p>';
+  return `<div class="race" id="r-${esc(r.id)}"><button aria-expanded="false"><span class="rname">${esc(r.label)}<small>${CH[r.chamber]} · held by ${esc(r.held_by)}</small></span><span class="stackwrap"><div class="stack">${segs}</div><div class="stack-names">${names}</div></span><span class="ramt">${tracked?money.format(r.spend_mid):'Pending'}<small>${!tracked?'Pages not yet identified':tracked<r.candidates.length?`${tracked} of ${r.candidates.length} campaigns`:'Meta candidate spend'}${r.google_spend_usd?` · Google ${compact.format(r.google_spend_usd)}`:''}</small></span><span class="chev">▶</span></button><div class="detail"></div></div>`}).join('')||'<p class="note">No races in this group.</p>';
  document.querySelectorAll('.race>button').forEach(b=>b.onclick=()=>{const el=b.parentElement,open=!el.classList.contains('open');el.classList.toggle('open',open);b.setAttribute('aria-expanded',open);if(open&&!el.dataset.drawn){el.querySelector('.detail').innerHTML=detail(data.races.find(r=>'r-'+r.id===el.id));el.dataset.drawn=1}});
 }
 function detail(r){return `<div class="cands">${r.candidates.map(c=>cand(c,r)).join('')}</div>`}
@@ -82,11 +83,11 @@ function cand(c,r){
  const head=`<p class="tag">${PARTY[c.party]||esc(c.party)}${c.incumbent?' · incumbent':''}</p><h3>${esc(c.name)}</h3>`;
  if(!c.tracked)return `<article class="cand ${esc(c.party)}">${head}<p class="pending">Campaign Page not yet identified — spend will appear once it is confirmed.</p></article>`;
  if(c.no_meta_ads&&!c.ads)return `<article class="cand ${esc(c.party)}">${head}<p class="big">$0</p><p class="pending">No ads from the campaign found in Meta's Ad Library (checked ${shortDate(c.no_meta_ads)}).</p></article>`;
- if(!c.ads)return `<article class="cand ${esc(c.party)}">${head}<p class="big">$0</p><p class="pending">No ads delivered from the campaign's Pages since ${shortDate(data.window_start)}.</p></article>`;
+ if(!c.ads)return `<article class="cand ${esc(c.party)}">${head}<p class="big">$0</p><p class="pending">No ads delivered from the campaign's Pages since ${shortDate(data.window_start)}.</p>${c.google&&c.google.tracked?`<p class="note"><strong>Google campaign spend:</strong> ${money.format(c.google.spend_usd)}</p>`:''}</article>`;
  const ages=Object.entries(c.age).filter(([k])=>k!=='unknown'),amax=Math.max(...ages.map(a=>a[1]),.01);
  const g=c.gender,gtxt=g&&Object.keys(g).length?`${pct(g.female||0)} women · ${pct(g.male||0)} men`:'—';
  const wk=c.weekly_est,wmax=Math.max(...wk,1);
- return `<article class="cand ${esc(c.party)}">${head}<p class="big">${money.format(c.spend_mid)}</p><p class="range">Reported ${money.format(c.spend_lo)}–${money.format(c.spend_hi)}</p>
+ return `<article class="cand ${esc(c.party)}">${head}<p class="big">${money.format(c.spend_mid)}</p><p class="range">Meta reported ${money.format(c.spend_lo)}–${money.format(c.spend_hi)}</p>${c.google&&c.google.tracked?`<p class="note"><strong>Google campaign spend:</strong> ${money.format(c.google.spend_usd)}${c.google.advertisers.length?` · ${c.google.advertisers.map(a=>esc(a.name||a.id)).join(', ')}`:''}</p>`:'<p class="note">Google campaign advertiser not yet verified.</p>'}
  <div class="kv"><span><b>Ads</b>${integer.format(c.ads)} (${integer.format(c.active_ads)} live)</span><span><b>New, 7 days</b>${integer.format(c.new_ads_7d)}</span><span><b>Since ${data.change_since?shortDate(data.change_since):'last run'}</b>${delta(c.spend_change_mid)}</span><span><b>Impressions</b>${compact.format(c.impressions_lo)}–${compact.format(c.impressions_hi)}</span><span><b>Seen in ${esc(r.state)}</b>${c.in_state_share==null?'—':pct(c.in_state_share)}</span><span><b>Audience</b>${gtxt}</span></div>
  <p class="sub">Estimated weekly spend</p><div class="weeks">${wk.map((v,i)=>`<span style="height:${v/wmax*100}%" title="Week of ${shortDate(data.weeks[i])}: ${money.format(v)}"></span>`).join('')}</div><div class="weeks-axis"><span>${data.weeks.length?shortDate(data.weeks[0]):''}</span><span>${data.weeks.length?shortDate(data.weeks.at(-1)):''}</span></div>
  ${ages.length?`<p class="sub">Who saw the ads, by age</p>${ages.map(([k,v])=>`<div class="hbar"><span>${esc(k)}</span><div><span style="width:${v/amax*100}%"></span></div><em>${pct(v)}</em></div>`).join('')}`:''}

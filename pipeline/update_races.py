@@ -214,8 +214,20 @@ def candidate_key(race, cand):
     return f"{race['id']}|{cand['name']}"
 
 
-def build(cfg, ads, run_date, previous):
+def google_candidates(path):
+    """Read only the reviewed candidate-campaign figures prepared by Google collector."""
+    if not path:
+        return {}
+    try:
+        source = json.loads(Path(path).read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as error:
+        raise SystemExit(f"Could not read Google candidate data {path}: {error}")
+    return {row["key"]: row for row in source.get("candidates", [])}
+
+
+def build(cfg, ads, run_date, previous, google_by_candidate=None):
     today = run_date
+    google_by_candidate = google_by_candidate or {}
     window_start = dt.date.fromisoformat(cfg["window_start"])
     page_owner = {}
     for race in cfg["races"]:
@@ -307,6 +319,7 @@ def build(cfg, ads, run_date, previous):
             regions = sorted(((r, v / rw) for r, v in a["region"].items()), key=lambda x: -x[1])
             in_state = sum(v for r, v in regions if r == race["state"]) if a["region_weight"] else None
             p = prev.get(k)
+            google = google_by_candidate.get(k, {})
             cands.append({
                 "name": cand["name"], "party": cand["party"], "incumbent": cand.get("incumbent", False),
                 "tracked": bool(cand["page_ids"]) or bool(cand.get("no_meta_ads")), "no_meta_ads": cand.get("no_meta_ads"), "pages": [{"id": pid, "name": a["pages"].get(str(pid), "")} for pid in cand["page_ids"]],
@@ -324,6 +337,11 @@ def build(cfg, ads, run_date, previous):
                 "platforms": dict(sorted(a["platforms"].items(), key=lambda x: -x[1])),
                 "weekly_est": [round(a["weekly"].get(w, 0)) for w in weeks],
                 "top_ads": [{k2: v for k2, v in t.items() if k2 != "mid"} for t in sorted(a["top"], key=lambda t: -t["mid"])[:5]],
+                "google": {
+                    "tracked": bool(google.get("tracked")),
+                    "spend_usd": int(google.get("spend_usd") or 0),
+                    "advertisers": google.get("matched_advertisers", []),
+                },
             })
         total = sum(c["spend_mid"] for c in cands)
         by_party = defaultdict(int)
@@ -334,6 +352,7 @@ def build(cfg, ads, run_date, previous):
             "held_by": race["held_by"], "rating": "Toss Up",
             "rating_date": cfg["ratings_source"]["as_of"][race["chamber"]],
             "spend_mid": total, "spend_by_party": dict(by_party),
+            "google_spend_usd": sum(c["google"]["spend_usd"] for c in cands),
             "candidates": sorted(cands, key=lambda c: -c["spend_mid"]),
         })
 
@@ -361,6 +380,8 @@ def build(cfg, ads, run_date, previous):
             "ads": sum(c["ads"] for c in all_c), "active_ads": sum(c["active_ads"] for c in all_c),
             "by_chamber": {ch: sum(r["spend_mid"] for r in races_out if r["chamber"] == ch) for ch in ("senate", "governor", "house")},
             "by_party": history[-1]["by_party"],
+            "google_spend_usd": sum(c["google"]["spend_usd"] for c in all_c),
+            "google_candidates_tracked": sum(c["google"]["tracked"] for c in all_c),
         },
         "top_candidates": [{k: c[k] for k in ("name", "party", "race", "race_label", "chamber", "spend_lo", "spend_hi", "spend_mid", "ads", "active_ads", "spend_change_mid")}
                            for c in sorted(tracked, key=lambda c: -c["spend_mid"])[:10]],
@@ -378,6 +399,7 @@ def main():
     ap.add_argument("--from-raw", help="rebuild from a saved raw pull instead of calling the API")
     ap.add_argument("--date", help="override run date (YYYY-MM-DD)")
     ap.add_argument("--out", default=str(OUT))
+    ap.add_argument("--google-data", help="public summary written by collect_google_ads.py")
     args = ap.parse_args()
     cfg = json.loads(CONFIG.read_text())
 
@@ -397,7 +419,7 @@ def main():
 
     out = Path(args.out)
     previous = json.loads(out.read_text()) if out.exists() else None
-    data = build(cfg, ads, run_date, previous)
+    data = build(cfg, ads, run_date, previous, google_candidates(args.google_data))
     out.write_text(json.dumps(data, indent=1, ensure_ascii=False))
     s = data["summary"]
     print(f"Wrote {out}: {s['races']} races, {s['candidates_tracked']}/{s['candidates']} candidates tracked, "
