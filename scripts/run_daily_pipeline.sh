@@ -11,7 +11,11 @@ node "$ROOT/scripts/download_meta_daily_report.mjs"
 # Optional Google layer. It activates once pipeline/.google_cloud_project has
 # been created during the one-time BigQuery setup.
 if [[ -n "${GOOGLE_CLOUD_PROJECT:-}" || -f "$ROOT/pipeline/.google_cloud_project" ]]; then
-  python3 "$ROOT/pipeline/collect_google_ads.py"
+  if command -v gcloud >/dev/null 2>&1; then
+    python3 "$ROOT/pipeline/collect_google_ads.py"
+  else
+    echo "Google collection skipped: Google Cloud CLI is unavailable. Continuing Meta update."
+  fi
 else
   echo "Google political-ad collection not configured; skipping."
 fi
