@@ -31,5 +31,8 @@ git add docs
 
 if ! git diff --cached --quiet; then
   git commit -m "Update daily midterms dashboard"
-  git push
 fi
+
+# Always retry a previous unsuccessful push, even if this run has no new data.
+git push
+python3 scripts/verify_pages_publication.py
