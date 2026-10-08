@@ -36,6 +36,7 @@ footer{padding:24px;border-top:1px solid var(--line);color:var(--muted);font-siz
 @media(max-width:560px){.hide-sm{display:none}main{padding:16px 16px 50px}.metrics{grid-template-columns:1fr}.tabs a{padding:9px 10px;font-size:13px}}
 </style></head><body><main>
 <nav class="tabs" aria-label="Tracker sections"><a href="index.html">Nationwide</a><a href="races.html" class="active" aria-current="page">Toss-up races</a></nav>
+<section class="intro"><h1>The Toss-Up Races</h1><p class="dek">The figures below include Facebook and Instagram combined ad spending by the nominees' own campaign pages in every US Senate, Governor and House of Representatives race that the Cook Political Report rates a “Toss Up.” Outside groups and super PACs are excluded.</p><p class="dek" style="margin-top:12px">Candidate cards also show Google political-ad spend where an official campaign advertiser account has been manually verified. Google and Meta figures remain separate.</p><p id="updated" class="updated"></p></section>
 <section id="metrics" class="metrics"></section>
 <section class="panel"><div class="section-head"><div><p class="eyebrow">By Race</p><h2>Who's spending in the toss-up races?</h2></div><p class="note">Midpoint of Meta's reported spend ranges. Select a race for candidate detail, audiences and top ads.</p></div>
 <div class="controls" id="filters"><button data-f="all" class="active">All races</button><button data-f="senate">Senate</button><button data-f="governor">Governor</button><button data-f="house">House</button></div>
@@ -55,11 +56,11 @@ let data,filter='all';
 fetch('races.json').then(r=>r.json()).then(d=>{data=d;render()}).catch(()=>{document.querySelector('#races').innerHTML='<p class="note">The first daily update has not run yet. Figures will appear here after it does.</p>'});
 function render(){
  const s=data.summary;
- const dShare=s.spend_mid?(s.by_party.D||0)/s.spend_mid:0,rShare=s.spend_mid?(s.by_party.R||0)/s.spend_mid:0;
  document.querySelector('#updated').innerHTML=`<strong>Updated ${fullDate(data.updated)}</strong> — ads delivered since ${fullDate(data.window_start)}${data.change_since?`; changes compare with ${shortDate(data.change_since)}`:''}.`;
  const dShare=s.spend_mid?(s.by_party.D||0)/s.spend_mid:0,rShare=s.spend_mid?(s.by_party.R||0)/s.spend_mid:0,gSpend=s.google_spend_usd||0,gTracked=s.google_candidates_tracked||0;
  document.querySelector('#metrics').innerHTML=[
   ['Candidate ad spend',money.format(s.spend_mid),`Reported range ${compact.format(s.spend_lo)}–${compact.format(s.spend_hi)} USD`],
+  ['Google campaign spend',money.format(gSpend),`${gTracked} of ${s.candidates} campaigns manually matched`],
   ['Total Ads Run',integer.format(s.ads),`${integer.format(s.active_ads)} still delivering`],
   ['Party split',`${pct(dShare)} D · ${pct(rShare)} R`,'Share of Meta tracked candidate spend'],
   ['Races tracked',`${s.races}`,`${s.candidates_tracked} of ${s.candidates} nominees\' Pages identified`]
