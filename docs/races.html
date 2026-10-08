@@ -55,6 +55,7 @@ let data,filter='all';
 fetch('races.json').then(r=>r.json()).then(d=>{data=d;render()}).catch(()=>{document.querySelector('#races').innerHTML='<p class="note">The first daily update has not run yet. Figures will appear here after it does.</p>'});
 function render(){
  const s=data.summary;
+ const dShare=s.spend_mid?(s.by_party.D||0)/s.spend_mid:0,rShare=s.spend_mid?(s.by_party.R||0)/s.spend_mid:0;
  document.querySelector('#updated').innerHTML=`<strong>Updated ${fullDate(data.updated)}</strong> — ads delivered since ${fullDate(data.window_start)}${data.change_since?`; changes compare with ${shortDate(data.change_since)}`:''}.`;
  const dShare=s.spend_mid?(s.by_party.D||0)/s.spend_mid:0,rShare=s.spend_mid?(s.by_party.R||0)/s.spend_mid:0,gSpend=s.google_spend_usd||0,gTracked=s.google_candidates_tracked||0;
  document.querySelector('#metrics').innerHTML=[
