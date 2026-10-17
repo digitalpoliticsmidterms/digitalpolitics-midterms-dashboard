@@ -18,6 +18,7 @@ never in docs/.
 """
 import argparse
 import datetime as dt
+import http.client
 import json
 import os
 import re
@@ -96,8 +97,10 @@ def api_get(url, params=None, tries=6):
                 time.sleep(delay); delay = min(delay * 2, 300)
                 continue
             sys.exit(f"Meta API error {e.code}: {err.get('message') or body[:300]}")
-        except (urllib.error.URLError, TimeoutError) as e:
-            print(f"  network error ({e}); retrying in {delay}s", file=sys.stderr)
+        except (urllib.error.URLError, TimeoutError, ConnectionError, http.client.HTTPException, json.JSONDecodeError) as e:
+            # urllib can raise during response-body reads, not only while opening
+            # the connection. Meta occasionally resets paginated responses mid-read.
+            print(f"  transient network/response error ({e}); retrying in {delay}s", file=sys.stderr)
             time.sleep(delay); delay = min(delay * 2, 300)
     sys.exit("Meta API kept failing; giving up for today.")
 
