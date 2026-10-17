@@ -35,7 +35,9 @@ EXCLUDE_LOCATIONS = {
 
 
 def report_date(filename):
-    match = re.search(r"end-(\d{2})-([A-Za-z]+)-(\d{4})", filename)
+    # Accept old collector filenames with an unpadded day (for example,
+    # end-9-October-2026) as well as the current zero-padded format.
+    match = re.search(r"end-(\d{1,2})-([A-Za-z]+)-(\d{4})", filename)
 
     if not match:
         raise ValueError(f"Cannot read a report date from: {filename}")
