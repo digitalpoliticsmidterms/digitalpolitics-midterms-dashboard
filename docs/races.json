@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-17",
- "generated_at": "2026-10-17T04:18:50Z",
+ "generated_at": "2026-10-17T04:29:31Z",
  "window_start": "2026-06-23",
  "change_since": "2026-10-13",
  "baseline": {
@@ -395,19 +395,19 @@
   "races": 34,
   "candidates": 70,
   "candidates_tracked": 70,
-  "spend_lo": 25627900,
-  "spend_hi": 33648978,
-  "spend_mid": 29638440,
+  "spend_lo": 25629000,
+  "spend_hi": 33650478,
+  "spend_mid": 29639740,
   "ads": 30522,
   "active_ads": 4356,
   "by_chamber": {
-   "senate": 20682342,
-   "governor": 5800976,
+   "senate": 20683242,
+   "governor": 5801376,
    "house": 3155122
   },
   "by_party": {
-   "D": 24293954,
-   "R": 5344486
+   "D": 24294854,
+   "R": 5344886
   },
   "google_spend_usd": 0,
   "google_candidates_tracked": 0
@@ -419,12 +419,12 @@
    "race": "TX-SEN",
    "race_label": "Texas Senate",
    "chamber": "senate",
-   "spend_lo": 7099500,
-   "spend_hi": 8452702,
-   "spend_mid": 7776101,
+   "spend_lo": 7099700,
+   "spend_hi": 8452902,
+   "spend_mid": 7776301,
    "ads": 398,
    "active_ads": 34,
-   "spend_change_mid": 707425
+   "spend_change_mid": 707625
   },
   {
    "name": "Abdul El-Sayed",
@@ -432,12 +432,12 @@
    "race": "MI-SEN",
    "race_label": "Michigan Senate",
    "chamber": "senate",
-   "spend_lo": 4641400,
-   "spend_hi": 6087000,
-   "spend_mid": 5364200,
+   "spend_lo": 4641500,
+   "spend_hi": 6087100,
+   "spend_mid": 5364300,
    "ads": 5300,
    "active_ads": 368,
-   "spend_change_mid": 428517
+   "spend_change_mid": 428617
   },
   {
    "name": "Troy Jackson",
@@ -471,12 +471,12 @@
    "race": "OH-GOV",
    "race_label": "Ohio Governor",
    "chamber": "governor",
-   "spend_lo": 1380700,
-   "spend_hi": 1824085,
-   "spend_mid": 1602392,
+   "spend_lo": 1380800,
+   "spend_hi": 1824585,
+   "spend_mid": 1602692,
    "ads": 1815,
    "active_ads": 220,
-   "spend_change_mid": 238574
+   "spend_change_mid": 238874
   },
   {
    "name": "Josh Turek",
@@ -497,12 +497,12 @@
    "race": "WI-GOV",
    "race_label": "Wisconsin Governor",
    "chamber": "governor",
-   "spend_lo": 1080900,
-   "spend_hi": 1368075,
-   "spend_mid": 1224488,
+   "spend_lo": 1081000,
+   "spend_hi": 1368175,
+   "spend_mid": 1224588,
    "ads": 725,
    "active_ads": 109,
-   "spend_change_mid": 83784
+   "spend_change_mid": 83884
   },
   {
    "name": "Amy Acton",
@@ -523,12 +523,12 @@
    "race": "AK-SEN",
    "race_label": "Alaska Senate",
    "chamber": "senate",
-   "spend_lo": 780400,
-   "spend_hi": 976250,
-   "spend_mid": 878325,
+   "spend_lo": 780900,
+   "spend_hi": 976750,
+   "spend_mid": 878825,
    "ads": 450,
    "active_ads": 75,
-   "spend_change_mid": 93214
+   "spend_change_mid": 93714
   },
   {
    "name": "Rick Jackson",
@@ -554,10 +554,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-23",
-   "spend_mid": 8163974,
+   "spend_mid": 8164174,
    "spend_by_party": {
     "R": 387873,
-    "D": 7776101
+    "D": 7776301
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -581,14 +581,14 @@
      "ads": 398,
      "active_ads": 34,
      "new_ads_7d": 83,
-     "spend_lo": 7099500,
-     "spend_hi": 8452702,
-     "spend_mid": 7776101,
+     "spend_lo": 7099700,
+     "spend_hi": 8452902,
+     "spend_mid": 7776301,
      "impressions_lo": 106017600,
      "impressions_hi": 113468862,
      "open_ended_ads": 60,
      "non_usd_ads": 0,
-     "spend_change_mid": 707425,
+     "spend_change_mid": 707625,
      "ads_change": 50,
      "in_state_share": 0.4183,
      "top_regions": [
@@ -616,7 +616,7 @@
      "age": {
       "18-24": 0.0476,
       "25-34": 0.1353,
-      "35-44": 0.17,
+      "35-44": 0.1699,
       "45-54": 0.1651,
       "55-64": 0.1875,
       "65+": 0.2945,
@@ -648,7 +648,7 @@
       493191,
       777397,
       727058,
-      896121
+      896321
      ],
      "top_ads": [
       {
@@ -733,11 +733,11 @@
      "non_usd_ads": 0,
      "spend_change_mid": 22698,
      "ads_change": 4,
-     "in_state_share": 0.6168,
+     "in_state_share": 0.6167,
      "top_regions": [
       {
        "region": "Texas",
-       "share": 0.6168
+       "share": 0.6167
       },
       {
        "region": "California",
@@ -861,10 +861,10 @@
    "held_by": "D",
    "rating": "Toss Up",
    "rating_date": "2026-09-23",
-   "spend_mid": 5428294,
+   "spend_mid": 5428394,
    "spend_by_party": {
     "R": 64094,
-    "D": 5364200
+    "D": 5364300
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -884,14 +884,14 @@
      "ads": 5300,
      "active_ads": 368,
      "new_ads_7d": 270,
-     "spend_lo": 4641400,
-     "spend_hi": 6087000,
-     "spend_mid": 5364200,
-     "impressions_lo": 162126500,
-     "impressions_hi": 186770034,
+     "spend_lo": 4641500,
+     "spend_hi": 6087100,
+     "spend_mid": 5364300,
+     "impressions_lo": 162132500,
+     "impressions_hi": 186776034,
      "open_ended_ads": 34,
      "non_usd_ads": 0,
-     "spend_change_mid": 428517,
+     "spend_change_mid": 428617,
      "ads_change": 166,
      "in_state_share": 0.4515,
      "top_regions": [
@@ -917,7 +917,7 @@
       }
      ],
      "age": {
-      "18-24": 0.0715,
+      "18-24": 0.0716,
       "25-34": 0.1913,
       "35-44": 0.1976,
       "45-54": 0.157,
@@ -951,7 +951,7 @@
       411537,
       448874,
       629354,
-      449590
+      449690
      ],
      "top_ads": [
       {
@@ -1164,9 +1164,9 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-17",
-   "spend_mid": 2693550,
+   "spend_mid": 2693850,
    "spend_by_party": {
-    "R": 1602392,
+    "R": 1602692,
     "D": 1091158
    },
    "google_spend_usd": 0,
@@ -1187,14 +1187,14 @@
      "ads": 1815,
      "active_ads": 220,
      "new_ads_7d": 152,
-     "spend_lo": 1380700,
-     "spend_hi": 1824085,
-     "spend_mid": 1602392,
-     "impressions_lo": 168165200,
-     "impressions_hi": 192961310,
+     "spend_lo": 1380800,
+     "spend_hi": 1824585,
+     "spend_mid": 1602692,
+     "impressions_lo": 168216200,
+     "impressions_hi": 193012310,
      "open_ended_ads": 25,
      "non_usd_ads": 0,
-     "spend_change_mid": 238574,
+     "spend_change_mid": 238874,
      "ads_change": 150,
      "in_state_share": 0.995,
      "top_regions": [
@@ -1220,11 +1220,11 @@
       }
      ],
      "age": {
-      "18-24": 0.1453,
+      "18-24": 0.1452,
       "25-34": 0.2223,
       "35-44": 0.2439,
-      "45-54": 0.1738,
-      "55-64": 0.1251,
+      "45-54": 0.1739,
+      "55-64": 0.1252,
       "65+": 0.0894,
       "Unknown": 0.0001
      },
@@ -1253,8 +1253,8 @@
       90722,
       88568,
       104128,
-      372015,
-      311144
+      372165,
+      311294
      ],
      "top_ads": [
       {
@@ -1636,8 +1636,8 @@
      "spend_lo": 187900,
      "spend_hi": 288105,
      "spend_mid": 238002,
-     "impressions_lo": 27012800,
-     "impressions_hi": 31931906,
+     "impressions_lo": 27022800,
+     "impressions_hi": 31956906,
      "open_ended_ads": 1,
      "non_usd_ads": 0,
      "spend_change_mid": 13276,
@@ -1666,17 +1666,17 @@
       }
      ],
      "age": {
-      "18-24": 0.0736,
-      "25-34": 0.1079,
-      "35-44": 0.2385,
-      "45-54": 0.1861,
+      "18-24": 0.0737,
+      "25-34": 0.108,
+      "35-44": 0.2384,
+      "45-54": 0.186,
       "55-64": 0.1862,
       "65+": 0.2075,
       "Unknown": 0.0002
      },
      "gender": {
-      "female": 0.449,
-      "male": 0.5412,
+      "female": 0.4489,
+      "male": 0.5413,
       "unknown": 0.0098
      },
      "platforms": {
@@ -2061,9 +2061,9 @@
    "held_by": "D",
    "rating": "Toss Up",
    "rating_date": "2026-09-17",
-   "spend_mid": 1591316,
+   "spend_mid": 1591416,
    "spend_by_party": {
-    "R": 1224488,
+    "R": 1224588,
     "D": 366828
    },
    "google_spend_usd": 0,
@@ -2084,14 +2084,14 @@
      "ads": 725,
      "active_ads": 109,
      "new_ads_7d": 32,
-     "spend_lo": 1080900,
-     "spend_hi": 1368075,
-     "spend_mid": 1224488,
+     "spend_lo": 1081000,
+     "spend_hi": 1368175,
+     "spend_mid": 1224588,
      "impressions_lo": 119572100,
      "impressions_hi": 133062914,
      "open_ended_ads": 39,
      "non_usd_ads": 0,
-     "spend_change_mid": 83784,
+     "spend_change_mid": 83884,
      "ads_change": 32,
      "in_state_share": 0.9997,
      "top_regions": [
@@ -2151,7 +2151,7 @@
       162647,
       170046,
       149685,
-      125696
+      125796
      ],
      "top_ads": [
       {
@@ -2230,8 +2230,8 @@
      "spend_lo": 322600,
      "spend_hi": 411056,
      "spend_mid": 366828,
-     "impressions_lo": 19917300,
-     "impressions_hi": 22328062,
+     "impressions_lo": 19918300,
+     "impressions_hi": 22329062,
      "open_ended_ads": 6,
      "non_usd_ads": 0,
      "spend_change_mid": 45046,
@@ -2390,8 +2390,8 @@
      "spend_lo": 1122300,
      "spend_hi": 1521052,
      "spend_mid": 1321676,
-     "impressions_lo": 29423800,
-     "impressions_hi": 35918552,
+     "impressions_lo": 29424700,
+     "impressions_hi": 35919552,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
      "spend_change_mid": 66681,
@@ -2404,7 +2404,7 @@
       },
       {
        "region": "California",
-       "share": 0.0554
+       "share": 0.0555
       },
       {
        "region": "New York",
@@ -2567,7 +2567,7 @@
       "25-34": 0.2146,
       "35-44": 0.2024,
       "45-54": 0.1561,
-      "55-64": 0.1269,
+      "55-64": 0.127,
       "65+": 0.1136,
       "Unknown": 0.0
      },
@@ -2667,10 +2667,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-23",
-   "spend_mid": 1097810,
+   "spend_mid": 1098310,
    "spend_by_party": {
     "R": 219485,
-    "D": 878325
+    "D": 878825
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -2690,24 +2690,24 @@
      "ads": 450,
      "active_ads": 75,
      "new_ads_7d": 72,
-     "spend_lo": 780400,
-     "spend_hi": 976250,
-     "spend_mid": 878325,
-     "impressions_lo": 35733500,
-     "impressions_hi": 41355754,
+     "spend_lo": 780900,
+     "spend_hi": 976750,
+     "spend_mid": 878825,
+     "impressions_lo": 35743500,
+     "impressions_hi": 41365754,
      "open_ended_ads": 4,
      "non_usd_ads": 0,
-     "spend_change_mid": 93214,
+     "spend_change_mid": 93714,
      "ads_change": 72,
-     "in_state_share": 0.7739,
+     "in_state_share": 0.7737,
      "top_regions": [
       {
        "region": "Alaska",
-       "share": 0.7739
+       "share": 0.7737
       },
       {
        "region": "California",
-       "share": 0.0361
+       "share": 0.0362
       },
       {
        "region": "Washington",
@@ -2715,7 +2715,7 @@
       },
       {
        "region": "New York",
-       "share": 0.0133
+       "share": 0.0134
       },
       {
        "region": "Texas",
@@ -2727,8 +2727,8 @@
       "25-34": 0.2228,
       "35-44": 0.1866,
       "45-54": 0.122,
-      "55-64": 0.1165,
-      "65+": 0.2235,
+      "55-64": 0.1166,
+      "65+": 0.2236,
       "Unknown": 0.0002
      },
      "gender": {
@@ -2757,7 +2757,7 @@
       63363,
       51461,
       118157,
-      139752
+      140252
      ],
      "top_ads": [
       {
@@ -2836,8 +2836,8 @@
      "spend_lo": 191300,
      "spend_hi": 247670,
      "spend_mid": 219485,
-     "impressions_lo": 9882700,
-     "impressions_hi": 11740570,
+     "impressions_lo": 9937700,
+     "impressions_hi": 11795570,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
      "spend_change_mid": 24286,
@@ -2862,17 +2862,17 @@
       }
      ],
      "age": {
-      "18-24": 0.0654,
-      "25-34": 0.1869,
-      "35-44": 0.2319,
-      "45-54": 0.1631,
+      "18-24": 0.0651,
+      "25-34": 0.187,
+      "35-44": 0.2324,
+      "45-54": 0.1632,
       "55-64": 0.1575,
-      "65+": 0.1949,
+      "65+": 0.1946,
       "Unknown": 0.0002
      },
      "gender": {
-      "female": 0.4747,
-      "male": 0.5153,
+      "female": 0.4745,
+      "male": 0.5154,
       "unknown": 0.01
      },
      "platforms": {
@@ -2946,8 +2946,8 @@
        "text": "Vote for Dan Sullivan on Nov. 3!",
        "spend_lo": 6000.0,
        "spend_hi": 6999.0,
-       "imp_lo": 250000.0,
-       "imp_hi": 299999.0
+       "imp_lo": 300000.0,
+       "imp_hi": 349999.0
       }
      ],
      "google": {
@@ -3269,10 +3269,10 @@
    "held_by": "D",
    "rating": "Toss Up",
    "rating_date": "2026-09-23",
-   "spend_mid": 581110,
+   "spend_mid": 581210,
    "spend_by_party": {
     "R": 0,
-    "D": 581110
+    "D": 581210
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -3292,14 +3292,14 @@
      "ads": 3480,
      "active_ads": 400,
      "new_ads_7d": 400,
-     "spend_lo": 371400,
-     "spend_hi": 790820,
-     "spend_mid": 581110,
+     "spend_lo": 371500,
+     "spend_hi": 790920,
+     "spend_mid": 581210,
      "impressions_lo": 10378900,
      "impressions_hi": 13753320,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 49150,
+     "spend_change_mid": 49250,
      "ads_change": 400,
      "in_state_share": 0.5808,
      "top_regions": [
@@ -3313,7 +3313,7 @@
       },
       {
        "region": "California",
-       "share": 0.0497
+       "share": 0.0498
       },
       {
        "region": "New York",
@@ -3330,11 +3330,11 @@
       "35-44": 0.1169,
       "45-54": 0.1143,
       "55-64": 0.1758,
-      "65+": 0.4976,
+      "65+": 0.4975,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5378,
+      "female": 0.5377,
       "male": 0.4502,
       "unknown": 0.012
      },
@@ -3353,13 +3353,13 @@
       19220,
       15815,
       24447,
-      32820,
-      45549,
-      52240,
-      54514,
-      55821,
-      60729,
-      55348
+      32822,
+      45566,
+      52257,
+      54530,
+      55838,
+      60745,
+      55363
      ],
      "top_ads": [
       {
@@ -3543,14 +3543,14 @@
      "age": {
       "18-24": 0.0379,
       "25-34": 0.0798,
-      "35-44": 0.1357,
+      "35-44": 0.1356,
       "45-54": 0.1499,
       "55-64": 0.2032,
       "65+": 0.3935,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.4036,
+      "female": 0.4037,
       "male": 0.5787,
       "unknown": 0.0176
      },
@@ -4297,13 +4297,13 @@
       "18-24": 0.0116,
       "25-34": 0.0437,
       "35-44": 0.0758,
-      "45-54": 0.1065,
+      "45-54": 0.1066,
       "55-64": 0.1999,
       "65+": 0.5623,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.5463,
+      "female": 0.5464,
       "male": 0.4412,
       "unknown": 0.0125
      },
@@ -5176,8 +5176,8 @@
      "spend_lo": 81300,
      "spend_hi": 102001,
      "spend_mid": 91650,
-     "impressions_lo": 8617300,
-     "impressions_hi": 10168901,
+     "impressions_lo": 8618300,
+     "impressions_hi": 10169901,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
      "spend_change_mid": 3592,
@@ -5479,17 +5479,17 @@
      "spend_lo": 33200,
      "spend_hi": 66900,
      "spend_mid": 50050,
-     "impressions_lo": 4479700,
-     "impressions_hi": 5462000,
+     "impressions_lo": 4480700,
+     "impressions_hi": 5463000,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
      "spend_change_mid": 5522,
      "ads_change": 55,
-     "in_state_share": 0.9854,
+     "in_state_share": 0.9853,
      "top_regions": [
       {
        "region": "Virginia",
-       "share": 0.9854
+       "share": 0.9853
       },
       {
        "region": "Texas",
@@ -5509,9 +5509,9 @@
       }
      ],
      "age": {
-      "18-24": 0.0366,
+      "18-24": 0.0365,
       "25-34": 0.1034,
-      "35-44": 0.2356,
+      "35-44": 0.2355,
       "45-54": 0.194,
       "55-64": 0.1876,
       "65+": 0.2428,
@@ -5519,7 +5519,7 @@
      },
      "gender": {
       "female": 0.4708,
-      "male": 0.5226,
+      "male": 0.5227,
       "unknown": 0.0066
      },
      "platforms": {
@@ -5666,8 +5666,8 @@
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.511,
-      "male": 0.4799,
+      "female": 0.5109,
+      "male": 0.48,
       "unknown": 0.0091
      },
      "platforms": {
@@ -6373,7 +6373,7 @@
       "Unknown": 0.0002
      },
      "gender": {
-      "female": 0.4732,
+      "female": 0.4731,
       "male": 0.5173,
       "unknown": 0.0095
      },
@@ -6708,7 +6708,7 @@
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5278,
+      "female": 0.5279,
       "male": 0.4655,
       "unknown": 0.0067
      },
@@ -7723,11 +7723,11 @@
      "non_usd_ads": 0,
      "spend_change_mid": 1200,
      "ads_change": 0,
-     "in_state_share": 0.8646,
+     "in_state_share": 0.8645,
      "top_regions": [
       {
        "region": "Michigan",
-       "share": 0.8646
+       "share": 0.8645
       },
       {
        "region": "California",
@@ -7877,8 +7877,8 @@
      "spend_lo": 36600,
      "spend_hi": 100327,
      "spend_mid": 68464,
-     "impressions_lo": 3640800,
-     "impressions_hi": 4680827,
+     "impressions_lo": 3641800,
+     "impressions_hi": 4681827,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
      "spend_change_mid": 6448,
@@ -8152,8 +8152,8 @@
      "spend_lo": 72900,
      "spend_hi": 92115,
      "spend_mid": 82508,
-     "impressions_lo": 3111400,
-     "impressions_hi": 3714915,
+     "impressions_lo": 3112400,
+     "impressions_hi": 3715915,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
      "spend_change_mid": 6298,
@@ -8183,16 +8183,16 @@
      ],
      "age": {
       "18-24": 0.0364,
-      "25-34": 0.136,
+      "25-34": 0.1359,
       "35-44": 0.1738,
-      "45-54": 0.1727,
-      "55-64": 0.1973,
+      "45-54": 0.1728,
+      "55-64": 0.1974,
       "65+": 0.2836,
       "Unknown": 0.0001
      },
      "gender": {
       "female": 0.6115,
-      "male": 0.3729,
+      "male": 0.373,
       "unknown": 0.0156
      },
      "platforms": {
@@ -8617,11 +8617,11 @@
       "35-44": 0.1707,
       "45-54": 0.1581,
       "55-64": 0.1883,
-      "65+": 0.2884,
+      "65+": 0.2883,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.455,
+      "female": 0.4551,
       "male": 0.539,
       "unknown": 0.006
      },
@@ -8742,8 +8742,8 @@
      "spend_lo": 53400,
      "spend_hi": 70728,
      "spend_mid": 62064,
-     "impressions_lo": 5264300,
-     "impressions_hi": 6217928,
+     "impressions_lo": 5265300,
+     "impressions_hi": 6218928,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
      "spend_change_mid": 6699,
@@ -8766,7 +8766,7 @@
      "age": {
       "18-24": 0.0927,
       "25-34": 0.2744,
-      "35-44": 0.2156,
+      "35-44": 0.2155,
       "45-54": 0.1756,
       "55-64": 0.1277,
       "65+": 0.1141
@@ -9318,7 +9318,7 @@
       "35-44": 0.1774,
       "45-54": 0.1419,
       "55-64": 0.1529,
-      "65+": 0.305,
+      "65+": 0.3051,
       "Unknown": 0.0
      },
      "gender": {
@@ -9611,7 +9611,7 @@
       "25-34": 0.2653,
       "35-44": 0.2207,
       "45-54": 0.1471,
-      "55-64": 0.1112,
+      "55-64": 0.1113,
       "65+": 0.1395,
       "Unknown": 0.0004
      },
@@ -10187,7 +10187,7 @@
       "25-34": 0.1224,
       "35-44": 0.1696,
       "45-54": 0.1553,
-      "55-64": 0.1915,
+      "55-64": 0.1916,
       "65+": 0.3222,
       "Unknown": 0.0
      },
@@ -10444,17 +10444,17 @@
      "spend_lo": 31000,
      "spend_hi": 41139,
      "spend_mid": 36070,
-     "impressions_lo": 1239200,
-     "impressions_hi": 1498239,
+     "impressions_lo": 1240200,
+     "impressions_hi": 1503239,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
      "spend_change_mid": 5098,
      "ads_change": 4,
-     "in_state_share": 0.9642,
+     "in_state_share": 0.9643,
      "top_regions": [
       {
        "region": "North Carolina",
-       "share": 0.9642
+       "share": 0.9643
       },
       {
        "region": "Georgia",
@@ -10462,11 +10462,11 @@
       },
       {
        "region": "South Carolina",
-       "share": 0.0058
+       "share": 0.0057
       },
       {
        "region": "Tennessee",
-       "share": 0.0058
+       "share": 0.0057
       },
       {
        "region": "California",
@@ -10474,17 +10474,17 @@
       }
      ],
      "age": {
-      "18-24": 0.0168,
-      "25-34": 0.0353,
-      "35-44": 0.1807,
-      "45-54": 0.1659,
-      "55-64": 0.2029,
-      "65+": 0.3984,
+      "18-24": 0.0172,
+      "25-34": 0.036,
+      "35-44": 0.1812,
+      "45-54": 0.1656,
+      "55-64": 0.2025,
+      "65+": 0.3975,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5583,
-      "male": 0.4288,
+      "female": 0.5571,
+      "male": 0.4301,
       "unknown": 0.0129
      },
      "platforms": {
@@ -10610,7 +10610,7 @@
      ],
      "age": {
       "18-24": 0.0271,
-      "25-34": 0.1599,
+      "25-34": 0.1598,
       "35-44": 0.2125,
       "45-54": 0.2155,
       "55-64": 0.1729,
@@ -10762,10 +10762,10 @@
   },
   {
    "date": "2026-10-17",
-   "spend_mid": 29638440,
+   "spend_mid": 29639740,
    "by_party": {
-    "D": 24293954,
-    "R": 5344486
+    "D": 24294854,
+    "R": 5344886
    },
    "ads": 30522
   }
