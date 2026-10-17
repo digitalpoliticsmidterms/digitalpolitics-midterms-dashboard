@@ -286,7 +286,24 @@ async function main() {
   }
 }
 
-main().catch((error) => {
+async function mainWithRetry() {
+  const maxAttempts = 2;
+
+  for (let attempt = 1; attempt <= maxAttempts; attempt += 1) {
+    try {
+      await main();
+      return;
+    } catch (error) {
+      if (attempt === maxAttempts) throw error;
+      console.error(
+        `Meta report attempt ${attempt} failed: ${error.message}. Retrying in 15 seconds.`
+      );
+      await sleep(15_000);
+    }
+  }
+}
+
+mainWithRetry().catch((error) => {
   console.error(`META REPORT DOWNLOAD FAILED: ${error.message}`);
   process.exitCode = 1;
 });
