@@ -35,6 +35,9 @@ EXCLUDE_LOCATIONS = {
 
 
 def report_date(filename):
+    native = re.search(r"FacebookAdLibraryReport_(\d{4}-\d{2}-\d{2})_", filename)
+    if native:
+        return date.fromisoformat(native.group(1)).isoformat()
     # Accept old collector filenames with an unpadded day (for example,
     # end-9-October-2026) as well as the current zero-padded format.
     match = re.search(r"end-(\d{1,2})-([A-Za-z]+)-(\d{4})", filename)
@@ -189,17 +192,35 @@ def main():
     baseline_advertisers = advertisers(baseline_zip)
 
     daily = []
+    daily_sources = {}
+    daily_contents = {}
 
     for path in reports:
         if "yesterday" not in path.name:
             continue
 
+        day = report_date(path.name)
         daily_states = states(path)
         daily_advertisers = advertisers(path)
+        # Compare every advertiser, including those below the public top 100.
+        contents = (
+            sorted((row["state"], row["spend_usd"]) for row in daily_states),
+            sorted(tuple(sorted(row.items())) for row in daily_advertisers),
+        )
+        if day in daily_sources:
+            if contents != daily_contents[day]:
+                raise SystemExit(
+                    f"Conflicting reports for {day}: {daily_sources[day].name} "
+                    f"and {path.name}. Resolve the differing raw reports before publishing."
+                )
+            print(f"Skipping duplicate report for {day}: {path.name}")
+            continue
+        daily_sources[day] = path
+        daily_contents[day] = contents
 
         daily.append(
             {
-                "report_end_date": report_date(path.name),
+                "report_end_date": day,
                 "national_spend_usd": sum(
                     row["spend_usd"] for row in daily_states
                 ),
@@ -209,6 +230,18 @@ def main():
         )
 
     daily.sort(key=lambda row: row["report_end_date"])
+    # A machine missing a backfilled raw report must not erase published dates.
+    published = ROOT / "docs" / "data.json"
+    if published.exists():
+        previous = json.loads(published.read_text(encoding="utf-8"))
+        missing = {
+            row["report_end_date"] for row in previous.get("daily_observations", [])
+        } - set(daily_sources)
+        if missing:
+            raise SystemExit(
+                "Missing raw reports for published dates: " + ", ".join(sorted(missing))
+                + ". Restore these ZIPs into data/raw before rebuilding."
+            )
     write_review_brief(daily)
 
     later_daily = [
@@ -237,12 +270,7 @@ def main():
         for row in day["states"]:
             cumulative_states[row["state"]] += row["spend_usd"]
 
-        source = next(
-            path
-            for path in reports
-            if "yesterday" in path.name
-            and report_date(path.name) == day["report_end_date"]
-        )
+        source = daily_sources[day["report_end_date"]]
 
         for row in advertisers(source):
             key = (row["page_id"], row["disclaimer"])
@@ -307,6 +335,7 @@ def main():
         ),
     }
 
+    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(json.dumps(output, indent=2), encoding="utf-8")
 
     print(f"Built {OUTPUT}")
