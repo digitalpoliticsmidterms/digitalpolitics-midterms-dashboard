@@ -5,7 +5,7 @@
   },
   "cumulative": {
     "national_spend_usd": 406450368.0,
-    "advertiser_count": 41189,
+    "advertiser_count": 41944,
     "top_advertisers": [
       {
         "page_id": "1386969781166493",
@@ -617,6 +617,13 @@
         "ad_count": 787
       },
       {
+        "page_id": "558219887366326",
+        "page_name": "Dr. Amy Acton",
+        "disclaimer": "Ohio Democratic Party",
+        "spend_usd": 747238.0,
+        "ad_count": 3862
+      },
+      {
         "page_id": "9258148868",
         "page_name": "The New Yorker",
         "disclaimer": "The New Yorker",
@@ -673,6 +680,13 @@
         "ad_count": 4525
       },
       {
+        "page_id": "102163335100899",
+        "page_name": "Defend The Vote",
+        "disclaimer": "DEFEND THE VOTE ACTION FUND",
+        "spend_usd": 681259.0,
+        "ad_count": 695
+      },
+      {
         "page_id": "381005185103661",
         "page_name": "Color the Vote: Black & Brown Edition",
         "disclaimer": "Poder Latinx",
@@ -692,20 +706,6 @@
         "disclaimer": "SECURITY IS STRENGTH PAC",
         "spend_usd": 678635.0,
         "ad_count": 143
-      },
-      {
-        "page_id": "83996318078",
-        "page_name": "Change.org",
-        "disclaimer": "Change.org",
-        "spend_usd": 677954.0,
-        "ad_count": 9229
-      },
-      {
-        "page_id": "140357056032320",
-        "page_name": "NEA Today",
-        "disclaimer": "National Education Association",
-        "spend_usd": 661673.0,
-        "ad_count": 989
       }
     ],
     "states": [
@@ -31014,6 +31014,6 @@
       ]
     }
   ],
-  "daily_update": "Common Sense Voters Coalition was the leading reported advertiser on Facebook on Oct 19, with $872,537 in spend across 1,016 ads in Meta's Ad Library.",
-  "methodology": "Digital Politics automatically collects Meta\u2019s public United States \u2018Last day\u2019 Ad Library report and retains each raw report privately. The cumulative figure begins with the 90-day baseline ending Sept 20, 2026, then adds subsequent daily reports. Figures cover political, election and issue ads delivered via Facebook in the United States, including Washington, DC, but excluding territories and Meta\u2019s \u2018Unknown\u2019 location. State delivery does not establish congressional-district targeting, campaign coordination or electoral effect. Daily and cumulative advertiser rankings include reports through Oct 23, 2026. The displayed cumulative top 20 was verified against the maximum possible spending of advertisers outside the prior published top 100. The total advertiser count retains the previously published count pending a rebuild from the full private report history."
+  "daily_update": "Reported US political, election and issue-ad spend on Facebook was $10,751,964 on Oct. 23, up $588,131 (5.8%) from Oct. 22.",
+  "methodology": "Digital Politics automatically collects Meta\u2019s public United States \u2018Last day\u2019 Ad Library report and retains each raw report privately. The cumulative figure begins with the 90-day baseline ending Sept 20, 2026, then adds subsequent daily reports. Figures cover political, election and issue ads delivered via Facebook in the United States, including Washington, DC, but excluding territories and Meta\u2019s \u2018Unknown\u2019 location. State delivery does not establish congressional-district targeting, campaign coordination or electoral effect."
 }
