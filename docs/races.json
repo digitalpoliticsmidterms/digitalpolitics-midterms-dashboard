@@ -1,23 +1,23 @@
 {
- "updated": "2026-11-01",
- "generated_at": "2026-10-31T20:10:38Z",
+ "updated": "2026-11-02",
+ "generated_at": "2026-11-01T20:01:41Z",
  "window_start": "2026-06-23",
- "change_since": "2026-10-31",
+ "change_since": "2026-11-01",
  "baseline": {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "candidates": {
    "TX-SEN|James Talarico": {
-    "spend_mid": 9499900,
+    "spend_mid": 9573000,
     "ads": 501,
     "tracked": true
    },
    "TX-SEN|Ken Paxton": {
-    "spend_mid": 439268,
+    "spend_mid": 441068,
     "ads": 64,
     "tracked": true
    },
    "MI-SEN|Abdul El-Sayed": {
-    "spend_mid": 7251817,
+    "spend_mid": 7411167,
     "ads": 6566,
     "tracked": true
    },
@@ -27,37 +27,37 @@
     "tracked": true
    },
    "OH-GOV|Vivek Ramaswamy": {
-    "spend_mid": 2666590,
+    "spend_mid": 2759490,
     "ads": 2120,
     "tracked": true
    },
    "OH-GOV|Amy Acton": {
-    "spend_mid": 2090624,
+    "spend_mid": 2093624,
     "ads": 2552,
     "tracked": true
    },
    "ME-SEN|Troy Jackson": {
-    "spend_mid": 2254605,
+    "spend_mid": 2261705,
     "ads": 4690,
     "tracked": true
    },
    "ME-SEN|Susan Collins": {
-    "spend_mid": 297648,
+    "spend_mid": 303448,
     "ads": 903,
     "tracked": true
    },
    "WI-GOV|Tom Tiffany": {
-    "spend_mid": 1619600,
+    "spend_mid": 1663850,
     "ads": 899,
     "tracked": true
    },
    "WI-GOV|David Crowley": {
-    "spend_mid": 598510,
+    "spend_mid": 616610,
     "ads": 680,
     "tracked": true
    },
    "OH-SEN|Sherrod Brown": {
-    "spend_mid": 2100178,
+    "spend_mid": 2107128,
     "ads": 544,
     "tracked": true
    },
@@ -67,37 +67,37 @@
     "tracked": true
    },
    "IA-SEN|Josh Turek": {
-    "spend_mid": 1540903,
+    "spend_mid": 1559303,
     "ads": 2094,
     "tracked": true
    },
    "IA-SEN|Ashley Hinson": {
-    "spend_mid": 125868,
+    "spend_mid": 129868,
     "ads": 64,
     "tracked": true
    },
    "AK-SEN|Mary Peltola": {
-    "spend_mid": 1347491,
+    "spend_mid": 1374191,
     "ads": 718,
     "tracked": true
    },
    "AK-SEN|Dan Sullivan": {
-    "spend_mid": 301572,
+    "spend_mid": 309472,
     "ads": 256,
     "tracked": true
    },
    "GA-GOV|Rick Jackson": {
-    "spend_mid": 992912,
+    "spend_mid": 1025462,
     "ads": 276,
     "tracked": true
    },
    "GA-GOV|Keisha Lance Bottoms": {
-    "spend_mid": 356796,
+    "spend_mid": 360296,
     "ads": 107,
     "tracked": true
    },
    "WA-03|Marie Gluesenkamp Perez": {
-    "spend_mid": 722506,
+    "spend_mid": 756056,
     "ads": 389,
     "tracked": true
    },
@@ -107,7 +107,7 @@
     "tracked": true
    },
    "NH-SEN|Chris Pappas": {
-    "spend_mid": 721480,
+    "spend_mid": 723480,
     "ads": 4339,
     "tracked": true
    },
@@ -117,52 +117,52 @@
     "tracked": true
    },
    "CO-08|Manny Rutinel": {
-    "spend_mid": 456616,
+    "spend_mid": 461516,
     "ads": 167,
     "tracked": true
    },
    "CO-08|Gabe Evans": {
-    "spend_mid": 16888,
+    "spend_mid": 17088,
     "ads": 24,
     "tracked": true
    },
    "NV-GOV|Joe Lombardo": {
-    "spend_mid": 201793,
+    "spend_mid": 202793,
     "ads": 14,
     "tracked": true
    },
    "NV-GOV|Aaron Ford": {
-    "spend_mid": 191019,
+    "spend_mid": 191819,
     "ads": 3362,
     "tracked": true
    },
    "IA-03|Sarah Trone Garriott": {
-    "spend_mid": 225956,
+    "spend_mid": 230656,
     "ads": 88,
     "tracked": true
    },
    "IA-03|Zach Nunn": {
-    "spend_mid": 119009,
+    "spend_mid": 119609,
     "ads": 182,
     "tracked": true
    },
    "WI-03|Rebecca Cooke": {
-    "spend_mid": 334824,
+    "spend_mid": 335424,
     "ads": 153,
     "tracked": true
    },
    "WI-03|Derrick Van Orden": {
-    "spend_mid": 4246,
+    "spend_mid": 4446,
     "ads": 9,
     "tracked": true
    },
    "NY-17|Cait Conley": {
-    "spend_mid": 153218,
+    "spend_mid": 155418,
     "ads": 65,
     "tracked": true
    },
    "NY-17|Mike Lawler": {
-    "spend_mid": 114086,
+    "spend_mid": 115686,
     "ads": 128,
     "tracked": true
    },
@@ -172,12 +172,12 @@
     "tracked": true
    },
    "VA-02|Jen Kiggans": {
-    "spend_mid": 67294,
+    "spend_mid": 67794,
     "ads": 311,
     "tracked": true
    },
    "FL-22|Pia Dandiya": {
-    "spend_mid": 200238,
+    "spend_mid": 201838,
     "ads": 123,
     "tracked": true
    },
@@ -187,22 +187,22 @@
     "tracked": true
    },
    "TX-15|Bobby Pulido": {
-    "spend_mid": 152522,
+    "spend_mid": 153222,
     "ads": 1256,
     "tracked": true
    },
    "TX-15|Monica De La Cruz": {
-    "spend_mid": 11444,
+    "spend_mid": 12044,
     "ads": 13,
     "tracked": true
    },
    "AK-GOV|Jonathan Kreiss-Tomkins": {
-    "spend_mid": 134252,
+    "spend_mid": 135602,
     "ads": 95,
     "tracked": true
    },
    "AK-GOV|Treg Taylor": {
-    "spend_mid": 17114,
+    "spend_mid": 17314,
     "ads": 71,
     "tracked": true
    },
@@ -217,32 +217,32 @@
     "tracked": true
    },
    "PA-10|Janelle Stelson": {
-    "spend_mid": 78175,
+    "spend_mid": 79475,
     "ads": 250,
     "tracked": true
    },
    "PA-10|Scott Perry": {
-    "spend_mid": 75242,
+    "spend_mid": 75992,
     "ads": 15,
     "tracked": true
    },
    "PA-07|Bob Brooks": {
-    "spend_mid": 113850,
+    "spend_mid": 114950,
     "ads": 700,
     "tracked": true
    },
    "PA-07|Ryan Mackenzie": {
-    "spend_mid": 23780,
+    "spend_mid": 25280,
     "ads": 39,
     "tracked": true
    },
    "MI-07|Tom Barrett": {
-    "spend_mid": 112088,
+    "spend_mid": 113588,
     "ads": 123,
     "tracked": true
    },
    "MI-07|William Lawrence": {
-    "spend_mid": 17844,
+    "spend_mid": 18944,
     "ads": 12,
     "tracked": true
    },
@@ -257,57 +257,57 @@
     "tracked": true
    },
    "FL-25|Jared Moskowitz": {
-    "spend_mid": 109668,
+    "spend_mid": 110768,
     "ads": 164,
     "tracked": true
    },
    "FL-25|Scott Singer": {
-    "spend_mid": 6040,
+    "spend_mid": 6440,
     "ads": 19,
     "tracked": true
    },
-   "CA-22|Randy Villegas": {
-    "spend_mid": 75440,
-    "ads": 620,
-    "tracked": true
-   },
-   "CA-22|David Valadao": {
-    "spend_mid": 31244,
-    "ads": 13,
-    "tracked": true
-   },
-   "OH-09|Marcy Kaptur": {
-    "spend_mid": 88556,
-    "ads": 88,
-    "tracked": true
-   },
-   "OH-09|Derek Merrin": {
-    "spend_mid": 16867,
-    "ads": 66,
-    "tracked": true
-   },
-   "TX-34|Vicente Gonzalez": {
-    "spend_mid": 76856,
-    "ads": 88,
-    "tracked": true
-   },
-   "TX-34|Eric Flores": {
-    "spend_mid": 27628,
-    "ads": 45,
-    "tracked": true
-   },
    "IA-01|Christina Bohannan": {
-    "spend_mid": 82875,
+    "spend_mid": 84175,
     "ads": 150,
     "tracked": true
    },
    "IA-01|Mariannette Miller-Meeks": {
-    "spend_mid": 21288,
+    "spend_mid": 23488,
     "ads": 24,
     "tracked": true
    },
+   "OH-09|Marcy Kaptur": {
+    "spend_mid": 90056,
+    "ads": 88,
+    "tracked": true
+   },
+   "OH-09|Derek Merrin": {
+    "spend_mid": 17467,
+    "ads": 66,
+    "tracked": true
+   },
+   "CA-22|Randy Villegas": {
+    "spend_mid": 75540,
+    "ads": 620,
+    "tracked": true
+   },
+   "CA-22|David Valadao": {
+    "spend_mid": 31744,
+    "ads": 13,
+    "tracked": true
+   },
+   "TX-34|Vicente Gonzalez": {
+    "spend_mid": 77556,
+    "ads": 88,
+    "tracked": true
+   },
+   "TX-34|Eric Flores": {
+    "spend_mid": 27828,
+    "ads": 45,
+    "tracked": true
+   },
    "OH-07|Brian Poindexter": {
-    "spend_mid": 85180,
+    "spend_mid": 88180,
     "ads": 139,
     "tracked": true
    },
@@ -317,7 +317,7 @@
     "tracked": true
    },
    "FL-14|Kathy Castor": {
-    "spend_mid": 64648,
+    "spend_mid": 65448,
     "ads": 104,
     "tracked": true
    },
@@ -327,7 +327,7 @@
     "tracked": true
    },
    "MI-10|Christina Hines": {
-    "spend_mid": 68971,
+    "spend_mid": 69571,
     "ads": 58,
     "tracked": true
    },
@@ -337,17 +337,17 @@
     "tracked": true
    },
    "PA-08|Paige Cognetti": {
-    "spend_mid": 40177,
+    "spend_mid": 40677,
     "ads": 46,
     "tracked": true
    },
    "PA-08|Rob Bresnahan": {
-    "spend_mid": 21486,
+    "spend_mid": 21886,
     "ads": 28,
     "tracked": true
    },
    "NC-11|Jamie Ager": {
-    "spend_mid": 47666,
+    "spend_mid": 48166,
     "ads": 67,
     "tracked": true
    },
@@ -391,25 +391,26 @@
   "2026-10-05",
   "2026-10-12",
   "2026-10-19",
-  "2026-10-26"
+  "2026-10-26",
+  "2026-11-02"
  ],
  "summary": {
   "races": 34,
   "candidates": 70,
   "candidates_tracked": 70,
-  "spend_lo": 34414500,
-  "spend_hi": 44843886,
-  "spend_mid": 39629192,
-  "ads": 37414,
-  "active_ads": 3204,
+  "spend_lo": 34900500,
+  "spend_hi": 45451485,
+  "spend_mid": 40175992,
+  "ads": 37415,
+  "active_ads": 3030,
   "by_chamber": {
-   "senate": 26286662,
-   "governor": 9074102,
-   "house": 4268428
+   "senate": 26523362,
+   "governor": 9307502,
+   "house": 4345128
   },
   "by_party": {
-   "D": 31926664,
-   "R": 7702528
+   "D": 32229064,
+   "R": 7946928
   },
   "google_spend_usd": 0,
   "google_candidates_tracked": 0
@@ -421,12 +422,12 @@
    "race": "TX-SEN",
    "race_label": "Texas Senate",
    "chamber": "senate",
-   "spend_lo": 8732600,
-   "spend_hi": 10413399,
-   "spend_mid": 9573000,
+   "spend_lo": 8772400,
+   "spend_hi": 10473899,
+   "spend_mid": 9623150,
    "ads": 501,
-   "active_ads": 46,
-   "spend_change_mid": 73100
+   "active_ads": 27,
+   "spend_change_mid": 50150
   },
   {
    "name": "Abdul El-Sayed",
@@ -434,12 +435,12 @@
    "race": "MI-SEN",
    "race_label": "Michigan Senate",
    "chamber": "senate",
-   "spend_lo": 6456800,
-   "spend_hi": 8365534,
-   "spend_mid": 7411167,
+   "spend_lo": 6527100,
+   "spend_hi": 8439634,
+   "spend_mid": 7483367,
    "ads": 6566,
-   "active_ads": 346,
-   "spend_change_mid": 159350
+   "active_ads": 307,
+   "spend_change_mid": 72200
   },
   {
    "name": "Vivek Ramaswamy",
@@ -447,12 +448,12 @@
    "race": "OH-GOV",
    "race_label": "Ohio Governor",
    "chamber": "governor",
-   "spend_lo": 2410000,
-   "spend_hi": 3108980,
-   "spend_mid": 2759490,
+   "spend_lo": 2522700,
+   "spend_hi": 3244980,
+   "spend_mid": 2883840,
    "ads": 2120,
-   "active_ads": 151,
-   "spend_change_mid": 92900
+   "active_ads": 149,
+   "spend_change_mid": 124350
   },
   {
    "name": "Troy Jackson",
@@ -460,12 +461,12 @@
    "race": "ME-SEN",
    "race_label": "Maine Senate",
    "chamber": "senate",
-   "spend_lo": 1852200,
-   "spend_hi": 2671210,
-   "spend_mid": 2261705,
+   "spend_lo": 1861700,
+   "spend_hi": 2687710,
+   "spend_mid": 2274705,
    "ads": 4690,
-   "active_ads": 201,
-   "spend_change_mid": 7100
+   "active_ads": 182,
+   "spend_change_mid": 13000
   },
   {
    "name": "Sherrod Brown",
@@ -473,12 +474,12 @@
    "race": "OH-SEN",
    "race_label": "Ohio Senate",
    "chamber": "senate",
-   "spend_lo": 1885200,
-   "spend_hi": 2329056,
-   "spend_mid": 2107128,
+   "spend_lo": 1913000,
+   "spend_hi": 2373056,
+   "spend_mid": 2143028,
    "ads": 544,
-   "active_ads": 94,
-   "spend_change_mid": 6950
+   "active_ads": 48,
+   "spend_change_mid": 35900
   },
   {
    "name": "Amy Acton",
@@ -486,12 +487,12 @@
    "race": "OH-GOV",
    "race_label": "Ohio Governor",
    "chamber": "governor",
-   "spend_lo": 1785200,
-   "spend_hi": 2402048,
-   "spend_mid": 2093624,
+   "spend_lo": 1788200,
+   "spend_hi": 2405948,
+   "spend_mid": 2097074,
    "ads": 2552,
-   "active_ads": 266,
-   "spend_change_mid": 3000
+   "active_ads": 246,
+   "spend_change_mid": 3450
   },
   {
    "name": "Tom Tiffany",
@@ -499,12 +500,12 @@
    "race": "WI-GOV",
    "race_label": "Wisconsin Governor",
    "chamber": "governor",
-   "spend_lo": 1465100,
-   "spend_hi": 1862601,
-   "spend_mid": 1663850,
+   "spend_lo": 1498500,
+   "spend_hi": 1910301,
+   "spend_mid": 1704400,
    "ads": 899,
-   "active_ads": 110,
-   "spend_change_mid": 44250
+   "active_ads": 109,
+   "spend_change_mid": 40550
   },
   {
    "name": "Josh Turek",
@@ -512,12 +513,12 @@
    "race": "IA-SEN",
    "race_label": "Iowa Senate",
    "chamber": "senate",
-   "spend_lo": 1333100,
-   "spend_hi": 1785506,
-   "spend_mid": 1559303,
+   "spend_lo": 1339800,
+   "spend_hi": 1800206,
+   "spend_mid": 1570003,
    "ads": 2094,
    "active_ads": 137,
-   "spend_change_mid": 18400
+   "spend_change_mid": 10700
   },
   {
    "name": "Mary Peltola",
@@ -525,12 +526,12 @@
    "race": "AK-SEN",
    "race_label": "Alaska Senate",
    "chamber": "senate",
-   "spend_lo": 1223200,
-   "spend_hi": 1525182,
-   "spend_mid": 1374191,
+   "spend_lo": 1243200,
+   "spend_hi": 1554982,
+   "spend_mid": 1399091,
    "ads": 718,
    "active_ads": 109,
-   "spend_change_mid": 26700
+   "spend_change_mid": 24900
   },
   {
    "name": "Rick Jackson",
@@ -538,12 +539,12 @@
    "race": "GA-GOV",
    "race_label": "Georgia Governor",
    "chamber": "governor",
-   "spend_lo": 893700,
-   "spend_hi": 1157224,
-   "spend_mid": 1025462,
+   "spend_lo": 926200,
+   "spend_hi": 1195324,
+   "spend_mid": 1060762,
    "ads": 276,
    "active_ads": 51,
-   "spend_change_mid": 32550
+   "spend_change_mid": 35300
   }
  ],
  "untracked": [],
@@ -556,10 +557,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-23",
-   "spend_mid": 10014068,
+   "spend_mid": 10066218,
    "spend_by_party": {
-    "R": 441068,
-    "D": 9573000
+    "R": 443068,
+    "D": 9623150
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -581,26 +582,26 @@
      ],
      "committee": "TALARICO FOR TEXAS",
      "ads": 501,
-     "active_ads": 46,
-     "new_ads_7d": 4,
-     "spend_lo": 8732600,
-     "spend_hi": 10413399,
-     "spend_mid": 9573000,
-     "impressions_lo": 132730200,
-     "impressions_hi": 142001775,
+     "active_ads": 27,
+     "new_ads_7d": 0,
+     "spend_lo": 8772400,
+     "spend_hi": 10473899,
+     "spend_mid": 9623150,
+     "impressions_lo": 133078200,
+     "impressions_hi": 142394775,
      "open_ended_ads": 76,
      "non_usd_ads": 0,
-     "spend_change_mid": 73100,
+     "spend_change_mid": 50150,
      "ads_change": 0,
-     "in_state_share": 0.4714,
+     "in_state_share": 0.4723,
      "top_regions": [
       {
        "region": "Texas",
-       "share": 0.4714
+       "share": 0.4723
       },
       {
        "region": "California",
-       "share": 0.0897
+       "share": 0.0895
       },
       {
        "region": "New York",
@@ -616,17 +617,17 @@
       }
      ],
      "age": {
-      "18-24": 0.0553,
-      "25-34": 0.1497,
-      "35-44": 0.1774,
+      "18-24": 0.0554,
+      "25-34": 0.1501,
+      "35-44": 0.1775,
       "45-54": 0.1665,
-      "55-64": 0.1795,
-      "65+": 0.2716,
+      "55-64": 0.1794,
+      "65+": 0.2712,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.5196,
-      "male": 0.469,
+      "female": 0.5197,
+      "male": 0.4689,
       "unknown": 0.0114
      },
      "platforms": {
@@ -646,13 +647,14 @@
       349949,
       283489,
       745570,
-      701845,
-      477929,
-      754618,
-      609573,
-      892701,
-      1109056,
-      869318
+      701618,
+      477391,
+      754180,
+      591525,
+      867668,
+      1089776,
+      935770,
+      47260
      ],
      "top_ads": [
       {
@@ -678,7 +680,7 @@
       {
        "id": "2339016700174303",
        "start": "2026-10-10",
-       "stop": null,
+       "stop": "2026-11-01",
        "text": "Tonight. Not tomorrow. Not later this week. Tonight. We need a huge number of donations today to keep our ads on the air and our organizers in the field. Ken Paxton’s dark money and billionaire donors are spending millio",
        "spend_lo": 250000.0,
        "spend_hi": 299999.0,
@@ -688,7 +690,7 @@
       {
        "id": "2480864925733022",
        "start": "2026-10-07",
-       "stop": "2026-10-27",
+       "stop": null,
        "text": "Donate to James Talarico for the U.S. Senate",
        "spend_lo": 250000.0,
        "spend_hi": 299999.0,
@@ -726,34 +728,34 @@
      ],
      "committee": "Ken Paxton Campaign",
      "ads": 64,
-     "active_ads": 6,
-     "new_ads_7d": 6,
-     "spend_lo": 396200,
-     "spend_hi": 485936,
-     "spend_mid": 441068,
-     "impressions_lo": 7860200,
-     "impressions_hi": 9143037,
+     "active_ads": 5,
+     "new_ads_7d": 0,
+     "spend_lo": 397700,
+     "spend_hi": 488436,
+     "spend_mid": 443068,
+     "impressions_lo": 7895200,
+     "impressions_hi": 9193037,
      "open_ended_ads": 1,
      "non_usd_ads": 0,
-     "spend_change_mid": 1800,
+     "spend_change_mid": 2000,
      "ads_change": 0,
-     "in_state_share": 0.5964,
+     "in_state_share": 0.5953,
      "top_regions": [
       {
        "region": "Texas",
-       "share": 0.5964
+       "share": 0.5953
       },
       {
        "region": "California",
-       "share": 0.0505
+       "share": 0.0507
       },
       {
        "region": "Florida",
-       "share": 0.0445
+       "share": 0.0446
       },
       {
        "region": "New York",
-       "share": 0.0192
+       "share": 0.0193
       },
       {
        "region": "Arizona",
@@ -763,15 +765,15 @@
      "age": {
       "18-24": 0.0022,
       "25-34": 0.0132,
-      "35-44": 0.0298,
+      "35-44": 0.0297,
       "45-54": 0.0807,
-      "55-64": 0.2487,
-      "65+": 0.6255,
+      "55-64": 0.2485,
+      "65+": 0.6257,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.3881,
-      "male": 0.603,
+      "female": 0.3883,
+      "male": 0.6028,
       "unknown": 0.0089
      },
      "platforms": {
@@ -794,10 +796,11 @@
       42010,
       30578,
       16351,
-      26912,
-      33425,
-      22837,
-      20101
+      26787,
+      33072,
+      22667,
+      20371,
+      2379
      ],
      "top_ads": [
       {
@@ -867,10 +870,10 @@
    "held_by": "D",
    "rating": "Toss Up",
    "rating_date": "2026-09-23",
-   "spend_mid": 7475761,
+   "spend_mid": 7547961,
    "spend_by_party": {
     "R": 64594,
-    "D": 7411167
+    "D": 7483367
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -888,22 +891,22 @@
      ],
      "committee": "Abdul for U.S. Senate",
      "ads": 6566,
-     "active_ads": 346,
-     "new_ads_7d": 149,
-     "spend_lo": 6456800,
-     "spend_hi": 8365534,
-     "spend_mid": 7411167,
-     "impressions_lo": 198908100,
-     "impressions_hi": 227844183,
-     "open_ended_ads": 49,
+     "active_ads": 307,
+     "new_ads_7d": 0,
+     "spend_lo": 6527100,
+     "spend_hi": 8439634,
+     "spend_mid": 7483367,
+     "impressions_lo": 200638000,
+     "impressions_hi": 229747684,
+     "open_ended_ads": 50,
      "non_usd_ads": 0,
-     "spend_change_mid": 159350,
+     "spend_change_mid": 72200,
      "ads_change": 0,
-     "in_state_share": 0.4522,
+     "in_state_share": 0.4527,
      "top_regions": [
       {
        "region": "Michigan",
-       "share": 0.4522
+       "share": 0.4527
       },
       {
        "region": "California",
@@ -919,21 +922,21 @@
       },
       {
        "region": "Texas",
-       "share": 0.0308
+       "share": 0.0307
       }
      ],
      "age": {
-      "18-24": 0.0683,
-      "25-34": 0.1866,
-      "35-44": 0.1989,
+      "18-24": 0.0682,
+      "25-34": 0.1865,
+      "35-44": 0.1987,
       "45-54": 0.1604,
-      "55-64": 0.1614,
-      "65+": 0.2243,
+      "55-64": 0.1615,
+      "65+": 0.2245,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.4824,
-      "male": 0.5026,
+      "female": 0.483,
+      "male": 0.502,
       "unknown": 0.015
      },
      "platforms": {
@@ -950,16 +953,17 @@
       403262,
       276815,
       312355,
-      255276,
-      280784,
-      496993,
-      514068,
-      471455,
-      516893,
-      771961,
-      752073,
-      713768,
-      663920
+      255630,
+      281611,
+      497450,
+      514224,
+      471127,
+      516073,
+      766573,
+      748627,
+      712499,
+      663890,
+      81688
      ],
      "top_ads": [
       {
@@ -1104,6 +1108,7 @@
       0,
       1531,
       219,
+      0,
       0
      ],
      "top_ads": [
@@ -1174,10 +1179,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-17",
-   "spend_mid": 4853114,
+   "spend_mid": 4980914,
    "spend_by_party": {
-    "R": 2759490,
-    "D": 2093624
+    "R": 2883840,
+    "D": 2097074
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -1195,22 +1200,22 @@
      ],
      "committee": "Vivek Ramaswamy and Rob McColley for Ohio",
      "ads": 2120,
-     "active_ads": 151,
-     "new_ads_7d": 199,
-     "spend_lo": 2410000,
-     "spend_hi": 3108980,
-     "spend_mid": 2759490,
-     "impressions_lo": 244526600,
-     "impressions_hi": 277965230,
-     "open_ended_ads": 50,
+     "active_ads": 149,
+     "new_ads_7d": 0,
+     "spend_lo": 2522700,
+     "spend_hi": 3244980,
+     "spend_mid": 2883840,
+     "impressions_lo": 250521600,
+     "impressions_hi": 284330233,
+     "open_ended_ads": 53,
      "non_usd_ads": 0,
-     "spend_change_mid": 92900,
+     "spend_change_mid": 124350,
      "ads_change": 0,
-     "in_state_share": 0.9965,
+     "in_state_share": 0.9966,
      "top_regions": [
       {
        "region": "Ohio",
-       "share": 0.9965
+       "share": 0.9966
       },
       {
        "region": "Kentucky",
@@ -1226,20 +1231,20 @@
       },
       {
        "region": "Florida",
-       "share": 0.0003
+       "share": 0.0002
       }
      ],
      "age": {
-      "18-24": 0.1421,
-      "25-34": 0.2251,
-      "35-44": 0.2342,
-      "45-54": 0.1712,
-      "55-64": 0.1287,
-      "65+": 0.0985,
+      "18-24": 0.142,
+      "25-34": 0.2256,
+      "35-44": 0.2338,
+      "45-54": 0.171,
+      "55-64": 0.1288,
+      "65+": 0.0986,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.4879,
+      "female": 0.488,
       "male": 0.5052,
       "unknown": 0.0068
      },
@@ -1258,15 +1263,16 @@
       72006,
       71911,
       70525,
-      74640,
-      84194,
-      90697,
-      88543,
-      104007,
-      376348,
-      400780,
-      362547,
-      700797
+      74684,
+      84244,
+      90748,
+      88594,
+      104058,
+      375999,
+      400326,
+      361795,
+      736337,
+      90119
      ],
      "top_ads": [
       {
@@ -1310,10 +1316,10 @@
        "imp_hi": 1000000.0
       },
       {
-       "id": "1764185138203912",
-       "start": "2026-10-24",
+       "id": "1819852385734316",
+       "start": "2026-10-26",
        "stop": null,
-       "text": "VP Vance: Unlike his opponent, Vivek isn't a career bureaucrat beholden to lobbyists – he’s an outsider who will root out fraud and waste, cut taxes, slash red tape, and put money back in your pocket. Vote Vivek Ramaswam",
+       "text": "Amy Acton shut down small businesses, closed our schools, and sent inflation skyrocketing as COVID Czar. She panicked, mismanaged the crisis, and then resigned and walked away when the going got tough. Meanwhile, Ohio fa",
        "spend_lo": 25000.0,
        "spend_hi": 29999.0,
        "imp_lo": 1000000.0,
@@ -1340,22 +1346,22 @@
      ],
      "committee": "Ohioans for Amy Acton",
      "ads": 2552,
-     "active_ads": 266,
-     "new_ads_7d": 53,
-     "spend_lo": 1785200,
-     "spend_hi": 2402048,
-     "spend_mid": 2093624,
-     "impressions_lo": 112599000,
-     "impressions_hi": 125681490,
+     "active_ads": 246,
+     "new_ads_7d": 0,
+     "spend_lo": 1788200,
+     "spend_hi": 2405948,
+     "spend_mid": 2097074,
+     "impressions_lo": 112679600,
+     "impressions_hi": 125784390,
      "open_ended_ads": 42,
      "non_usd_ads": 0,
-     "spend_change_mid": 3000,
+     "spend_change_mid": 3450,
      "ads_change": 0,
-     "in_state_share": 0.8537,
+     "in_state_share": 0.8533,
      "top_regions": [
       {
        "region": "Ohio",
-       "share": 0.8537
+       "share": 0.8533
       },
       {
        "region": "California",
@@ -1375,12 +1381,12 @@
       }
      ],
      "age": {
-      "18-24": 0.1186,
-      "25-34": 0.2362,
-      "35-44": 0.2038,
+      "18-24": 0.1185,
+      "25-34": 0.2361,
+      "35-44": 0.2037,
       "45-54": 0.1473,
       "55-64": 0.1323,
-      "65+": 0.1616,
+      "65+": 0.1619,
       "Unknown": 0.0002
      },
      "gender": {
@@ -1406,12 +1412,13 @@
       93787,
       96432,
       96778,
-      116852,
-      94196,
-      189641,
-      192533,
-      542569,
-      235724
+      116901,
+      94213,
+      189655,
+      192547,
+      533777,
+      221328,
+      26544
      ],
      "top_ads": [
       {
@@ -1481,10 +1488,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-23",
-   "spend_mid": 2565153,
+   "spend_mid": 2583453,
    "spend_by_party": {
-    "R": 303448,
-    "D": 2261705
+    "R": 308748,
+    "D": 2274705
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -1502,22 +1509,22 @@
      ],
      "committee": "Troy Jackson for Maine",
      "ads": 4690,
-     "active_ads": 201,
-     "new_ads_7d": 240,
-     "spend_lo": 1852200,
-     "spend_hi": 2671210,
-     "spend_mid": 2261705,
-     "impressions_lo": 92543800,
-     "impressions_hi": 108756223,
+     "active_ads": 182,
+     "new_ads_7d": 0,
+     "spend_lo": 1861700,
+     "spend_hi": 2687710,
+     "spend_mid": 2274705,
+     "impressions_lo": 93465100,
+     "impressions_hi": 109813823,
      "open_ended_ads": 13,
      "non_usd_ads": 0,
-     "spend_change_mid": 7100,
+     "spend_change_mid": 13000,
      "ads_change": 0,
-     "in_state_share": 0.8058,
+     "in_state_share": 0.8063,
      "top_regions": [
       {
        "region": "Maine",
-       "share": 0.8058
+       "share": 0.8063
       },
       {
        "region": "Massachusetts",
@@ -1525,7 +1532,7 @@
       },
       {
        "region": "California",
-       "share": 0.0213
+       "share": 0.0212
       },
       {
        "region": "New York",
@@ -1537,17 +1544,17 @@
       }
      ],
      "age": {
-      "18-24": 0.1359,
-      "25-34": 0.2166,
-      "35-44": 0.1698,
-      "45-54": 0.1223,
-      "55-64": 0.1318,
-      "65+": 0.2235,
+      "18-24": 0.1365,
+      "25-34": 0.217,
+      "35-44": 0.1697,
+      "45-54": 0.1221,
+      "55-64": 0.1316,
+      "65+": 0.2229,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.4955,
-      "male": 0.4926,
+      "female": 0.4953,
+      "male": 0.4928,
       "unknown": 0.0119
      },
      "platforms": {
@@ -1566,14 +1573,15 @@
       110373,
       119608,
       122679,
-      129591,
-      171343,
-      187118,
-      171354,
-      187230,
-      159383,
-      158620,
-      123037
+      129504,
+      171466,
+      187294,
+      171942,
+      187901,
+      160054,
+      159226,
+      125635,
+      7654
      ],
      "top_ads": [
       {
@@ -1648,21 +1656,21 @@
      "committee": "COLLINS FOR SENATOR",
      "ads": 903,
      "active_ads": 527,
-     "new_ads_7d": 1,
-     "spend_lo": 245000,
-     "spend_hi": 361897,
-     "spend_mid": 303448,
-     "impressions_lo": 36237200,
-     "impressions_hi": 43094898,
+     "new_ads_7d": 0,
+     "spend_lo": 250100,
+     "spend_hi": 367397,
+     "spend_mid": 308748,
+     "impressions_lo": 37069200,
+     "impressions_hi": 44035898,
      "open_ended_ads": 1,
      "non_usd_ads": 0,
-     "spend_change_mid": 5800,
+     "spend_change_mid": 5300,
      "ads_change": 0,
-     "in_state_share": 0.9955,
+     "in_state_share": 0.9956,
      "top_regions": [
       {
        "region": "Maine",
-       "share": 0.9955
+       "share": 0.9956
       },
       {
        "region": "New Hampshire",
@@ -1682,17 +1690,17 @@
       }
      ],
      "age": {
-      "18-24": 0.0874,
-      "25-34": 0.1202,
-      "35-44": 0.238,
-      "45-54": 0.1807,
-      "55-64": 0.179,
-      "65+": 0.1946,
+      "18-24": 0.0892,
+      "25-34": 0.122,
+      "35-44": 0.2376,
+      "45-54": 0.1799,
+      "55-64": 0.178,
+      "65+": 0.193,
       "Unknown": 0.0002
      },
      "gender": {
-      "female": 0.439,
-      "male": 0.5515,
+      "female": 0.4392,
+      "male": 0.5513,
       "unknown": 0.0095
      },
      "platforms": {
@@ -1710,15 +1718,16 @@
       10984,
       15151,
       12250,
-      18520,
-      19770,
-      18071,
-      19175,
-      23478,
-      25591,
-      28920,
-      36499,
-      33405
+      18564,
+      19819,
+      18119,
+      19173,
+      23449,
+      25538,
+      28926,
+      36637,
+      34124,
+      4380
      ],
      "top_ads": [
       {
@@ -1788,10 +1797,10 @@
    "held_by": "D",
    "rating": "Toss Up",
    "rating_date": "2026-09-17",
-   "spend_mid": 2280460,
+   "spend_mid": 2334760,
    "spend_by_party": {
-    "R": 1663850,
-    "D": 616610
+    "R": 1704400,
+    "D": 630360
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -1809,16 +1818,16 @@
      ],
      "committee": "Tiffany for Wisconsin",
      "ads": 899,
-     "active_ads": 110,
-     "new_ads_7d": 63,
-     "spend_lo": 1465100,
-     "spend_hi": 1862601,
-     "spend_mid": 1663850,
-     "impressions_lo": 154285200,
-     "impressions_hi": 171825550,
-     "open_ended_ads": 49,
+     "active_ads": 109,
+     "new_ads_7d": 0,
+     "spend_lo": 1498500,
+     "spend_hi": 1910301,
+     "spend_mid": 1704400,
+     "impressions_lo": 157708200,
+     "impressions_hi": 175127553,
+     "open_ended_ads": 52,
      "non_usd_ads": 0,
-     "spend_change_mid": 44250,
+     "spend_change_mid": 40550,
      "ads_change": 0,
      "in_state_share": 0.9997,
      "top_regions": [
@@ -1844,17 +1853,17 @@
       }
      ],
      "age": {
-      "18-24": 0.1346,
+      "18-24": 0.1344,
       "25-34": 0.2571,
-      "35-44": 0.2191,
-      "45-54": 0.1597,
+      "35-44": 0.2192,
+      "45-54": 0.1599,
       "55-64": 0.1288,
       "65+": 0.1005,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.4809,
-      "male": 0.5118,
+      "female": 0.4814,
+      "male": 0.5113,
       "unknown": 0.0073
      },
      "platforms": {
@@ -1876,11 +1885,12 @@
       134065,
       197084,
       162647,
-      172442,
-      151401,
-      154806,
-      180954,
-      225187
+      172441,
+      151248,
+      155623,
+      182820,
+      233137,
+      30072
      ],
      "top_ads": [
       {
@@ -1956,32 +1966,32 @@
      "ads": 680,
      "active_ads": 100,
      "new_ads_7d": 0,
-     "spend_lo": 526600,
-     "spend_hi": 706620,
-     "spend_mid": 616610,
-     "impressions_lo": 32480800,
-     "impressions_hi": 36617330,
-     "open_ended_ads": 10,
+     "spend_lo": 539900,
+     "spend_hi": 720820,
+     "spend_mid": 630360,
+     "impressions_lo": 33497700,
+     "impressions_hi": 37664231,
+     "open_ended_ads": 11,
      "non_usd_ads": 0,
-     "spend_change_mid": 18100,
+     "spend_change_mid": 13750,
      "ads_change": 0,
-     "in_state_share": 0.9581,
+     "in_state_share": 0.959,
      "top_regions": [
       {
        "region": "Wisconsin",
-       "share": 0.9581
+       "share": 0.959
       },
       {
        "region": "Illinois",
-       "share": 0.0064
+       "share": 0.0062
       },
       {
        "region": "California",
-       "share": 0.0045
+       "share": 0.0044
       },
       {
        "region": "Minnesota",
-       "share": 0.0044
+       "share": 0.0043
       },
       {
        "region": "New York",
@@ -1989,17 +1999,17 @@
       }
      ],
      "age": {
-      "18-24": 0.0774,
-      "25-34": 0.1959,
-      "35-44": 0.2085,
-      "45-54": 0.1549,
-      "55-64": 0.1437,
-      "65+": 0.2196,
+      "18-24": 0.078,
+      "25-34": 0.1976,
+      "35-44": 0.2094,
+      "45-54": 0.155,
+      "55-64": 0.143,
+      "65+": 0.2169,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.6025,
-      "male": 0.3877,
+      "female": 0.6031,
+      "male": 0.3871,
       "unknown": 0.0098
      },
      "platforms": {
@@ -2020,12 +2030,13 @@
       32364,
       31027,
       38966,
-      26954,
-      33333,
-      62282,
-      67676,
-      130832,
-      113645
+      26894,
+      33269,
+      62218,
+      67611,
+      131182,
+      113504,
+      13795
      ],
      "top_ads": [
       {
@@ -2043,8 +2054,8 @@
        "start": "2026-10-20",
        "stop": null,
        "text": "We checked your record, just like you asked Tom Tiffany.",
-       "spend_lo": 20000.0,
-       "spend_hi": 24999.0,
+       "spend_lo": 25000.0,
+       "spend_hi": 29999.0,
        "imp_lo": 1000000.0,
        "imp_hi": 1000000.0
       },
@@ -2055,8 +2066,8 @@
        "text": "Obama: There is nobody better to lead Wisconsin forward. Vote David Crowley for Governor.",
        "spend_lo": 15000.0,
        "spend_hi": 19999.0,
-       "imp_lo": 600000.0,
-       "imp_hi": 699999.0
+       "imp_lo": 700000.0,
+       "imp_hi": 799999.0
       },
       {
        "id": "1420312366767383",
@@ -2075,8 +2086,8 @@
        "text": "Obama: There is nobody better to lead Wisconsin forward. Vote David Crowley for Governor.",
        "spend_lo": 10000.0,
        "spend_hi": 14999.0,
-       "imp_lo": 450000.0,
-       "imp_hi": 499999.0
+       "imp_lo": 500000.0,
+       "imp_hi": 599999.0
       }
      ],
      "google": {
@@ -2095,10 +2106,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-23",
-   "spend_mid": 2135366,
+   "spend_mid": 2171266,
    "spend_by_party": {
     "R": 28238,
-    "D": 2107128
+    "D": 2143028
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -2116,52 +2127,52 @@
      ],
      "committee": "Friends of Sherrod Brown",
      "ads": 544,
-     "active_ads": 94,
-     "new_ads_7d": 1,
-     "spend_lo": 1885200,
-     "spend_hi": 2329056,
-     "spend_mid": 2107128,
-     "impressions_lo": 67102200,
-     "impressions_hi": 77056665,
+     "active_ads": 48,
+     "new_ads_7d": 0,
+     "spend_lo": 1913000,
+     "spend_hi": 2373056,
+     "spend_mid": 2143028,
+     "impressions_lo": 67608200,
+     "impressions_hi": 77671665,
      "open_ended_ads": 9,
      "non_usd_ads": 0,
-     "spend_change_mid": 6950,
+     "spend_change_mid": 35900,
      "ads_change": 0,
-     "in_state_share": 0.7849,
+     "in_state_share": 0.7858,
      "top_regions": [
       {
        "region": "Ohio",
-       "share": 0.7849
+       "share": 0.7858
       },
       {
        "region": "California",
-       "share": 0.0329
+       "share": 0.0328
       },
       {
        "region": "New York",
-       "share": 0.0191
+       "share": 0.019
       },
       {
        "region": "Pennsylvania",
-       "share": 0.0117
+       "share": 0.0116
       },
       {
        "region": "Florida",
-       "share": 0.0104
+       "share": 0.0103
       }
      ],
      "age": {
       "18-24": 0.1124,
-      "25-34": 0.2403,
-      "35-44": 0.1296,
-      "45-54": 0.1125,
+      "25-34": 0.2405,
+      "35-44": 0.13,
+      "45-54": 0.1127,
       "55-64": 0.1246,
-      "65+": 0.2805,
+      "65+": 0.2798,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.5502,
-      "male": 0.4404,
+      "female": 0.5501,
+      "male": 0.4405,
       "unknown": 0.0094
      },
      "platforms": {
@@ -2169,25 +2180,26 @@
       "instagram": 544
      },
      "weekly_est": [
-      58759,
-      54942,
-      55126,
-      66254,
-      80742,
-      77751,
-      79787,
-      92212,
-      91484,
-      95859,
-      77446,
-      76304,
-      100893,
-      111684,
-      134501,
-      139188,
-      146798,
-      194830,
-      211191
+      58728,
+      54908,
+      55092,
+      66219,
+      80661,
+      77663,
+      79698,
+      92096,
+      91363,
+      95738,
+      77321,
+      76178,
+      100508,
+      111104,
+      133795,
+      138481,
+      144899,
+      201735,
+      221068,
+      24474
      ],
      "top_ads": [
       {
@@ -2195,8 +2207,8 @@
        "start": "2026-10-21",
        "stop": null,
        "text": "Please watch and consider making a donation to Sherrod’s campaign today >>",
-       "spend_lo": 90000.0,
-       "spend_hi": 99999.0,
+       "spend_lo": 100000.0,
+       "spend_hi": 124999.0,
        "imp_lo": 1000000.0,
        "imp_hi": 1000000.0
       },
@@ -2320,6 +2332,7 @@
       0,
       0,
       0,
+      0,
       0
      ],
      "top_ads": [
@@ -2383,313 +2396,6 @@
    ]
   },
   {
-   "id": "IA-SEN",
-   "chamber": "senate",
-   "state": "Iowa",
-   "label": "Iowa Senate",
-   "held_by": "R",
-   "rating": "Toss Up",
-   "rating_date": "2026-09-23",
-   "spend_mid": 1689171,
-   "spend_by_party": {
-    "R": 129868,
-    "D": 1559303
-   },
-   "google_spend_usd": 0,
-   "candidates": [
-    {
-     "name": "Josh Turek",
-     "party": "D",
-     "incumbent": false,
-     "tracked": true,
-     "no_meta_ads": null,
-     "pages": [
-      {
-       "id": "107572881870115",
-       "name": "Josh Turek"
-      }
-     ],
-     "committee": "Josh Turek for Iowa",
-     "ads": 2094,
-     "active_ads": 137,
-     "new_ads_7d": 33,
-     "spend_lo": 1333100,
-     "spend_hi": 1785506,
-     "spend_mid": 1559303,
-     "impressions_lo": 35621300,
-     "impressions_hi": 43241306,
-     "open_ended_ads": 0,
-     "non_usd_ads": 0,
-     "spend_change_mid": 18400,
-     "ads_change": 0,
-     "in_state_share": 0.6371,
-     "top_regions": [
-      {
-       "region": "Iowa",
-       "share": 0.6371
-      },
-      {
-       "region": "California",
-       "share": 0.0535
-      },
-      {
-       "region": "New York",
-       "share": 0.0252
-      },
-      {
-       "region": "Illinois",
-       "share": 0.022
-      },
-      {
-       "region": "Texas",
-       "share": 0.0179
-      }
-     ],
-     "age": {
-      "18-24": 0.0841,
-      "25-34": 0.1429,
-      "35-44": 0.1339,
-      "45-54": 0.1221,
-      "55-64": 0.1579,
-      "65+": 0.3591,
-      "Unknown": 0.0
-     },
-     "gender": {
-      "female": 0.5533,
-      "male": 0.4364,
-      "unknown": 0.0103
-     },
-     "platforms": {
-      "facebook": 2094,
-      "instagram": 2094
-     },
-     "weekly_est": [
-      35693,
-      38703,
-      41181,
-      51042,
-      53173,
-      103740,
-      73644,
-      77431,
-      78355,
-      93284,
-      90997,
-      82888,
-      87148,
-      91680,
-      85278,
-      96210,
-      99367,
-      107453,
-      88549
-     ],
-     "top_ads": [
-      {
-       "id": "2454331735058269",
-       "start": "2026-09-08",
-       "stop": null,
-       "text": "HUGE NEWS: Polling shows Iowa Democrat Josh Turek TIED with Republican Ashley Hinson. But that means MAGA Republicans will mobilize every billionaire, corporation, & dark-money dollar to try to keep this seat red. 𝗪𝗶𝗹𝗹 𝘆",
-       "spend_lo": 80000.0,
-       "spend_hi": 89999.0,
-       "imp_lo": 900000.0,
-       "imp_hi": 999999.0
-      },
-      {
-       "id": "1386539486928922",
-       "start": "2026-09-08",
-       "stop": null,
-       "text": "HUGE NEWS: Polling shows Iowa Democrat Josh Turek TIED with Republican Ashley Hinson. But that means MAGA Republicans will mobilize every billionaire, corporation, & dark-money dollar to try to keep this seat red. 𝗪𝗶𝗹𝗹 𝘆",
-       "spend_lo": 50000.0,
-       "spend_hi": 59999.0,
-       "imp_lo": 600000.0,
-       "imp_hi": 699999.0
-      },
-      {
-       "id": "1065149529649132",
-       "start": "2026-09-15",
-       "stop": null,
-       "text": "A recent poll in Iowa’s U.S. Senate race shows Democrat Josh Turek TIED with Republican Ashley Hinson. The far-right money machine is spending $55 million to keep a stranglehold on Iowa. After this polling, we can expect",
-       "spend_lo": 40000.0,
-       "spend_hi": 44999.0,
-       "imp_lo": 350000.0,
-       "imp_hi": 399999.0
-      },
-      {
-       "id": "1874326940613612",
-       "start": "2026-09-16",
-       "stop": null,
-       "text": "I'm Josh Turek, four-time Paralympian running for Senate in Iowa. My campaign is working hard to reach swing voters because this toss-up race will probably come down to a razor thin margin. MAGA is spending BIG to stop m",
-       "spend_lo": 30000.0,
-       "spend_hi": 34999.0,
-       "imp_lo": 400000.0,
-       "imp_hi": 449999.0
-      },
-      {
-       "id": "879656911763399",
-       "start": "2026-09-16",
-       "stop": "2026-10-23",
-       "text": "MAJOR UPDATE: Cook Political Report just moved my U.S. Senate race in Iowa from \"Lean Republican\" to \"Toss-Up.\" But Cook also gave us a dire warning: \"𝗧𝘂𝗿𝗲𝗸 𝗻𝗲𝗲𝗱𝘀 𝘁𝗼 𝗿𝗮𝗶𝘀𝗲 𝗺𝗼𝗿𝗲 𝗺𝗼𝗻𝗲𝘆 𝗶𝗳 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗴𝗼𝗶𝗻𝗴 𝘁𝗼 𝗿𝗲𝗺𝗮𝗶𝗻 𝗮 𝘁𝗼𝗽-𝘁𝗶𝗲𝗿",
-       "spend_lo": 25000.0,
-       "spend_hi": 29999.0,
-       "imp_lo": 500000.0,
-       "imp_hi": 599999.0
-      }
-     ],
-     "google": {
-      "tracked": false,
-      "spend_usd": 0,
-      "advertisers": []
-     }
-    },
-    {
-     "name": "Ashley Hinson",
-     "party": "R",
-     "incumbent": false,
-     "tracked": true,
-     "no_meta_ads": null,
-     "pages": [
-      {
-       "id": "894096170667732",
-       "name": "Ashley Hinson"
-      }
-     ],
-     "committee": "ASHLEY FOR IOWA",
-     "ads": 64,
-     "active_ads": 9,
-     "new_ads_7d": 17,
-     "spend_lo": 114200,
-     "spend_hi": 145536,
-     "spend_mid": 129868,
-     "impressions_lo": 10064800,
-     "impressions_hi": 11228339,
-     "open_ended_ads": 3,
-     "non_usd_ads": 0,
-     "spend_change_mid": 4000,
-     "ads_change": 0,
-     "in_state_share": 0.9892,
-     "top_regions": [
-      {
-       "region": "Iowa",
-       "share": 0.9892
-      },
-      {
-       "region": "Texas",
-       "share": 0.001
-      },
-      {
-       "region": "California",
-       "share": 0.0008
-      },
-      {
-       "region": "Florida",
-       "share": 0.0007
-      },
-      {
-       "region": "Illinois",
-       "share": 0.0005
-      }
-     ],
-     "age": {
-      "18-24": 0.1723,
-      "25-34": 0.2158,
-      "35-44": 0.213,
-      "45-54": 0.1596,
-      "55-64": 0.1272,
-      "65+": 0.112,
-      "Unknown": 0.0001
-     },
-     "gender": {
-      "female": 0.5056,
-      "male": 0.4873,
-      "unknown": 0.0071
-     },
-     "platforms": {
-      "facebook": 64,
-      "instagram": 64
-     },
-     "weekly_est": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      9978,
-      10637,
-      12884,
-      11120,
-      4464,
-      6728,
-      8958,
-      16385,
-      14309,
-      34405
-     ],
-     "top_ads": [
-      {
-       "id": "1053041867133296",
-       "start": "2026-08-29",
-       "stop": "2026-09-10",
-       "text": "I don’t trade stocks, and no one else in Congress should either – that’s why I voted to ban it. The best investment on Wall Street shouldn’t be a seat in Congress.",
-       "spend_lo": 15000.0,
-       "spend_hi": 19999.0,
-       "imp_lo": 1000000.0,
-       "imp_hi": 1000000.0
-      },
-      {
-       "id": "1121377957050707",
-       "start": "2026-10-26",
-       "stop": null,
-       "text": "Josh Turek is lying about Ashley Hinson because he can’t defend his liberal record. Iowans will see right through the deception. Turek’s lies won’t win. Vote Ashley Hinson for Senate on November 3rd!",
-       "spend_lo": 10000.0,
-       "spend_hi": 14999.0,
-       "imp_lo": 500000.0,
-       "imp_hi": 599999.0
-      },
-      {
-       "id": "2170600173862832",
-       "start": "2026-09-08",
-       "stop": "2026-09-17",
-       "text": "Prices are up and families are getting squeezed. That’s why I’m working with both parties to put the squeeze on Big Pharma and Big Health Insurance companies to bring down premiums and drug prices. We eliminated taxes on",
-       "spend_lo": 10000.0,
-       "spend_hi": 14999.0,
-       "imp_lo": 800000.0,
-       "imp_hi": 899999.0
-      },
-      {
-       "id": "2567935740295825",
-       "start": "2026-10-05",
-       "stop": "2026-10-27",
-       "text": "“I’ve been a Democrat my entire life, and I’m supporting Ashley Hinson.” — Doug I’ll work with anyone — Republican or Democrat — to deliver results for Iowa because that’s what Iowans expect and deserve.",
-       "spend_lo": 9000.0,
-       "spend_hi": 9999.0,
-       "imp_lo": 800000.0,
-       "imp_hi": 899999.0
-      },
-      {
-       "id": "1422169235915210",
-       "start": "2026-10-09",
-       "stop": null,
-       "text": "I am taking on Big Pharma and Big Health Insurance to lower your premiums and prescription drug costs!",
-       "spend_lo": 8000.0,
-       "spend_hi": 8999.0,
-       "imp_lo": 1000000.0,
-       "imp_hi": 1000000.0
-      }
-     ],
-     "google": {
-      "tracked": false,
-      "spend_usd": 0,
-      "advertisers": []
-     }
-    }
-   ]
-  },
-  {
    "id": "AK-SEN",
    "chamber": "senate",
    "state": "Alaska",
@@ -2697,10 +2403,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-23",
-   "spend_mid": 1683663,
+   "spend_mid": 1716563,
    "spend_by_party": {
-    "R": 309472,
-    "D": 1374191
+    "R": 317472,
+    "D": 1399091
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -2719,51 +2425,51 @@
      "committee": "ALASKANS FOR MARY",
      "ads": 718,
      "active_ads": 109,
-     "new_ads_7d": 133,
-     "spend_lo": 1223200,
-     "spend_hi": 1525182,
-     "spend_mid": 1374191,
-     "impressions_lo": 48369400,
-     "impressions_hi": 55470491,
+     "new_ads_7d": 0,
+     "spend_lo": 1243200,
+     "spend_hi": 1554982,
+     "spend_mid": 1399091,
+     "impressions_lo": 49267300,
+     "impressions_hi": 56502391,
      "open_ended_ads": 9,
      "non_usd_ads": 0,
-     "spend_change_mid": 26700,
+     "spend_change_mid": 24900,
      "ads_change": 0,
-     "in_state_share": 0.7824,
+     "in_state_share": 0.7857,
      "top_regions": [
       {
        "region": "Alaska",
-       "share": 0.7824
+       "share": 0.7857
       },
       {
        "region": "California",
-       "share": 0.035
+       "share": 0.0344
       },
       {
        "region": "Washington",
-       "share": 0.0195
+       "share": 0.0192
       },
       {
        "region": "New York",
-       "share": 0.0131
+       "share": 0.0129
       },
       {
        "region": "Texas",
-       "share": 0.0104
+       "share": 0.0103
       }
      ],
      "age": {
-      "18-24": 0.1345,
-      "25-34": 0.2333,
-      "35-44": 0.1875,
-      "45-54": 0.124,
-      "55-64": 0.1143,
-      "65+": 0.2062,
+      "18-24": 0.135,
+      "25-34": 0.2343,
+      "35-44": 0.1882,
+      "45-54": 0.1241,
+      "55-64": 0.1139,
+      "65+": 0.2043,
       "Unknown": 0.0002
      },
      "gender": {
-      "female": 0.4896,
-      "male": 0.4964,
+      "female": 0.4897,
+      "male": 0.4963,
       "unknown": 0.014
      },
      "platforms": {
@@ -2771,25 +2477,26 @@
       "instagram": 641
      },
      "weekly_est": [
-      37919,
-      38148,
-      32945,
-      45807,
-      46366,
-      29195,
-      34279,
-      33853,
-      28187,
-      32596,
-      38405,
-      40373,
-      52994,
-      65793,
-      54506,
-      123337,
-      172692,
-      206602,
-      239948
+      37880,
+      38082,
+      32878,
+      45740,
+      46300,
+      29129,
+      34212,
+      33786,
+      28120,
+      32529,
+      38338,
+      40306,
+      52655,
+      65455,
+      54167,
+      122999,
+      172305,
+      205386,
+      244839,
+      23737
      ],
      "top_ads": [
       {
@@ -2864,15 +2571,15 @@
      "committee": "Alaskans for Sullivan",
      "ads": 256,
      "active_ads": 26,
-     "new_ads_7d": 15,
-     "spend_lo": 273300,
-     "spend_hi": 345644,
-     "spend_mid": 309472,
-     "impressions_lo": 12647000,
-     "impressions_hi": 14686746,
+     "new_ads_7d": 0,
+     "spend_lo": 280800,
+     "spend_hi": 354144,
+     "spend_mid": 317472,
+     "impressions_lo": 12850000,
+     "impressions_hi": 14889746,
      "open_ended_ads": 2,
      "non_usd_ads": 0,
-     "spend_change_mid": 7900,
+     "spend_change_mid": 8000,
      "ads_change": 0,
      "in_state_share": 1.0,
      "top_regions": [
@@ -2898,16 +2605,16 @@
       }
      ],
      "age": {
-      "18-24": 0.0531,
-      "25-34": 0.1857,
-      "35-44": 0.2415,
-      "45-54": 0.1675,
-      "55-64": 0.1592,
-      "65+": 0.1929,
+      "18-24": 0.0524,
+      "25-34": 0.1858,
+      "35-44": 0.2421,
+      "45-54": 0.1676,
+      "55-64": 0.1593,
+      "65+": 0.1926,
       "Unknown": 0.0002
      },
      "gender": {
-      "female": 0.4688,
+      "female": 0.4687,
       "male": 0.5213,
       "unknown": 0.0099
      },
@@ -2933,8 +2640,9 @@
       26637,
       32245,
       45279,
-      38013,
-      44013
+      38085,
+      46720,
+      5220
      ],
      "top_ads": [
       {
@@ -2962,10 +2670,10 @@
        "start": "2026-10-26",
        "stop": null,
        "text": "Peltola Became a D.C. Lobbyist",
-       "spend_lo": 15000.0,
-       "spend_hi": 19999.0,
-       "imp_lo": 600000.0,
-       "imp_hi": 699999.0
+       "spend_lo": 20000.0,
+       "spend_hi": 24999.0,
+       "imp_lo": 700000.0,
+       "imp_hi": 799999.0
       },
       {
        "id": "2014935922555077",
@@ -2997,6 +2705,315 @@
    ]
   },
   {
+   "id": "IA-SEN",
+   "chamber": "senate",
+   "state": "Iowa",
+   "label": "Iowa Senate",
+   "held_by": "R",
+   "rating": "Toss Up",
+   "rating_date": "2026-09-23",
+   "spend_mid": 1706971,
+   "spend_by_party": {
+    "R": 136968,
+    "D": 1570003
+   },
+   "google_spend_usd": 0,
+   "candidates": [
+    {
+     "name": "Josh Turek",
+     "party": "D",
+     "incumbent": false,
+     "tracked": true,
+     "no_meta_ads": null,
+     "pages": [
+      {
+       "id": "107572881870115",
+       "name": "Josh Turek"
+      }
+     ],
+     "committee": "Josh Turek for Iowa",
+     "ads": 2094,
+     "active_ads": 137,
+     "new_ads_7d": 0,
+     "spend_lo": 1339800,
+     "spend_hi": 1800206,
+     "spend_mid": 1570003,
+     "impressions_lo": 35880300,
+     "impressions_hi": 43515306,
+     "open_ended_ads": 0,
+     "non_usd_ads": 0,
+     "spend_change_mid": 10700,
+     "ads_change": 0,
+     "in_state_share": 0.6365,
+     "top_regions": [
+      {
+       "region": "Iowa",
+       "share": 0.6365
+      },
+      {
+       "region": "California",
+       "share": 0.0536
+      },
+      {
+       "region": "New York",
+       "share": 0.0253
+      },
+      {
+       "region": "Illinois",
+       "share": 0.022
+      },
+      {
+       "region": "Texas",
+       "share": 0.0179
+      }
+     ],
+     "age": {
+      "18-24": 0.084,
+      "25-34": 0.143,
+      "35-44": 0.1342,
+      "45-54": 0.1223,
+      "55-64": 0.1579,
+      "65+": 0.3586,
+      "Unknown": 0.0
+     },
+     "gender": {
+      "female": 0.5533,
+      "male": 0.4365,
+      "unknown": 0.0102
+     },
+     "platforms": {
+      "facebook": 2094,
+      "instagram": 2094
+     },
+     "weekly_est": [
+      35693,
+      38703,
+      41181,
+      51042,
+      53173,
+      103740,
+      73644,
+      77431,
+      78353,
+      93275,
+      91028,
+      82730,
+      86709,
+      91179,
+      84769,
+      95696,
+      98781,
+      108408,
+      89880,
+      11100
+     ],
+     "top_ads": [
+      {
+       "id": "2454331735058269",
+       "start": "2026-09-08",
+       "stop": null,
+       "text": "HUGE NEWS: Polling shows Iowa Democrat Josh Turek TIED with Republican Ashley Hinson. But that means MAGA Republicans will mobilize every billionaire, corporation, & dark-money dollar to try to keep this seat red. 𝗪𝗶𝗹𝗹 𝘆",
+       "spend_lo": 80000.0,
+       "spend_hi": 89999.0,
+       "imp_lo": 900000.0,
+       "imp_hi": 999999.0
+      },
+      {
+       "id": "1386539486928922",
+       "start": "2026-09-08",
+       "stop": null,
+       "text": "HUGE NEWS: Polling shows Iowa Democrat Josh Turek TIED with Republican Ashley Hinson. But that means MAGA Republicans will mobilize every billionaire, corporation, & dark-money dollar to try to keep this seat red. 𝗪𝗶𝗹𝗹 𝘆",
+       "spend_lo": 50000.0,
+       "spend_hi": 59999.0,
+       "imp_lo": 700000.0,
+       "imp_hi": 799999.0
+      },
+      {
+       "id": "1065149529649132",
+       "start": "2026-09-15",
+       "stop": null,
+       "text": "A recent poll in Iowa’s U.S. Senate race shows Democrat Josh Turek TIED with Republican Ashley Hinson. The far-right money machine is spending $55 million to keep a stranglehold on Iowa. After this polling, we can expect",
+       "spend_lo": 40000.0,
+       "spend_hi": 44999.0,
+       "imp_lo": 350000.0,
+       "imp_hi": 399999.0
+      },
+      {
+       "id": "1874326940613612",
+       "start": "2026-09-16",
+       "stop": null,
+       "text": "I'm Josh Turek, four-time Paralympian running for Senate in Iowa. My campaign is working hard to reach swing voters because this toss-up race will probably come down to a razor thin margin. MAGA is spending BIG to stop m",
+       "spend_lo": 30000.0,
+       "spend_hi": 34999.0,
+       "imp_lo": 400000.0,
+       "imp_hi": 449999.0
+      },
+      {
+       "id": "879656911763399",
+       "start": "2026-09-16",
+       "stop": "2026-10-23",
+       "text": "MAJOR UPDATE: Cook Political Report just moved my U.S. Senate race in Iowa from \"Lean Republican\" to \"Toss-Up.\" But Cook also gave us a dire warning: \"𝗧𝘂𝗿𝗲𝗸 𝗻𝗲𝗲𝗱𝘀 𝘁𝗼 𝗿𝗮𝗶𝘀𝗲 𝗺𝗼𝗿𝗲 𝗺𝗼𝗻𝗲𝘆 𝗶𝗳 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗴𝗼𝗶𝗻𝗴 𝘁𝗼 𝗿𝗲𝗺𝗮𝗶𝗻 𝗮 𝘁𝗼𝗽-𝘁𝗶𝗲𝗿",
+       "spend_lo": 25000.0,
+       "spend_hi": 29999.0,
+       "imp_lo": 500000.0,
+       "imp_hi": 599999.0
+      }
+     ],
+     "google": {
+      "tracked": false,
+      "spend_usd": 0,
+      "advertisers": []
+     }
+    },
+    {
+     "name": "Ashley Hinson",
+     "party": "R",
+     "incumbent": false,
+     "tracked": true,
+     "no_meta_ads": null,
+     "pages": [
+      {
+       "id": "894096170667732",
+       "name": "Ashley Hinson"
+      }
+     ],
+     "committee": "ASHLEY FOR IOWA",
+     "ads": 64,
+     "active_ads": 9,
+     "new_ads_7d": 0,
+     "spend_lo": 121300,
+     "spend_hi": 152636,
+     "spend_mid": 136968,
+     "impressions_lo": 10564800,
+     "impressions_hi": 11778339,
+     "open_ended_ads": 3,
+     "non_usd_ads": 0,
+     "spend_change_mid": 7100,
+     "ads_change": 0,
+     "in_state_share": 0.9897,
+     "top_regions": [
+      {
+       "region": "Iowa",
+       "share": 0.9897
+      },
+      {
+       "region": "Texas",
+       "share": 0.001
+      },
+      {
+       "region": "California",
+       "share": 0.0008
+      },
+      {
+       "region": "Florida",
+       "share": 0.0006
+      },
+      {
+       "region": "Illinois",
+       "share": 0.0005
+      }
+     ],
+     "age": {
+      "18-24": 0.1713,
+      "25-34": 0.2163,
+      "35-44": 0.214,
+      "45-54": 0.1598,
+      "55-64": 0.1271,
+      "65+": 0.1114,
+      "Unknown": 0.0001
+     },
+     "gender": {
+      "female": 0.5063,
+      "male": 0.4866,
+      "unknown": 0.0071
+     },
+     "platforms": {
+      "facebook": 64,
+      "instagram": 64
+     },
+     "weekly_est": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9978,
+      10637,
+      12884,
+      11120,
+      4464,
+      6728,
+      8859,
+      16153,
+      14078,
+      37299,
+      4769
+     ],
+     "top_ads": [
+      {
+       "id": "1121377957050707",
+       "start": "2026-10-26",
+       "stop": null,
+       "text": "Josh Turek is lying about Ashley Hinson because he can’t defend his liberal record. Iowans will see right through the deception. Turek’s lies won’t win. Vote Ashley Hinson for Senate on November 3rd!",
+       "spend_lo": 15000.0,
+       "spend_hi": 19999.0,
+       "imp_lo": 700000.0,
+       "imp_hi": 799999.0
+      },
+      {
+       "id": "1053041867133296",
+       "start": "2026-08-29",
+       "stop": "2026-09-10",
+       "text": "I don’t trade stocks, and no one else in Congress should either – that’s why I voted to ban it. The best investment on Wall Street shouldn’t be a seat in Congress.",
+       "spend_lo": 15000.0,
+       "spend_hi": 19999.0,
+       "imp_lo": 1000000.0,
+       "imp_hi": 1000000.0
+      },
+      {
+       "id": "2170600173862832",
+       "start": "2026-09-08",
+       "stop": "2026-09-17",
+       "text": "Prices are up and families are getting squeezed. That’s why I’m working with both parties to put the squeeze on Big Pharma and Big Health Insurance companies to bring down premiums and drug prices. We eliminated taxes on",
+       "spend_lo": 10000.0,
+       "spend_hi": 14999.0,
+       "imp_lo": 800000.0,
+       "imp_hi": 899999.0
+      },
+      {
+       "id": "2567935740295825",
+       "start": "2026-10-05",
+       "stop": "2026-10-27",
+       "text": "“I’ve been a Democrat my entire life, and I’m supporting Ashley Hinson.” — Doug I’ll work with anyone — Republican or Democrat — to deliver results for Iowa because that’s what Iowans expect and deserve.",
+       "spend_lo": 9000.0,
+       "spend_hi": 9999.0,
+       "imp_lo": 800000.0,
+       "imp_hi": 899999.0
+      },
+      {
+       "id": "1422169235915210",
+       "start": "2026-10-09",
+       "stop": null,
+       "text": "I am taking on Big Pharma and Big Health Insurance to lower your premiums and prescription drug costs!",
+       "spend_lo": 8000.0,
+       "spend_hi": 8999.0,
+       "imp_lo": 1000000.0,
+       "imp_hi": 1000000.0
+      }
+     ],
+     "google": {
+      "tracked": false,
+      "spend_usd": 0,
+      "advertisers": []
+     }
+    }
+   ]
+  },
+  {
    "id": "GA-GOV",
    "chamber": "governor",
    "state": "Georgia",
@@ -3004,10 +3021,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-17",
-   "spend_mid": 1385758,
+   "spend_mid": 1428258,
    "spend_by_party": {
-    "R": 1025462,
-    "D": 360296
+    "R": 1060762,
+    "D": 367496
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -3026,15 +3043,15 @@
      "committee": "Jackson for Governor, Inc.",
      "ads": 276,
      "active_ads": 51,
-     "new_ads_7d": 41,
-     "spend_lo": 893700,
-     "spend_hi": 1157224,
-     "spend_mid": 1025462,
-     "impressions_lo": 84010500,
-     "impressions_hi": 92062656,
-     "open_ended_ads": 32,
+     "new_ads_7d": 0,
+     "spend_lo": 926200,
+     "spend_hi": 1195324,
+     "spend_mid": 1060762,
+     "impressions_lo": 85578500,
+     "impressions_hi": 93790658,
+     "open_ended_ads": 34,
      "non_usd_ads": 0,
-     "spend_change_mid": 32550,
+     "spend_change_mid": 35300,
      "ads_change": 0,
      "in_state_share": 1.0,
      "top_regions": [
@@ -3060,18 +3077,18 @@
       }
      ],
      "age": {
-      "18-24": 0.0929,
-      "25-34": 0.2635,
-      "35-44": 0.2407,
-      "45-54": 0.1704,
-      "55-64": 0.1276,
-      "65+": 0.1049,
+      "18-24": 0.0935,
+      "25-34": 0.2642,
+      "35-44": 0.2402,
+      "45-54": 0.1699,
+      "55-64": 0.1274,
+      "65+": 0.1047,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.4637,
-      "male": 0.53,
-      "unknown": 0.0063
+      "female": 0.4638,
+      "male": 0.5299,
+      "unknown": 0.0062
      },
      "platforms": {
       "instagram": 276,
@@ -3092,30 +3109,21 @@
       44954,
       68526,
       78088,
-      100417,
-      119841,
-      113820,
-      107599,
-      155690
+      100811,
+      120530,
+      114509,
+      109505,
+      167912,
+      19399
      ],
      "top_ads": [
-      {
-       "id": "2695834187517165",
-       "start": "2026-10-25",
-       "stop": null,
-       "text": "Keep taxes low. Pay our teachers more. Bring good jobs home. Governor Kemp knows Rick Jackson gets it, because he’s lived it. Get out and vote for Rick Jackson by November 3rd!",
-       "spend_lo": 25000.0,
-       "spend_hi": 29999.0,
-       "imp_lo": 1000000.0,
-       "imp_hi": 1000000.0
-      },
       {
        "id": "1468119178713847",
        "start": "2026-10-25",
        "stop": null,
        "text": "Georgians are showing up for Rick Jackson. Join the crowd and cast your vote for Governor! rickjackson.com/vote",
-       "spend_lo": 20000.0,
-       "spend_hi": 24999.0,
+       "spend_lo": 30000.0,
+       "spend_hi": 34999.0,
        "imp_lo": 1000000.0,
        "imp_hi": 1000000.0
       },
@@ -3124,8 +3132,18 @@
        "start": "2026-10-25",
        "stop": null,
        "text": "Don’t sit this one out. Georgia’s future is on the ballot. Vote for Rick Jackson for Governor! rickjackson.com/vote",
-       "spend_lo": 20000.0,
-       "spend_hi": 24999.0,
+       "spend_lo": 25000.0,
+       "spend_hi": 29999.0,
+       "imp_lo": 1000000.0,
+       "imp_hi": 1000000.0
+      },
+      {
+       "id": "2695834187517165",
+       "start": "2026-10-25",
+       "stop": null,
+       "text": "Keep taxes low. Pay our teachers more. Bring good jobs home. Governor Kemp knows Rick Jackson gets it, because he’s lived it. Get out and vote for Rick Jackson by November 3rd!",
+       "spend_lo": 25000.0,
+       "spend_hi": 29999.0,
        "imp_lo": 1000000.0,
        "imp_hi": 1000000.0
       },
@@ -3172,28 +3190,28 @@
      "ads": 107,
      "active_ads": 75,
      "new_ads_7d": 0,
-     "spend_lo": 325900,
-     "spend_hi": 394693,
-     "spend_mid": 360296,
-     "impressions_lo": 5985000,
-     "impressions_hi": 6995993,
+     "spend_lo": 333100,
+     "spend_hi": 401893,
+     "spend_mid": 367496,
+     "impressions_lo": 6015000,
+     "impressions_hi": 7040993,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 3500,
+     "spend_change_mid": 7200,
      "ads_change": 0,
-     "in_state_share": 0.3823,
+     "in_state_share": 0.3821,
      "top_regions": [
       {
        "region": "Georgia",
-       "share": 0.3823
+       "share": 0.3821
       },
       {
        "region": "Florida",
-       "share": 0.0602
+       "share": 0.0603
       },
       {
        "region": "California",
-       "share": 0.0574
+       "share": 0.0575
       },
       {
        "region": "Texas",
@@ -3206,16 +3224,16 @@
      ],
      "age": {
       "18-24": 0.0029,
-      "25-34": 0.0234,
-      "35-44": 0.087,
-      "45-54": 0.1829,
-      "55-64": 0.2921,
-      "65+": 0.4117,
+      "25-34": 0.0235,
+      "35-44": 0.0874,
+      "45-54": 0.1834,
+      "55-64": 0.2919,
+      "65+": 0.4108,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5565,
-      "male": 0.4337,
+      "female": 0.5567,
+      "male": 0.4334,
       "unknown": 0.0099
      },
      "platforms": {
@@ -3223,25 +3241,26 @@
       "instagram": 107
      },
      "weekly_est": [
-      12325,
-      11248,
-      9092,
-      9092,
-      9449,
-      9812,
-      12317,
-      15952,
-      14759,
-      17251,
-      18779,
-      19070,
-      21510,
-      24574,
-      24552,
-      24586,
-      25229,
-      26892,
-      26663
+      12279,
+      11189,
+      9025,
+      9025,
+      9382,
+      9742,
+      12223,
+      15840,
+      14655,
+      17145,
+      18645,
+      18933,
+      21722,
+      25255,
+      25227,
+      25254,
+      25970,
+      27604,
+      27368,
+      3910
      ],
      "top_ads": [
       {
@@ -3311,9 +3330,9 @@
    "held_by": "D",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 785128,
+   "spend_mid": 815928,
    "spend_by_party": {
-    "D": 756056,
+    "D": 786856,
     "R": 29072
    },
    "google_spend_usd": 0,
@@ -3333,52 +3352,52 @@
      "committee": "MARIE FOR CONGRESS",
      "ads": 389,
      "active_ads": 112,
-     "new_ads_7d": 114,
-     "spend_lo": 672600,
-     "spend_hi": 839511,
-     "spend_mid": 756056,
-     "impressions_lo": 9217900,
-     "impressions_hi": 10718213,
+     "new_ads_7d": 0,
+     "spend_lo": 703200,
+     "spend_hi": 870511,
+     "spend_mid": 786856,
+     "impressions_lo": 9408500,
+     "impressions_hi": 10914113,
      "open_ended_ads": 2,
      "non_usd_ads": 0,
-     "spend_change_mid": 33550,
+     "spend_change_mid": 30800,
      "ads_change": 0,
-     "in_state_share": 0.2877,
+     "in_state_share": 0.2868,
      "top_regions": [
       {
        "region": "Washington",
-       "share": 0.2877
+       "share": 0.2868
       },
       {
        "region": "California",
-       "share": 0.1035
+       "share": 0.1036
       },
       {
        "region": "Oregon",
-       "share": 0.0574
+       "share": 0.0569
       },
       {
        "region": "New York",
-       "share": 0.0467
+       "share": 0.0469
       },
       {
        "region": "Texas",
-       "share": 0.0324
+       "share": 0.0325
       }
      ],
      "age": {
-      "18-24": 0.0328,
-      "25-34": 0.0862,
-      "35-44": 0.1607,
+      "18-24": 0.0334,
+      "25-34": 0.087,
+      "35-44": 0.1612,
       "45-54": 0.1722,
-      "55-64": 0.2057,
-      "65+": 0.3424,
+      "55-64": 0.2053,
+      "65+": 0.3408,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.4498,
-      "male": 0.5313,
-      "unknown": 0.0189
+      "female": 0.449,
+      "male": 0.5318,
+      "unknown": 0.0192
      },
      "platforms": {
       "facebook": 389,
@@ -3395,15 +3414,16 @@
       8394,
       9978,
       12326,
-      27607,
-      28293,
-      28382,
-      42666,
-      44929,
-      49313,
-      57985,
-      162847,
-      222822
+      27410,
+      28017,
+      28106,
+      42213,
+      44447,
+      49021,
+      57327,
+      166665,
+      221340,
+      31100
      ],
      "top_ads": [
       {
@@ -3411,8 +3431,8 @@
        "start": "2026-10-19",
        "stop": null,
        "text": "I’m asking you to chip in $3 to help defend one of the most competitive House seats in America. Seriously — just $3. I’m Marie Gluesenkamp Perez, the Democrat representing one of the closest districts in the country. And",
-       "spend_lo": 150000.0,
-       "spend_hi": 174999.0,
+       "spend_lo": 175000.0,
+       "spend_hi": 199999.0,
        "imp_lo": 1000000.0,
        "imp_hi": 1000000.0
       },
@@ -3548,7 +3568,8 @@
       4294,
       5694,
       5476,
-      1649
+      1649,
+      0
      ],
      "top_ads": [
       {
@@ -3618,10 +3639,10 @@
    "held_by": "D",
    "rating": "Toss Up",
    "rating_date": "2026-09-23",
-   "spend_mid": 723480,
+   "spend_mid": 730930,
    "spend_by_party": {
     "R": 0,
-    "D": 723480
+    "D": 730930
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -3638,79 +3659,80 @@
       }
      ],
      "committee": "Chris Pappas for Senate",
-     "ads": 4339,
-     "active_ads": 119,
-     "new_ads_7d": 12,
-     "spend_lo": 460500,
-     "spend_hi": 986461,
-     "spend_mid": 723480,
-     "impressions_lo": 12857600,
-     "impressions_hi": 17151661,
+     "ads": 4340,
+     "active_ads": 130,
+     "new_ads_7d": 0,
+     "spend_lo": 467700,
+     "spend_hi": 994160,
+     "spend_mid": 730930,
+     "impressions_lo": 13122600,
+     "impressions_hi": 17417660,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 2000,
-     "ads_change": 0,
-     "in_state_share": 0.5775,
+     "spend_change_mid": 7450,
+     "ads_change": 1,
+     "in_state_share": 0.5801,
      "top_regions": [
       {
        "region": "New Hampshire",
-       "share": 0.5775
+       "share": 0.5801
       },
       {
        "region": "Massachusetts",
-       "share": 0.0787
+       "share": 0.0781
       },
       {
        "region": "California",
-       "share": 0.0502
+       "share": 0.0499
       },
       {
        "region": "New York",
-       "share": 0.0287
+       "share": 0.0286
       },
       {
        "region": "Florida",
-       "share": 0.0179
+       "share": 0.0178
       }
      ],
      "age": {
-      "18-24": 0.0164,
-      "25-34": 0.0807,
-      "35-44": 0.1199,
-      "45-54": 0.1168,
-      "55-64": 0.1782,
-      "65+": 0.488,
+      "18-24": 0.0165,
+      "25-34": 0.0814,
+      "35-44": 0.1209,
+      "45-54": 0.1175,
+      "55-64": 0.1784,
+      "65+": 0.4854,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5313,
-      "male": 0.4568,
+      "female": 0.5309,
+      "male": 0.4573,
       "unknown": 0.0118
      },
      "platforms": {
-      "facebook": 4339,
-      "instagram": 4330
+      "facebook": 4340,
+      "instagram": 4331
      },
      "weekly_est": [
-      17064,
-      11112,
-      16459,
-      14655,
-      11182,
-      12815,
-      12196,
-      19942,
-      16519,
-      25093,
-      33438,
-      46303,
-      52234,
-      54368,
-      56660,
-      60931,
-      61921,
-      81871,
-      45216
+      16756,
+      10804,
+      16151,
+      14428,
+      11156,
+      12789,
+      12170,
+      19893,
+      16470,
+      25043,
+      33352,
+      46279,
+      52653,
+      54963,
+      57165,
+      61427,
+      62606,
+      82563,
+      47182,
+      5022
      ],
      "top_ads": [
       {
@@ -3720,8 +3742,8 @@
        "text": "A message from Chris Pappas 🔽",
        "spend_lo": 25000.0,
        "spend_hi": 29999.0,
-       "imp_lo": 250000.0,
-       "imp_hi": 299999.0
+       "imp_lo": 300000.0,
+       "imp_hi": 349999.0
       },
       {
        "id": "1807324034048894",
@@ -3732,6 +3754,16 @@
        "spend_hi": 24999.0,
        "imp_lo": 200000.0,
        "imp_hi": 249999.0
+      },
+      {
+       "id": "895339310328215",
+       "start": "2026-09-16",
+       "stop": null,
+       "text": "A message from Chris Pappas 🔽",
+       "spend_lo": 15000.0,
+       "spend_hi": 19999.0,
+       "imp_lo": 90000.0,
+       "imp_hi": 99999.0
       },
       {
        "id": "1063061699756373",
@@ -3752,16 +3784,6 @@
        "spend_hi": 19999.0,
        "imp_lo": 300000.0,
        "imp_hi": 349999.0
-      },
-      {
-       "id": "888364927390595",
-       "start": "2026-01-23",
-       "stop": "2026-10-26",
-       "text": "Hey folks, it’s James Carville with bad news. Democrats’ chances of winning the New Hampshire Senate race have OFFICIALLY been downgraded. That means Republicans are in spitting distance of flipping this seat and cutting",
-       "spend_lo": 15000.0,
-       "spend_hi": 19999.0,
-       "imp_lo": 200000.0,
-       "imp_hi": 249999.0
       }
      ],
      "google": {
@@ -3819,6 +3841,7 @@
       0,
       0,
       0,
+      0,
       0
      ],
      "top_ads": [],
@@ -3838,10 +3861,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 478604,
+   "spend_mid": 484004,
    "spend_by_party": {
     "R": 17088,
-    "D": 461516
+    "D": 466916
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -3861,50 +3884,50 @@
      "ads": 167,
      "active_ads": 51,
      "new_ads_7d": 0,
-     "spend_lo": 411800,
-     "spend_hi": 511233,
-     "spend_mid": 461516,
-     "impressions_lo": 12765300,
-     "impressions_hi": 13979339,
+     "spend_lo": 417200,
+     "spend_hi": 516633,
+     "spend_mid": 466916,
+     "impressions_lo": 12865300,
+     "impressions_hi": 14079339,
      "open_ended_ads": 6,
      "non_usd_ads": 0,
-     "spend_change_mid": 4900,
+     "spend_change_mid": 5400,
      "ads_change": 0,
-     "in_state_share": 0.6855,
+     "in_state_share": 0.6846,
      "top_regions": [
       {
        "region": "Colorado",
-       "share": 0.6855
+       "share": 0.6846
       },
       {
        "region": "California",
-       "share": 0.0655
+       "share": 0.0657
       },
       {
        "region": "Texas",
-       "share": 0.0276
+       "share": 0.0277
       },
       {
        "region": "New York",
-       "share": 0.02
+       "share": 0.0201
       },
       {
        "region": "Florida",
-       "share": 0.0187
+       "share": 0.0188
       }
      ],
      "age": {
-      "18-24": 0.1089,
-      "25-34": 0.239,
-      "35-44": 0.1902,
-      "45-54": 0.1376,
+      "18-24": 0.1092,
+      "25-34": 0.2388,
+      "35-44": 0.1897,
+      "45-54": 0.1373,
       "55-64": 0.1323,
-      "65+": 0.1919,
+      "65+": 0.1927,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.5284,
-      "male": 0.4609,
+      "female": 0.5295,
+      "male": 0.4598,
       "unknown": 0.0107
      },
      "platforms": {
@@ -3917,20 +3940,21 @@
       12460,
       12004,
       12597,
-      14630,
+      14629,
       14686,
-      10545,
-      11300,
-      16293,
-      20602,
-      25494,
-      27930,
-      26157,
-      28258,
-      27936,
-      35640,
-      48772,
-      50636
+      10544,
+      11277,
+      16211,
+      20516,
+      25265,
+      27645,
+      25903,
+      28042,
+      27701,
+      35822,
+      48882,
+      50658,
+      6508
      ],
      "top_ads": [
       {
@@ -3980,8 +4004,8 @@
        "text": "Can you chip in to my campaign right now to help me win one of the closest congressional races in the country? We know that Trump’s corruption knows no limits. And we know what we need to do to put a stop to it: we need ",
        "spend_lo": 15000.0,
        "spend_hi": 19999.0,
-       "imp_lo": 125000.0,
-       "imp_hi": 149999.0
+       "imp_lo": 150000.0,
+       "imp_hi": 174999.0
       }
      ],
      "google": {
@@ -4005,21 +4029,21 @@
      "committee": "ELECTGABEEVANS.COM",
      "ads": 24,
      "active_ads": 10,
-     "new_ads_7d": 2,
+     "new_ads_7d": 0,
      "spend_lo": 14500,
      "spend_hi": 19676,
      "spend_mid": 17088,
-     "impressions_lo": 1538000,
-     "impressions_hi": 1811976,
+     "impressions_lo": 1554000,
+     "impressions_hi": 1827976,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 200,
+     "spend_change_mid": 0,
      "ads_change": 0,
-     "in_state_share": 0.9112,
+     "in_state_share": 0.911,
      "top_regions": [
       {
        "region": "Colorado",
-       "share": 0.9112
+       "share": 0.911
       },
       {
        "region": "Texas",
@@ -4035,21 +4059,21 @@
       },
       {
        "region": "Arizona",
-       "share": 0.0041
+       "share": 0.004
       }
      ],
      "age": {
-      "18-24": 0.0838,
+      "18-24": 0.0836,
       "25-34": 0.2328,
-      "35-44": 0.2418,
-      "45-54": 0.1784,
+      "35-44": 0.2421,
+      "45-54": 0.1787,
       "55-64": 0.1382,
-      "65+": 0.1249,
+      "65+": 0.1246,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.3633,
-      "male": 0.6293,
+      "female": 0.3636,
+      "male": 0.629,
       "unknown": 0.0074
      },
      "platforms": {
@@ -4065,17 +4089,18 @@
       466,
       1100,
       1100,
-      1060,
-      900,
-      947,
-      830,
-      918,
-      1386,
-      1472,
-      1186,
-      1094,
-      1099,
-      1006
+      1058,
+      898,
+      944,
+      827,
+      914,
+      1380,
+      1466,
+      1178,
+      1085,
+      1080,
+      935,
+      134
      ],
      "top_ads": [
       {
@@ -4145,10 +4170,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-17",
-   "spend_mid": 394612,
+   "spend_mid": 401512,
    "spend_by_party": {
-    "R": 202793,
-    "D": 191819
+    "R": 208793,
+    "D": 192719
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -4172,24 +4197,24 @@
      "ads": 14,
      "active_ads": 3,
      "new_ads_7d": 0,
-     "spend_lo": 182500,
-     "spend_hi": 223086,
-     "spend_mid": 202793,
-     "impressions_lo": 8584000,
-     "impressions_hi": 9259990,
-     "open_ended_ads": 4,
+     "spend_lo": 188500,
+     "spend_hi": 229086,
+     "spend_mid": 208793,
+     "impressions_lo": 8684000,
+     "impressions_hi": 9259991,
+     "open_ended_ads": 5,
      "non_usd_ads": 0,
-     "spend_change_mid": 1000,
+     "spend_change_mid": 6000,
      "ads_change": 0,
-     "in_state_share": 0.9996,
+     "in_state_share": 0.9997,
      "top_regions": [
       {
        "region": "Nevada",
-       "share": 0.9996
+       "share": 0.9997
       },
       {
        "region": "California",
-       "share": 0.0002
+       "share": 0.0001
       },
       {
        "region": "Arizona",
@@ -4205,17 +4230,17 @@
       }
      ],
      "age": {
-      "18-24": 0.1514,
-      "25-34": 0.2544,
-      "35-44": 0.2061,
-      "45-54": 0.1548,
-      "55-64": 0.1193,
-      "65+": 0.1126,
+      "18-24": 0.1521,
+      "25-34": 0.2549,
+      "35-44": 0.2058,
+      "45-54": 0.1545,
+      "55-64": 0.1191,
+      "65+": 0.1123,
       "Unknown": 0.0014
      },
      "gender": {
-      "female": 0.4904,
-      "male": 0.4992,
+      "female": 0.4913,
+      "male": 0.4983,
       "unknown": 0.0104
      },
      "platforms": {
@@ -4240,8 +4265,9 @@
       15690,
       15690,
       8965,
-      13272,
-      23226
+      14166,
+      24791,
+      3542
      ],
      "top_ads": [
       {
@@ -4285,14 +4311,14 @@
        "imp_hi": 1000000.0
       },
       {
-       "id": "1341856437902454",
-       "start": "2026-06-10",
-       "stop": "2026-06-25",
-       "text": "Some politicians are all talk. But Governor Joe Lombardo is getting things done for Nevada.",
+       "id": "2065728554079846",
+       "start": "2026-10-22",
+       "stop": null,
+       "text": "Aaron Ford calls himself Nevada’s top cop. No way. Ford cares more about criminals than victims.",
        "spend_lo": 15000.0,
        "spend_hi": 19999.0,
-       "imp_lo": 700000.0,
-       "imp_hi": 799999.0
+       "imp_lo": 1000000.0,
+       "imp_hi": 1000000.0
       }
      ],
      "google": {
@@ -4315,53 +4341,53 @@
      ],
      "committee": "Committee to Elect Aaron Ford",
      "ads": 3362,
-     "active_ads": 43,
-     "new_ads_7d": 172,
-     "spend_lo": 24200,
-     "spend_hi": 359438,
-     "spend_mid": 191819,
-     "impressions_lo": 1077200,
-     "impressions_hi": 2454538,
+     "active_ads": 25,
+     "new_ads_7d": 0,
+     "spend_lo": 25100,
+     "spend_hi": 360338,
+     "spend_mid": 192719,
+     "impressions_lo": 1182100,
+     "impressions_hi": 2559538,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 800,
+     "spend_change_mid": 900,
      "ads_change": 0,
-     "in_state_share": 0.8267,
+     "in_state_share": 0.8363,
      "top_regions": [
       {
        "region": "Nevada",
-       "share": 0.8267
+       "share": 0.8363
       },
       {
        "region": "California",
-       "share": 0.0517
+       "share": 0.0488
       },
       {
        "region": "Texas",
-       "share": 0.0108
+       "share": 0.0102
       },
       {
        "region": "Washington",
-       "share": 0.0084
+       "share": 0.0079
       },
       {
        "region": "New York",
-       "share": 0.0079
+       "share": 0.0075
       }
      ],
      "age": {
-      "18-24": 0.0567,
-      "25-34": 0.141,
-      "35-44": 0.1172,
-      "45-54": 0.0957,
-      "55-64": 0.1627,
-      "65+": 0.4266,
+      "18-24": 0.0652,
+      "25-34": 0.1599,
+      "35-44": 0.1241,
+      "45-54": 0.0923,
+      "55-64": 0.1551,
+      "65+": 0.4032,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.5453,
-      "male": 0.4427,
-      "unknown": 0.012
+      "female": 0.548,
+      "male": 0.4401,
+      "unknown": 0.0119
      },
      "platforms": {
       "facebook": 3362,
@@ -4381,12 +4407,13 @@
       10903,
       7909,
       5374,
-      17111,
-      9424,
-      11435,
-      13740,
-      16825,
-      14706
+      17121,
+      9442,
+      11453,
+      13758,
+      16882,
+      14972,
+      514
      ],
      "top_ads": [
       {
@@ -4404,10 +4431,10 @@
        "start": "2026-10-26",
        "stop": null,
        "text": "Here’s one thing most people don’t know about voting… Make a plan to vote today!",
-       "spend_lo": 1500.0,
-       "spend_hi": 1999.0,
-       "imp_lo": 350000.0,
-       "imp_hi": 399999.0
+       "spend_lo": 2000.0,
+       "spend_hi": 2499.0,
+       "imp_lo": 450000.0,
+       "imp_hi": 499999.0
       },
       {
        "id": "1561397915502615",
@@ -4456,10 +4483,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 350265,
+   "spend_mid": 358865,
    "spend_by_party": {
-    "R": 119609,
-    "D": 230656
+    "R": 121109,
+    "D": 237756
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -4478,25 +4505,25 @@
      "committee": "Sarah for Iowa",
      "ads": 88,
      "active_ads": 20,
-     "new_ads_7d": 1,
-     "spend_lo": 204500,
-     "spend_hi": 256812,
-     "spend_mid": 230656,
-     "impressions_lo": 7557700,
-     "impressions_hi": 8516014,
+     "new_ads_7d": 0,
+     "spend_lo": 209600,
+     "spend_hi": 265912,
+     "spend_mid": 237756,
+     "impressions_lo": 7838700,
+     "impressions_hi": 8802014,
      "open_ended_ads": 2,
      "non_usd_ads": 0,
-     "spend_change_mid": 4700,
+     "spend_change_mid": 7100,
      "ads_change": 0,
-     "in_state_share": 0.9325,
+     "in_state_share": 0.9315,
      "top_regions": [
       {
        "region": "Iowa",
-       "share": 0.9325
+       "share": 0.9315
       },
       {
        "region": "California",
-       "share": 0.0081
+       "share": 0.0082
       },
       {
        "region": "Illinois",
@@ -4504,7 +4531,7 @@
       },
       {
        "region": "New York",
-       "share": 0.0036
+       "share": 0.0037
       },
       {
        "region": "Minnesota",
@@ -4512,17 +4539,17 @@
       }
      ],
      "age": {
-      "18-24": 0.0683,
-      "25-34": 0.1847,
-      "35-44": 0.2069,
+      "18-24": 0.0688,
+      "25-34": 0.1855,
+      "35-44": 0.207,
       "45-54": 0.1513,
-      "55-64": 0.1362,
-      "65+": 0.2526,
+      "55-64": 0.136,
+      "65+": 0.2515,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5604,
-      "male": 0.4301,
+      "female": 0.5612,
+      "male": 0.4294,
       "unknown": 0.0095
      },
      "platforms": {
@@ -4532,23 +4559,24 @@
      "weekly_est": [
       2607,
       2475,
-      2784,
-      3367,
-      3334,
-      3182,
-      3655,
-      8353,
-      10201,
-      9748,
-      10493,
-      16198,
-      15973,
-      17959,
-      15666,
-      20098,
-      19116,
-      26740,
-      29307
+      2780,
+      3361,
+      3328,
+      3176,
+      3649,
+      8346,
+      10195,
+      9742,
+      10486,
+      16191,
+      15962,
+      17945,
+      15653,
+      20073,
+      19027,
+      27986,
+      31060,
+      4315
      ],
      "top_ads": [
       {
@@ -4572,6 +4600,16 @@
        "imp_hi": 1000000.0
       },
       {
+       "id": "29257424353876319",
+       "start": "2026-10-19",
+       "stop": null,
+       "text": "The best way to serve Iowans is to actually listen. What I hear is that people are hurting. Costs are too high, especially for gas and groceries, and Washington isn’t helping. In Congress, I'll work to make life more aff",
+       "spend_lo": 10000.0,
+       "spend_hi": 14999.0,
+       "imp_lo": 700000.0,
+       "imp_hi": 799999.0
+      },
+      {
        "id": "4198775533592421",
        "start": "2026-10-07",
        "stop": "2026-10-20",
@@ -4590,16 +4628,6 @@
        "spend_hi": 14999.0,
        "imp_lo": 900000.0,
        "imp_hi": 999999.0
-      },
-      {
-       "id": "1806882600299022",
-       "start": "2026-07-09",
-       "stop": null,
-       "text": "$5. That’s what I’m asking you to chip in today to help us flip one of the most competitive House seats in the country. I know $5 may not sound like much compared to the millions national Republicans are preparing to spe",
-       "spend_lo": 10000.0,
-       "spend_hi": 14999.0,
-       "imp_lo": 200000.0,
-       "imp_hi": 249999.0
       }
      ],
      "google": {
@@ -4628,14 +4656,14 @@
      "ads": 182,
      "active_ads": 14,
      "new_ads_7d": 0,
-     "spend_lo": 101600,
-     "spend_hi": 137618,
-     "spend_mid": 119609,
-     "impressions_lo": 5501700,
-     "impressions_hi": 6522118,
+     "spend_lo": 102900,
+     "spend_hi": 139318,
+     "spend_mid": 121109,
+     "impressions_lo": 5540700,
+     "impressions_hi": 6566118,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 600,
+     "spend_change_mid": 1500,
      "ads_change": 0,
      "in_state_share": 0.989,
      "top_regions": [
@@ -4661,17 +4689,17 @@
       }
      ],
      "age": {
-      "18-24": 0.0569,
-      "25-34": 0.2041,
-      "35-44": 0.2657,
+      "18-24": 0.0566,
+      "25-34": 0.2042,
+      "35-44": 0.266,
       "45-54": 0.197,
       "55-64": 0.1484,
-      "65+": 0.1278,
+      "65+": 0.1277,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.5243,
-      "male": 0.4685,
+      "female": 0.5245,
+      "male": 0.4684,
       "unknown": 0.0072
      },
      "platforms": {
@@ -4696,8 +4724,9 @@
       8883,
       14622,
       7511,
-      8314,
-      6811
+      8417,
+      7532,
+      677
      ],
      "top_ads": [
       {
@@ -4767,10 +4796,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 339870,
+   "spend_mid": 339970,
    "spend_by_party": {
     "R": 4446,
-    "D": 335424
+    "D": 335524
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -4788,26 +4817,26 @@
      ],
      "committee": "COOKE FOR CONGRESS",
      "ads": 153,
-     "active_ads": 5,
+     "active_ads": 4,
      "new_ads_7d": 0,
-     "spend_lo": 295000,
-     "spend_hi": 375847,
-     "spend_mid": 335424,
-     "impressions_lo": 15174400,
-     "impressions_hi": 17663048,
+     "spend_lo": 295100,
+     "spend_hi": 375947,
+     "spend_mid": 335524,
+     "impressions_lo": 15229400,
+     "impressions_hi": 17748048,
      "open_ended_ads": 1,
      "non_usd_ads": 0,
-     "spend_change_mid": 600,
+     "spend_change_mid": 100,
      "ads_change": 0,
-     "in_state_share": 0.8989,
+     "in_state_share": 0.8983,
      "top_regions": [
       {
        "region": "Wisconsin",
-       "share": 0.8989
+       "share": 0.8983
       },
       {
        "region": "California",
-       "share": 0.0115
+       "share": 0.0116
       },
       {
        "region": "Illinois",
@@ -4823,17 +4852,17 @@
       }
      ],
      "age": {
-      "18-24": 0.064,
+      "18-24": 0.0642,
       "25-34": 0.153,
-      "35-44": 0.1915,
-      "45-54": 0.1533,
-      "55-64": 0.1632,
-      "65+": 0.2751,
+      "35-44": 0.1912,
+      "45-54": 0.1531,
+      "55-64": 0.1631,
+      "65+": 0.2753,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5665,
-      "male": 0.424,
+      "female": 0.566,
+      "male": 0.4245,
       "unknown": 0.0095
      },
      "platforms": {
@@ -4857,9 +4886,10 @@
       16679,
       17555,
       19118,
-      19417,
-      14663,
-      7020
+      19387,
+      14572,
+      6909,
+      332
      ],
      "top_ads": [
       {
@@ -4905,12 +4935,12 @@
       {
        "id": "1135359318957423",
        "start": "2026-10-02",
-       "stop": null,
+       "stop": "2026-11-01",
        "text": "I'm Rebecca Cooke -- daughter of dairy farmers, a local waitress and I’m running for Congress in Wisconsin's 3rd District. Our race is one of the closest red-to-blue races in the country, but our opponent, extremist Derr",
        "spend_lo": 10000.0,
        "spend_hi": 14999.0,
-       "imp_lo": 150000.0,
-       "imp_hi": 174999.0
+       "imp_lo": 175000.0,
+       "imp_hi": 199999.0
       }
      ],
      "google": {
@@ -4938,47 +4968,47 @@
      "spend_lo": 3800,
      "spend_hi": 5091,
      "spend_mid": 4446,
-     "impressions_lo": 185000,
-     "impressions_hi": 222091,
+     "impressions_lo": 200000,
+     "impressions_hi": 237091,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 200,
+     "spend_change_mid": 0,
      "ads_change": 0,
-     "in_state_share": 0.8978,
+     "in_state_share": 0.9048,
      "top_regions": [
       {
        "region": "Wisconsin",
-       "share": 0.8978
+       "share": 0.9048
       },
       {
        "region": "Texas",
-       "share": 0.0114
+       "share": 0.0107
       },
       {
        "region": "California",
-       "share": 0.0086
+       "share": 0.0081
       },
       {
        "region": "Florida",
-       "share": 0.0071
+       "share": 0.0066
       },
       {
        "region": "Illinois",
-       "share": 0.0048
+       "share": 0.0045
       }
      ],
      "age": {
-      "18-24": 0.0636,
-      "25-34": 0.2061,
-      "35-44": 0.2259,
-      "45-54": 0.1642,
-      "55-64": 0.1533,
-      "65+": 0.187
+      "18-24": 0.0646,
+      "25-34": 0.2086,
+      "35-44": 0.229,
+      "45-54": 0.1647,
+      "55-64": 0.1528,
+      "65+": 0.1802
      },
      "gender": {
-      "female": 0.506,
-      "male": 0.4878,
-      "unknown": 0.0062
+      "female": 0.5078,
+      "male": 0.4861,
+      "unknown": 0.0061
      },
      "platforms": {
       "facebook": 9,
@@ -5002,8 +5032,9 @@
       161,
       376,
       376,
-      1107,
-      1076
+      1041,
+      1000,
+      143
      ],
      "top_ads": [
       {
@@ -5013,8 +5044,8 @@
        "text": "It's DVO. The polls are officially OPEN in Wisconsin 🗳️Make your plan to vote early for Republicans today!",
        "spend_lo": 1000.0,
        "spend_hi": 1499.0,
-       "imp_lo": 60000.0,
-       "imp_hi": 69999.0
+       "imp_lo": 70000.0,
+       "imp_hi": 79999.0
       },
       {
        "id": "1432380234999413",
@@ -5023,8 +5054,8 @@
        "text": "🚨It's time to VOTE! Early voting in Wisconsin is now OPEN. You have until November 1st to cast your ballot early. Please vote for Derrick Van Orden today!",
        "spend_lo": 700.0,
        "spend_hi": 799.0,
-       "imp_lo": 40000.0,
-       "imp_hi": 44999.0
+       "imp_lo": 45000.0,
+       "imp_hi": 49999.0
       },
       {
        "id": "1074234158417046",
@@ -5073,10 +5104,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 271104,
+   "spend_mid": 273304,
    "spend_by_party": {
-    "R": 115686,
-    "D": 155418
+    "R": 117786,
+    "D": 155518
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -5095,15 +5126,15 @@
      "committee": "Cait for New York",
      "ads": 65,
      "active_ads": 11,
-     "new_ads_7d": 4,
-     "spend_lo": 138800,
-     "spend_hi": 172035,
-     "spend_mid": 155418,
-     "impressions_lo": 5184000,
-     "impressions_hi": 6045635,
+     "new_ads_7d": 0,
+     "spend_lo": 138900,
+     "spend_hi": 172135,
+     "spend_mid": 155518,
+     "impressions_lo": 5265000,
+     "impressions_hi": 6130635,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 2200,
+     "spend_change_mid": 100,
      "ads_change": 0,
      "in_state_share": 0.9971,
      "top_regions": [
@@ -5129,17 +5160,17 @@
       }
      ],
      "age": {
-      "18-24": 0.0328,
-      "25-34": 0.124,
-      "35-44": 0.2189,
-      "45-54": 0.1914,
-      "55-64": 0.1943,
-      "65+": 0.2386,
+      "18-24": 0.0336,
+      "25-34": 0.1254,
+      "35-44": 0.2199,
+      "45-54": 0.1907,
+      "55-64": 0.1933,
+      "65+": 0.2371,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5295,
-      "male": 0.4648,
+      "female": 0.5297,
+      "male": 0.4646,
       "unknown": 0.0057
      },
      "platforms": {
@@ -5161,11 +5192,12 @@
       12946,
       12743,
       8834,
-      8656,
-      11398,
-      16436,
+      8648,
+      11384,
+      16422,
       14053,
-      12435
+      11596,
+      976
      ],
      "top_ads": [
       {
@@ -5239,16 +5271,16 @@
      ],
      "committee": "Lawler for Congress",
      "ads": 128,
-     "active_ads": 32,
-     "new_ads_7d": 7,
-     "spend_lo": 102100,
-     "spend_hi": 129272,
-     "spend_mid": 115686,
-     "impressions_lo": 10511300,
-     "impressions_hi": 12477872,
+     "active_ads": 31,
+     "new_ads_7d": 0,
+     "spend_lo": 104000,
+     "spend_hi": 131572,
+     "spend_mid": 117786,
+     "impressions_lo": 10637300,
+     "impressions_hi": 12616872,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 1600,
+     "spend_change_mid": 2100,
      "ads_change": 0,
      "in_state_share": 0.9987,
      "top_regions": [
@@ -5274,18 +5306,18 @@
       }
      ],
      "age": {
-      "18-24": 0.105,
+      "18-24": 0.1048,
       "25-34": 0.2113,
-      "35-44": 0.1819,
-      "45-54": 0.1612,
+      "35-44": 0.182,
+      "45-54": 0.1613,
       "55-64": 0.1728,
       "65+": 0.1674,
       "Unknown": 0.0004
      },
      "gender": {
-      "female": 0.5063,
-      "male": 0.4846,
-      "unknown": 0.0091
+      "female": 0.5064,
+      "male": 0.4845,
+      "unknown": 0.009
      },
      "platforms": {
       "facebook": 128,
@@ -5307,10 +5339,11 @@
       8356,
       9769,
       8368,
-      7903,
-      11597,
-      10247,
-      11839
+      7861,
+      11472,
+      10306,
+      12433,
+      1613
      ],
      "top_ads": [
       {
@@ -5380,10 +5413,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 209885,
+   "spend_mid": 211685,
    "spend_by_party": {
-    "R": 67794,
-    "D": 142091
+    "R": 69194,
+    "D": 142491
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -5402,21 +5435,21 @@
      "committee": "Elaine Luria for Congress",
      "ads": 518,
      "active_ads": 36,
-     "new_ads_7d": 2,
-     "spend_lo": 105800,
-     "spend_hi": 178382,
-     "spend_mid": 142091,
-     "impressions_lo": 3254500,
-     "impressions_hi": 4145182,
+     "new_ads_7d": 0,
+     "spend_lo": 106200,
+     "spend_hi": 178782,
+     "spend_mid": 142491,
+     "impressions_lo": 3256500,
+     "impressions_hi": 4148082,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 0,
+     "spend_change_mid": 400,
      "ads_change": 0,
-     "in_state_share": 0.936,
+     "in_state_share": 0.9358,
      "top_regions": [
       {
        "region": "Virginia",
-       "share": 0.936
+       "share": 0.9358
       },
       {
        "region": "California",
@@ -5437,16 +5470,16 @@
      ],
      "age": {
       "18-24": 0.059,
-      "25-34": 0.1381,
-      "35-44": 0.1765,
+      "25-34": 0.138,
+      "35-44": 0.1764,
       "45-54": 0.1607,
       "55-64": 0.1699,
-      "65+": 0.2957,
+      "65+": 0.296,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5397,
-      "male": 0.4503,
+      "female": 0.5395,
+      "male": 0.4504,
       "unknown": 0.0101
      },
      "platforms": {
@@ -5460,19 +5493,20 @@
       1400,
       3848,
       6106,
-      7851,
-      3905,
-      3456,
-      3856,
-      3820,
-      4622,
-      8407,
-      14502,
-      14868,
-      15188,
-      20688,
-      20249,
-      8816
+      7849,
+      3903,
+      3454,
+      3854,
+      3818,
+      4620,
+      8405,
+      14500,
+      14859,
+      15138,
+      20639,
+      20158,
+      8783,
+      648
      ],
      "top_ads": [
       {
@@ -5546,16 +5580,16 @@
      ],
      "committee": "KIGGANS FOR CONGRESS",
      "ads": 311,
-     "active_ads": 60,
-     "new_ads_7d": 9,
-     "spend_lo": 49400,
-     "spend_hi": 86189,
-     "spend_mid": 67794,
-     "impressions_lo": 5609600,
-     "impressions_hi": 6798789,
+     "active_ads": 52,
+     "new_ads_7d": 0,
+     "spend_lo": 50600,
+     "spend_hi": 87789,
+     "spend_mid": 69194,
+     "impressions_lo": 5683500,
+     "impressions_hi": 6872789,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 500,
+     "spend_change_mid": 1400,
      "ads_change": 0,
      "in_state_share": 0.9818,
      "top_regions": [
@@ -5582,16 +5616,16 @@
      ],
      "age": {
       "18-24": 0.0359,
-      "25-34": 0.1057,
-      "35-44": 0.2239,
+      "25-34": 0.106,
+      "35-44": 0.2237,
       "45-54": 0.1905,
-      "55-64": 0.1941,
-      "65+": 0.2499,
+      "55-64": 0.1942,
+      "65+": 0.2497,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.4695,
-      "male": 0.5238,
+      "female": 0.4699,
+      "male": 0.5234,
       "unknown": 0.0067
      },
      "platforms": {
@@ -5614,10 +5648,11 @@
       3748,
       7215,
       8184,
-      6772,
-      8800,
-      7436,
-      8505
+      6786,
+      8709,
+      7381,
+      8980,
+      1057
      ],
      "top_ads": [
       {
@@ -5641,6 +5676,16 @@
        "imp_hi": 349999.0
       },
       {
+       "id": "1416686050651506",
+       "start": "2026-10-23",
+       "stop": null,
+       "text": "",
+       "spend_lo": 2000.0,
+       "spend_hi": 2499.0,
+       "imp_lo": 175000.0,
+       "imp_hi": 199999.0
+      },
+      {
        "id": "1589789255601483",
        "start": "2026-10-14",
        "stop": null,
@@ -5659,16 +5704,6 @@
        "spend_hi": 2499.0,
        "imp_lo": 175000.0,
        "imp_hi": 199999.0
-      },
-      {
-       "id": "1416686050651506",
-       "start": "2026-10-23",
-       "stop": null,
-       "text": "",
-       "spend_lo": 1500.0,
-       "spend_hi": 1999.0,
-       "imp_lo": 150000.0,
-       "imp_hi": 174999.0
       }
      ],
      "google": {
@@ -5687,9 +5722,9 @@
    "held_by": "D",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 201888,
+   "spend_mid": 204588,
    "spend_by_party": {
-    "D": 201838,
+    "D": 204538,
     "R": 50
    },
    "google_spend_usd": 0,
@@ -5708,16 +5743,16 @@
      ],
      "committee": "Pia Dandiya for Congress",
      "ads": 123,
-     "active_ads": 41,
-     "new_ads_7d": 40,
-     "spend_lo": 175000,
-     "spend_hi": 228677,
-     "spend_mid": 201838,
-     "impressions_lo": 14170500,
-     "impressions_hi": 15985981,
+     "active_ads": 40,
+     "new_ads_7d": 0,
+     "spend_lo": 177700,
+     "spend_hi": 231377,
+     "spend_mid": 204538,
+     "impressions_lo": 14403400,
+     "impressions_hi": 16236981,
      "open_ended_ads": 4,
      "non_usd_ads": 0,
-     "spend_change_mid": 1600,
+     "spend_change_mid": 2700,
      "ads_change": 0,
      "in_state_share": 1.0,
      "top_regions": [
@@ -5735,17 +5770,17 @@
       }
      ],
      "age": {
-      "18-24": 0.0819,
-      "25-34": 0.2391,
-      "35-44": 0.2433,
-      "45-54": 0.1794,
-      "55-64": 0.1413,
-      "65+": 0.115,
+      "18-24": 0.082,
+      "25-34": 0.2399,
+      "35-44": 0.2435,
+      "45-54": 0.1793,
+      "55-64": 0.1409,
+      "65+": 0.1144,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.5135,
-      "male": 0.4779,
+      "female": 0.5144,
+      "male": 0.4771,
       "unknown": 0.0086
      },
      "platforms": {
@@ -5766,12 +5801,13 @@
       0,
       0,
       8714,
-      29878,
-      23478,
-      29591,
-      33525,
-      33525,
-      24494
+      29861,
+      23360,
+      29472,
+      33407,
+      33407,
+      25358,
+      2325
      ],
      "top_ads": [
       {
@@ -5915,6 +5951,7 @@
       50,
       0,
       0,
+      0,
       0
      ],
      "top_ads": [
@@ -5945,10 +5982,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 165266,
+   "spend_mid": 167266,
    "spend_by_party": {
-    "R": 12044,
-    "D": 153222
+    "R": 13244,
+    "D": 154022
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -5967,51 +6004,51 @@
      "committee": "BOBBY PULIDO FOR TEXAS",
      "ads": 1256,
      "active_ads": 6,
-     "new_ads_7d": 4,
-     "spend_lo": 84700,
-     "spend_hi": 221744,
-     "spend_mid": 153222,
-     "impressions_lo": 6973500,
-     "impressions_hi": 8617545,
+     "new_ads_7d": 0,
+     "spend_lo": 85500,
+     "spend_hi": 222544,
+     "spend_mid": 154022,
+     "impressions_lo": 7053500,
+     "impressions_hi": 8762545,
      "open_ended_ads": 1,
      "non_usd_ads": 0,
-     "spend_change_mid": 700,
+     "spend_change_mid": 800,
      "ads_change": 0,
-     "in_state_share": 0.9014,
+     "in_state_share": 0.9028,
      "top_regions": [
       {
        "region": "Texas",
-       "share": 0.9014
+       "share": 0.9028
       },
       {
        "region": "California",
-       "share": 0.0336
+       "share": 0.0331
       },
       {
        "region": "Illinois",
-       "share": 0.0066
+       "share": 0.0065
       },
       {
        "region": "Arizona",
-       "share": 0.006
+       "share": 0.0059
       },
       {
        "region": "Florida",
-       "share": 0.0051
+       "share": 0.005
       }
      ],
      "age": {
-      "18-24": 0.0575,
-      "25-34": 0.1945,
-      "35-44": 0.2273,
-      "45-54": 0.2069,
-      "55-64": 0.1607,
-      "65+": 0.1531,
+      "18-24": 0.0578,
+      "25-34": 0.1953,
+      "35-44": 0.2275,
+      "45-54": 0.2067,
+      "55-64": 0.1603,
+      "65+": 0.1524,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5842,
-      "male": 0.408,
+      "female": 0.5847,
+      "male": 0.4075,
       "unknown": 0.0078
      },
      "platforms": {
@@ -6036,8 +6073,9 @@
       8715,
       7908,
       9264,
-      10776,
-      12492
+      10793,
+      12581,
+      695
      ],
      "top_ads": [
       {
@@ -6113,49 +6151,49 @@
      "ads": 13,
      "active_ads": 5,
      "new_ads_7d": 0,
-     "spend_lo": 10600,
-     "spend_hi": 13487,
-     "spend_mid": 12044,
-     "impressions_lo": 275000,
-     "impressions_hi": 340987,
+     "spend_lo": 11800,
+     "spend_hi": 14687,
+     "spend_mid": 13244,
+     "impressions_lo": 295000,
+     "impressions_hi": 360987,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 600,
+     "spend_change_mid": 1200,
      "ads_change": 0,
-     "in_state_share": 0.882,
+     "in_state_share": 0.8871,
      "top_regions": [
       {
        "region": "Texas",
-       "share": 0.882
+       "share": 0.8871
       },
       {
        "region": "California",
-       "share": 0.0144
+       "share": 0.0138
       },
       {
        "region": "Florida",
-       "share": 0.0116
+       "share": 0.0111
       },
       {
        "region": "New York",
-       "share": 0.0054
+       "share": 0.0051
       },
       {
        "region": "Arizona",
-       "share": 0.0046
+       "share": 0.0043
       }
      ],
      "age": {
-      "18-24": 0.0233,
-      "25-34": 0.0816,
-      "35-44": 0.1596,
-      "45-54": 0.1863,
-      "55-64": 0.205,
-      "65+": 0.3443
+      "18-24": 0.0244,
+      "25-34": 0.0835,
+      "35-44": 0.1645,
+      "45-54": 0.1929,
+      "55-64": 0.2023,
+      "65+": 0.3325
      },
      "gender": {
-      "female": 0.5737,
-      "male": 0.4203,
+      "female": 0.5752,
+      "male": 0.4188,
       "unknown": 0.006
      },
      "platforms": {
@@ -6180,10 +6218,31 @@
       792,
       1264,
       478,
-      2281,
-      4016
+      2469,
+      4438,
+      590
      ],
      "top_ads": [
+      {
+       "id": "4619677451646031",
+       "start": "2026-10-25",
+       "stop": null,
+       "text": "Monica De La Cruz voted YES to putting up to $11,000 back in YOUR pocket. From no tax on tips to no tax on overtime - Monica’s been fighting hard for South Texas in Congress, and she’s just getting started!",
+       "spend_lo": 2000.0,
+       "spend_hi": 2499.0,
+       "imp_lo": 25000.0,
+       "imp_hi": 29999.0
+      },
+      {
+       "id": "1761794575050631",
+       "start": "2026-10-20",
+       "stop": null,
+       "text": "When a family was left with no other choice in their immigration case, they asked Monica De La Cruz for help. She answered the call and delivered. Monica De La Cruz has proven that she puts people over politics. It’s who",
+       "spend_lo": 2000.0,
+       "spend_hi": 2499.0,
+       "imp_lo": 70000.0,
+       "imp_hi": 79999.0
+      },
       {
        "id": "29021264560793513",
        "start": "2026-09-08",
@@ -6193,26 +6252,6 @@
        "spend_hi": 2499.0,
        "imp_lo": 20000.0,
        "imp_hi": 24999.0
-      },
-      {
-       "id": "4619677451646031",
-       "start": "2026-10-25",
-       "stop": null,
-       "text": "Monica De La Cruz voted YES to putting up to $11,000 back in YOUR pocket. From no tax on tips to no tax on overtime - Monica’s been fighting hard for South Texas in Congress, and she’s just getting started!",
-       "spend_lo": 1500.0,
-       "spend_hi": 1999.0,
-       "imp_lo": 20000.0,
-       "imp_hi": 24999.0
-      },
-      {
-       "id": "1761794575050631",
-       "start": "2026-10-20",
-       "stop": null,
-       "text": "When a family was left with no other choice in their immigration case, they asked Monica De La Cruz for help. She answered the call and delivered. Monica De La Cruz has proven that she puts people over politics. It’s who",
-       "spend_lo": 1500.0,
-       "spend_hi": 1999.0,
-       "imp_lo": 60000.0,
-       "imp_hi": 69999.0
       },
       {
        "id": "1929315634693968",
@@ -6251,10 +6290,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-17",
-   "spend_mid": 160158,
+   "spend_mid": 162058,
    "spend_by_party": {
-    "D": 135602,
-    "R": 24556
+    "D": 137302,
+    "R": 24756
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -6274,32 +6313,32 @@
      "ads": 95,
      "active_ads": 11,
      "new_ads_7d": 0,
-     "spend_lo": 119200,
-     "spend_hi": 152005,
-     "spend_mid": 135602,
-     "impressions_lo": 10396100,
-     "impressions_hi": 11672908,
+     "spend_lo": 120900,
+     "spend_hi": 153705,
+     "spend_mid": 137302,
+     "impressions_lo": 10456100,
+     "impressions_hi": 11747908,
      "open_ended_ads": 3,
      "non_usd_ads": 0,
-     "spend_change_mid": 1350,
+     "spend_change_mid": 1700,
      "ads_change": 0,
-     "in_state_share": 0.9925,
+     "in_state_share": 0.992,
      "top_regions": [
       {
        "region": "Alaska",
-       "share": 0.9925
+       "share": 0.992
       },
       {
        "region": "Washington",
-       "share": 0.0013
+       "share": 0.0014
       },
       {
        "region": "California",
-       "share": 0.0011
+       "share": 0.0012
       },
       {
        "region": "Oregon",
-       "share": 0.0005
+       "share": 0.0006
       },
       {
        "region": "New York",
@@ -6307,17 +6346,17 @@
       }
      ],
      "age": {
-      "18-24": 0.154,
-      "25-34": 0.254,
-      "35-44": 0.2116,
+      "18-24": 0.1536,
+      "25-34": 0.2535,
+      "35-44": 0.2115,
       "45-54": 0.1418,
-      "55-64": 0.1152,
-      "65+": 0.1235,
+      "55-64": 0.1154,
+      "65+": 0.124,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.4765,
-      "male": 0.5117,
+      "female": 0.4767,
+      "male": 0.5115,
       "unknown": 0.0118
      },
      "platforms": {
@@ -6341,9 +6380,10 @@
       0,
       0,
       0,
-      3979,
-      13077,
-      11484
+      3926,
+      13144,
+      11602,
+      1569
      ],
      "top_ads": [
       {
@@ -6387,14 +6427,14 @@
        "imp_hi": 349999.0
       },
       {
-       "id": "1466187928997583",
-       "start": "2026-10-16",
-       "stop": "2026-10-26",
-       "text": "The latest public poll shows Democrat Jonathan Kreiss-Tomkins on a path to **win** the race to become the next governor of Alaska on November 3. Our opponents are running for Mike Dunleavy’s third term, promising another",
+       "id": "2302255180635176",
+       "start": "2026-10-21",
+       "stop": null,
+       "text": "",
        "spend_lo": 6000.0,
        "spend_hi": 6999.0,
-       "imp_lo": 50000.0,
-       "imp_hi": 59999.0
+       "imp_lo": 200000.0,
+       "imp_hi": 249999.0
       }
      ],
      "google": {
@@ -6418,51 +6458,51 @@
      "committee": "Treg for Governor",
      "ads": 71,
      "active_ads": 2,
-     "new_ads_7d": 2,
-     "spend_lo": 13000,
-     "spend_hi": 21629,
-     "spend_mid": 17314,
-     "impressions_lo": 1085700,
-     "impressions_hi": 1333129,
+     "new_ads_7d": 0,
+     "spend_lo": 13100,
+     "spend_hi": 21729,
+     "spend_mid": 17414,
+     "impressions_lo": 1095700,
+     "impressions_hi": 1343129,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 200,
+     "spend_change_mid": 100,
      "ads_change": 0,
-     "in_state_share": 0.9135,
+     "in_state_share": 0.906,
      "top_regions": [
       {
        "region": "Alaska",
-       "share": 0.9135
+       "share": 0.906
       },
       {
        "region": "Florida",
-       "share": 0.0054
+       "share": 0.0059
       },
       {
        "region": "Texas",
-       "share": 0.0053
+       "share": 0.0058
       },
       {
        "region": "California",
-       "share": 0.0051
+       "share": 0.0056
       },
       {
        "region": "Illinois",
-       "share": 0.004
+       "share": 0.0044
       }
      ],
      "age": {
-      "18-24": 0.0299,
-      "25-34": 0.0996,
-      "35-44": 0.1744,
-      "45-54": 0.1765,
-      "55-64": 0.2238,
-      "65+": 0.2956,
+      "18-24": 0.0296,
+      "25-34": 0.0988,
+      "35-44": 0.1733,
+      "45-54": 0.1758,
+      "55-64": 0.2245,
+      "65+": 0.2978,
       "Unknown": 0.0002
      },
      "gender": {
-      "female": 0.4222,
-      "male": 0.5687,
+      "female": 0.42,
+      "male": 0.5708,
       "unknown": 0.0091
      },
      "platforms": {
@@ -6487,8 +6527,9 @@
       0,
       119,
       604,
-      2777,
-      1579
+      2800,
+      1592,
+      64
      ],
      "top_ads": [
       {
@@ -6563,15 +6604,15 @@
      "committee": "Bronson for Governor",
      "ads": 15,
      "active_ads": 1,
-     "new_ads_7d": 1,
-     "spend_lo": 6300,
-     "spend_hi": 8185,
-     "spend_mid": 7242,
+     "new_ads_7d": 0,
+     "spend_lo": 6400,
+     "spend_hi": 8285,
+     "spend_mid": 7342,
      "impressions_lo": 425000,
      "impressions_hi": 509185,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 0,
+     "spend_change_mid": 100,
      "ads_change": 0,
      "in_state_share": 1.0,
      "top_regions": [
@@ -6585,12 +6626,12 @@
       }
      ],
      "age": {
-      "18-24": 0.0104,
-      "25-34": 0.079,
+      "18-24": 0.0106,
+      "25-34": 0.0791,
       "35-44": 0.1751,
-      "45-54": 0.1992,
+      "45-54": 0.1991,
       "55-64": 0.2288,
-      "65+": 0.3074,
+      "65+": 0.3073,
       "Unknown": 0.0
      },
      "gender": {
@@ -6621,7 +6662,8 @@
       0,
       0,
       481,
-      418
+      462,
+      56
      ],
      "top_ads": [
       {
@@ -6730,6 +6772,7 @@
       0,
       0,
       0,
+      0,
       0
      ],
      "top_ads": [],
@@ -6749,10 +6792,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 155467,
+   "spend_mid": 157467,
    "spend_by_party": {
     "R": 75992,
-    "D": 79475
+    "D": 81475
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -6771,21 +6814,21 @@
      "committee": "Friends of Janelle Stelson",
      "ads": 250,
      "active_ads": 39,
-     "new_ads_7d": 48,
-     "spend_lo": 62500,
-     "spend_hi": 96450,
-     "spend_mid": 79475,
-     "impressions_lo": 3647000,
-     "impressions_hi": 4423050,
+     "new_ads_7d": 0,
+     "spend_lo": 64500,
+     "spend_hi": 98450,
+     "spend_mid": 81475,
+     "impressions_lo": 3740900,
+     "impressions_hi": 4525050,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 1300,
+     "spend_change_mid": 2000,
      "ads_change": 0,
-     "in_state_share": 0.989,
+     "in_state_share": 0.9888,
      "top_regions": [
       {
        "region": "Pennsylvania",
-       "share": 0.989
+       "share": 0.9888
       },
       {
        "region": "California",
@@ -6805,17 +6848,17 @@
       }
      ],
      "age": {
-      "18-24": 0.1142,
-      "25-34": 0.2827,
-      "35-44": 0.2778,
+      "18-24": 0.1144,
+      "25-34": 0.2835,
+      "35-44": 0.2788,
       "45-54": 0.1009,
-      "55-64": 0.0947,
-      "65+": 0.1297,
+      "55-64": 0.094,
+      "65+": 0.1284,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.312,
-      "male": 0.6833,
+      "female": 0.3158,
+      "male": 0.6796,
       "unknown": 0.0047
      },
      "platforms": {
@@ -6838,10 +6881,11 @@
       5744,
       4848,
       4563,
-      3961,
-      10702,
-      12116,
-      21864
+      3956,
+      10690,
+      12104,
+      21610,
+      2286
      ],
      "top_ads": [
       {
@@ -6859,10 +6903,10 @@
        "start": "2026-10-26",
        "stop": null,
        "text": "Janelle Stelson for PA-10",
-       "spend_lo": 2500.0,
-       "spend_hi": 2999.0,
-       "imp_lo": 60000.0,
-       "imp_hi": 69999.0
+       "spend_lo": 3000.0,
+       "spend_hi": 3499.0,
+       "imp_lo": 80000.0,
+       "imp_hi": 89999.0
       },
       {
        "id": "2004221243551838",
@@ -6871,8 +6915,8 @@
        "text": "Janelle Stelson for PA-10",
        "spend_lo": 2500.0,
        "spend_hi": 2999.0,
-       "imp_lo": 60000.0,
-       "imp_hi": 69999.0
+       "imp_lo": 70000.0,
+       "imp_hi": 79999.0
       },
       {
        "id": "1123666913753536",
@@ -6920,11 +6964,11 @@
      "spend_lo": 69600,
      "spend_hi": 82385,
      "spend_mid": 75992,
-     "impressions_lo": 5395000,
-     "impressions_hi": 6069986,
+     "impressions_lo": 5495000,
+     "impressions_hi": 6169986,
      "open_ended_ads": 1,
      "non_usd_ads": 0,
-     "spend_change_mid": 750,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 1.0,
      "top_regions": [
@@ -6951,16 +6995,16 @@
      ],
      "age": {
       "18-24": 0.0809,
-      "25-34": 0.2229,
-      "35-44": 0.2287,
+      "25-34": 0.2232,
+      "35-44": 0.2289,
       "45-54": 0.1774,
-      "55-64": 0.1514,
-      "65+": 0.1387,
+      "55-64": 0.1512,
+      "65+": 0.1385,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5256,
-      "male": 0.4678,
+      "female": 0.5259,
+      "male": 0.4676,
       "unknown": 0.0065
      },
      "platforms": {
@@ -6985,8 +7029,9 @@
       5261,
       5021,
       6240,
-      6066,
-      3208
+      5890,
+      2961,
+      423
      ],
      "top_ads": [
       {
@@ -7036,8 +7081,8 @@
        "text": "Janelle Stelson has been exposed… being investigated by the police. And hiring illegals with criminal records.",
        "spend_lo": 5000.0,
        "spend_hi": 5999.0,
-       "imp_lo": 500000.0,
-       "imp_hi": 599999.0
+       "imp_lo": 600000.0,
+       "imp_hi": 699999.0
       }
      ],
      "google": {
@@ -7056,10 +7101,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 140230,
+   "spend_mid": 144430,
    "spend_by_party": {
-    "R": 25280,
-    "D": 114950
+    "R": 28480,
+    "D": 115950
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -7078,33 +7123,33 @@
      "committee": "Bob Brooks for Congress",
      "ads": 700,
      "active_ads": 9,
-     "new_ads_7d": 1,
-     "spend_lo": 75700,
-     "spend_hi": 154200,
-     "spend_mid": 114950,
-     "impressions_lo": 4304600,
-     "impressions_hi": 5198300,
+     "new_ads_7d": 0,
+     "spend_lo": 76700,
+     "spend_hi": 155200,
+     "spend_mid": 115950,
+     "impressions_lo": 4364600,
+     "impressions_hi": 5258300,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 1100,
+     "spend_change_mid": 1000,
      "ads_change": 0,
-     "in_state_share": 0.9582,
+     "in_state_share": 0.9588,
      "top_regions": [
       {
        "region": "Pennsylvania",
-       "share": 0.9582
+       "share": 0.9588
       },
       {
        "region": "California",
-       "share": 0.0046
+       "share": 0.0045
       },
       {
        "region": "New York",
-       "share": 0.0041
+       "share": 0.004
       },
       {
        "region": "Florida",
-       "share": 0.0031
+       "share": 0.003
       },
       {
        "region": "New Jersey",
@@ -7112,18 +7157,18 @@
       }
      ],
      "age": {
-      "18-24": 0.0701,
-      "25-34": 0.169,
-      "35-44": 0.26,
-      "45-54": 0.1622,
-      "55-64": 0.1542,
-      "65+": 0.1844,
+      "18-24": 0.0693,
+      "25-34": 0.1673,
+      "35-44": 0.2608,
+      "45-54": 0.1632,
+      "55-64": 0.1548,
+      "65+": 0.1846,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.7144,
-      "male": 0.2786,
-      "unknown": 0.007
+      "female": 0.7169,
+      "male": 0.2761,
+      "unknown": 0.0069
      },
      "platforms": {
       "facebook": 700,
@@ -7143,12 +7188,13 @@
       3341,
       17137,
       13054,
-      13422,
-      9151,
-      10102,
-      7925,
-      9507,
-      6934
+      13373,
+      9082,
+      10125,
+      7983,
+      9566,
+      6962,
+      949
      ],
      "top_ads": [
       {
@@ -7223,52 +7269,52 @@
      "committee": "MACKENZIE FOR CONGRESS",
      "ads": 39,
      "active_ads": 17,
-     "new_ads_7d": 12,
-     "spend_lo": 22100,
-     "spend_hi": 28461,
-     "spend_mid": 25280,
-     "impressions_lo": 1365300,
-     "impressions_hi": 1651961,
+     "new_ads_7d": 0,
+     "spend_lo": 25100,
+     "spend_hi": 31861,
+     "spend_mid": 28480,
+     "impressions_lo": 1496300,
+     "impressions_hi": 1814961,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 1500,
+     "spend_change_mid": 3200,
      "ads_change": 0,
-     "in_state_share": 0.9625,
+     "in_state_share": 0.9554,
      "top_regions": [
       {
        "region": "Pennsylvania",
-       "share": 0.9625
+       "share": 0.9554
       },
       {
        "region": "New Jersey",
-       "share": 0.0075
+       "share": 0.0091
       },
       {
        "region": "New York",
-       "share": 0.0061
+       "share": 0.0073
       },
       {
        "region": "Florida",
-       "share": 0.0037
+       "share": 0.0043
       },
       {
        "region": "Texas",
-       "share": 0.0018
+       "share": 0.0021
       }
      ],
      "age": {
-      "18-24": 0.0594,
-      "25-34": 0.2542,
-      "35-44": 0.2764,
-      "45-54": 0.2407,
-      "55-64": 0.0905,
-      "65+": 0.0789,
+      "18-24": 0.0638,
+      "25-34": 0.2535,
+      "35-44": 0.2729,
+      "45-54": 0.2355,
+      "55-64": 0.0933,
+      "65+": 0.081,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.2794,
-      "male": 0.7165,
-      "unknown": 0.004
+      "female": 0.2995,
+      "male": 0.6962,
+      "unknown": 0.0043
      },
      "platforms": {
       "facebook": 39,
@@ -7292,8 +7338,9 @@
       206,
       343,
       2685,
-      8004,
-      9143
+      8275,
+      10673,
+      1399
      ],
      "top_ads": [
       {
@@ -7301,8 +7348,8 @@
        "start": "2026-10-23",
        "stop": null,
        "text": "Bob Brooks stiffed his own employees out of legally required insurance. He got paid. They got nothing.",
-       "spend_lo": 5000.0,
-       "spend_hi": 5999.0,
+       "spend_lo": 6000.0,
+       "spend_hi": 6999.0,
        "imp_lo": 200000.0,
        "imp_hi": 249999.0
       },
@@ -7341,10 +7388,10 @@
        "start": "2026-10-25",
        "stop": null,
        "text": "Brooks is dodging debates because he has something to hide. Brooks lied on covid grant applications in order to make a buck — defrauding taxpayers out of $30,000. The result? Brooks got paid and taxpayers became the late",
-       "spend_lo": 1000.0,
-       "spend_hi": 1499.0,
-       "imp_lo": 100000.0,
-       "imp_hi": 124999.0
+       "spend_lo": 1500.0,
+       "spend_hi": 1999.0,
+       "imp_lo": 125000.0,
+       "imp_hi": 149999.0
       }
      ],
      "google": {
@@ -7363,9 +7410,9 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 132532,
+   "spend_mid": 133032,
    "spend_by_party": {
-    "R": 113588,
+    "R": 114088,
     "D": 18944
    },
    "google_spend_usd": 0,
@@ -7386,27 +7433,27 @@
      "ads": 123,
      "active_ads": 26,
      "new_ads_7d": 0,
-     "spend_lo": 96500,
-     "spend_hi": 130677,
-     "spend_mid": 113588,
-     "impressions_lo": 5073400,
-     "impressions_hi": 5950077,
+     "spend_lo": 97000,
+     "spend_hi": 131177,
+     "spend_mid": 114088,
+     "impressions_lo": 5128400,
+     "impressions_hi": 6020077,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 1500,
+     "spend_change_mid": 500,
      "ads_change": 0,
-     "in_state_share": 0.9863,
+     "in_state_share": 0.9864,
      "top_regions": [
       {
        "region": "Michigan",
-       "share": 0.9863
-      },
-      {
-       "region": "Florida",
-       "share": 0.001
+       "share": 0.9864
       },
       {
        "region": "Texas",
+       "share": 0.001
+      },
+      {
+       "region": "Florida",
        "share": 0.001
       },
       {
@@ -7419,17 +7466,17 @@
       }
      ],
      "age": {
-      "18-24": 0.0687,
+      "18-24": 0.0686,
       "25-34": 0.1806,
-      "35-44": 0.2074,
-      "45-54": 0.1766,
-      "55-64": 0.1739,
-      "65+": 0.1928,
+      "35-44": 0.2075,
+      "45-54": 0.1769,
+      "55-64": 0.174,
+      "65+": 0.1924,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.4779,
-      "male": 0.5148,
+      "female": 0.4783,
+      "male": 0.5144,
       "unknown": 0.0073
      },
      "platforms": {
@@ -7449,13 +7496,14 @@
       1750,
       1750,
       2250,
-      8779,
-      15917,
-      20842,
-      20256,
-      20067,
-      11772,
-      8955
+      8745,
+      15823,
+      20726,
+      20138,
+      19902,
+      11618,
+      8871,
+      1267
      ],
      "top_ads": [
       {
@@ -7493,10 +7541,10 @@
        "start": "2026-10-24",
        "stop": null,
        "text": "I spent 22 years in the Army defending our American way of life. I know the cost of war. That’s why I broke with my party in June and voted FOUR TIMES to end the Iran war. My opponent, William Lawrence? He called for “de",
-       "spend_lo": 3000.0,
-       "spend_hi": 3499.0,
-       "imp_lo": 150000.0,
-       "imp_hi": 174999.0
+       "spend_lo": 3500.0,
+       "spend_hi": 3999.0,
+       "imp_lo": 175000.0,
+       "imp_hi": 199999.0
       },
       {
        "id": "1550556440089303",
@@ -7529,30 +7577,30 @@
      ],
      "committee": "FRIENDS OF WILLIAM LAWRENCE",
      "ads": 12,
-     "active_ads": 5,
+     "active_ads": 0,
      "new_ads_7d": 0,
      "spend_lo": 17500,
      "spend_hi": 20388,
      "spend_mid": 18944,
-     "impressions_lo": 318000,
-     "impressions_hi": 378988,
+     "impressions_lo": 319000,
+     "impressions_hi": 379988,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 1100,
+     "spend_change_mid": 0,
      "ads_change": 0,
-     "in_state_share": 0.8273,
+     "in_state_share": 0.8265,
      "top_regions": [
       {
        "region": "Michigan",
-       "share": 0.8273
+       "share": 0.8265
       },
       {
        "region": "California",
-       "share": 0.0217
+       "share": 0.0218
       },
       {
        "region": "New York",
-       "share": 0.0149
+       "share": 0.015
       },
       {
        "region": "Florida",
@@ -7560,21 +7608,21 @@
       },
       {
        "region": "Illinois",
-       "share": 0.011
+       "share": 0.0111
       }
      ],
      "age": {
-      "18-24": 0.0345,
-      "25-34": 0.119,
-      "35-44": 0.1437,
-      "45-54": 0.1371,
-      "55-64": 0.1629,
+      "18-24": 0.0346,
+      "25-34": 0.1189,
+      "35-44": 0.1436,
+      "45-54": 0.1369,
+      "55-64": 0.1631,
       "65+": 0.4029,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.6158,
-      "male": 0.369,
+      "female": 0.6157,
+      "male": 0.3691,
       "unknown": 0.0152
      },
      "platforms": {
@@ -7600,13 +7648,14 @@
       2668,
       2879,
       2879,
-      2631
+      2631,
+      0
      ],
      "top_ads": [
       {
        "id": "2338112296944395",
        "start": "2026-09-28",
-       "stop": null,
+       "stop": "2026-11-01",
        "text": "My campaign is 100% people-funded. I don't take a dime of corporate PAC money. During the primary, corporate special interests spent more than $2 million trying to defeat me—from AI companies and crypto groups to the big",
        "spend_lo": 7000.0,
        "spend_hi": 7999.0,
@@ -7626,7 +7675,7 @@
       {
        "id": "1417002827202543",
        "start": "2026-10-07",
-       "stop": null,
+       "stop": "2026-11-01",
        "text": "My campaign is 100% people-funded. I don't take a dime of corporate PAC money. During the primary, corporate special interests spent more than $2 million trying to defeat me—from AI companies and crypto groups to the big",
        "spend_lo": 2500.0,
        "spend_hi": 2999.0,
@@ -7636,7 +7685,7 @@
       {
        "id": "2287849402002501",
        "start": "2026-09-28",
-       "stop": null,
+       "stop": "2026-11-01",
        "text": "My campaign is 100% people-funded. I don't take a dime of corporate PAC money. During the primary, corporate special interests spent more than $2 million trying to defeat me—from AI companies and crypto groups to the big",
        "spend_lo": 800.0,
        "spend_hi": 899.0,
@@ -7670,9 +7719,9 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 122958,
+   "spend_mid": 123158,
    "spend_by_party": {
-    "R": 3946,
+    "R": 4146,
     "D": 119012
    },
    "google_spend_usd": 0,
@@ -7696,21 +7745,21 @@
      "spend_lo": 104400,
      "spend_hi": 133623,
      "spend_mid": 119012,
-     "impressions_lo": 7165500,
-     "impressions_hi": 7980325,
-     "open_ended_ads": 2,
+     "impressions_lo": 7265500,
+     "impressions_hi": 7980326,
+     "open_ended_ads": 3,
      "non_usd_ads": 0,
      "spend_change_mid": 0,
      "ads_change": 0,
-     "in_state_share": 0.8042,
+     "in_state_share": 0.804,
      "top_regions": [
       {
        "region": "Arizona",
-       "share": 0.8042
+       "share": 0.804
       },
       {
        "region": "California",
-       "share": 0.0316
+       "share": 0.0317
       },
       {
        "region": "Texas",
@@ -7728,15 +7777,15 @@
      "age": {
       "18-24": 0.1023,
       "25-34": 0.2293,
-      "35-44": 0.192,
-      "45-54": 0.1443,
-      "55-64": 0.1263,
-      "65+": 0.2052,
+      "35-44": 0.1921,
+      "45-54": 0.1445,
+      "55-64": 0.1264,
+      "65+": 0.205,
       "Unknown": 0.0004
      },
      "gender": {
-      "female": 0.5646,
-      "male": 0.4242,
+      "female": 0.5648,
+      "male": 0.424,
       "unknown": 0.0112
      },
      "platforms": {
@@ -7760,9 +7809,10 @@
       7318,
       8127,
       13744,
-      11528,
-      11944,
-      5833
+      11475,
+      11580,
+      5469,
+      781
      ],
      "top_ads": [
       {
@@ -7782,8 +7832,8 @@
        "text": "JoAnna Mendoza is a proud mom, dedicated lifelong public servant, and retired United States Marine. Throughout her life, she has always answered the call to serve—whether by defending the United States from enemies abroa",
        "spend_lo": 10000.0,
        "spend_hi": 14999.0,
-       "imp_lo": 900000.0,
-       "imp_hi": 999999.0
+       "imp_lo": 1000000.0,
+       "imp_hi": 1000000.0
       },
       {
        "id": "933393012724211",
@@ -7838,14 +7888,14 @@
      "ads": 9,
      "active_ads": 2,
      "new_ads_7d": 0,
-     "spend_lo": 3500,
-     "spend_hi": 4391,
-     "spend_mid": 3946,
-     "impressions_lo": 365000,
-     "impressions_hi": 419991,
+     "spend_lo": 3700,
+     "spend_hi": 4591,
+     "spend_mid": 4146,
+     "impressions_lo": 370000,
+     "impressions_hi": 424991,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 0,
+     "spend_change_mid": 200,
      "ads_change": 0,
      "in_state_share": 0.9997,
      "top_regions": [
@@ -7868,16 +7918,16 @@
      ],
      "age": {
       "18-24": 0.007,
-      "25-34": 0.0384,
-      "35-44": 0.1247,
-      "45-54": 0.1773,
-      "55-64": 0.2574,
-      "65+": 0.3952,
+      "25-34": 0.0392,
+      "35-44": 0.1255,
+      "45-54": 0.1774,
+      "55-64": 0.2567,
+      "65+": 0.3943,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.3833,
-      "male": 0.6099,
+      "female": 0.3853,
+      "male": 0.6079,
       "unknown": 0.0068
      },
      "platforms": {
@@ -7892,18 +7942,19 @@
       0,
       0,
       0,
-      46,
-      103,
-      491,
-      391,
-      220,
-      653,
-      709,
-      129,
-      239,
-      202,
-      448,
-      316
+      51,
+      110,
+      499,
+      398,
+      228,
+      661,
+      716,
+      137,
+      246,
+      210,
+      487,
+      360,
+      42
      ],
      "top_ads": [
       {
@@ -7921,10 +7972,20 @@
        "start": "2026-08-12",
        "stop": null,
        "text": "🚨RADICAL POLICIES. RADICAL ALLIES.🚨 JoAnna Mendoza is endorsed by Tucson’s Failed, Unpopular Mayor Regina Romero for AZ06. Under Romero's failed leadership: ❌Police officers and firefighters stretched thin ❌Homelessness ",
-       "spend_lo": 700.0,
-       "spend_hi": 799.0,
+       "spend_lo": 800.0,
+       "spend_hi": 899.0,
        "imp_lo": 80000.0,
        "imp_hi": 89999.0
+      },
+      {
+       "id": "2197337211206968",
+       "start": "2026-10-20",
+       "stop": null,
+       "text": "Chris is an injured combat veteran. He’s also a registered Democrat. When he had nowhere else to turn, he called my office. We answered. And we delivered. I work for EVERYONE in #AZ06. No party lines. No politics. Just p",
+       "spend_lo": 400.0,
+       "spend_hi": 499.0,
+       "imp_lo": 35000.0,
+       "imp_hi": 39999.0
       },
       {
        "id": "1619808599733605",
@@ -7935,16 +7996,6 @@
        "spend_hi": 499.0,
        "imp_lo": 40000.0,
        "imp_hi": 44999.0
-      },
-      {
-       "id": "2197337211206968",
-       "start": "2026-10-20",
-       "stop": null,
-       "text": "Chris is an injured combat veteran. He’s also a registered Democrat. When he had nowhere else to turn, he called my office. We answered. And we delivered. I work for EVERYONE in #AZ06. No party lines. No politics. Just p",
-       "spend_lo": 300.0,
-       "spend_hi": 399.0,
-       "imp_lo": 30000.0,
-       "imp_hi": 34999.0
       },
       {
        "id": "2640434566383586",
@@ -7973,9 +8024,9 @@
    "held_by": "D",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 117208,
+   "spend_mid": 119208,
    "spend_by_party": {
-    "D": 110768,
+    "D": 112768,
     "R": 6440
    },
    "google_spend_usd": 0,
@@ -7995,21 +8046,21 @@
      "committee": "Jared Moskowitz for Congress",
      "ads": 164,
      "active_ads": 40,
-     "new_ads_7d": 79,
-     "spend_lo": 96100,
-     "spend_hi": 125436,
-     "spend_mid": 110768,
-     "impressions_lo": 3944400,
-     "impressions_hi": 4741336,
+     "new_ads_7d": 0,
+     "spend_lo": 98100,
+     "spend_hi": 127436,
+     "spend_mid": 112768,
+     "impressions_lo": 4017300,
+     "impressions_hi": 4826336,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 1100,
+     "spend_change_mid": 2000,
      "ads_change": 0,
-     "in_state_share": 0.8173,
+     "in_state_share": 0.8175,
      "top_regions": [
       {
        "region": "Florida",
-       "share": 0.8173
+       "share": 0.8175
       },
       {
        "region": "New York",
@@ -8017,7 +8068,7 @@
       },
       {
        "region": "New Jersey",
-       "share": 0.0149
+       "share": 0.0148
       },
       {
        "region": "California",
@@ -8029,18 +8080,18 @@
       }
      ],
      "age": {
-      "18-24": 0.0386,
-      "25-34": 0.1424,
-      "35-44": 0.179,
-      "45-54": 0.1752,
-      "55-64": 0.1949,
-      "65+": 0.2698,
+      "18-24": 0.0389,
+      "25-34": 0.143,
+      "35-44": 0.1793,
+      "45-54": 0.1754,
+      "55-64": 0.1948,
+      "65+": 0.2684,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.6103,
-      "male": 0.3744,
-      "unknown": 0.0153
+      "female": 0.61,
+      "male": 0.3748,
+      "unknown": 0.0152
      },
      "platforms": {
       "facebook": 99,
@@ -8065,7 +8116,8 @@
       11322,
       12149,
       12287,
-      12713
+      13503,
+      1210
      ],
      "top_ads": [
       {
@@ -8140,7 +8192,7 @@
      "committee": "Scott Singer for Congress",
      "ads": 19,
      "active_ads": 2,
-     "new_ads_7d": 1,
+     "new_ads_7d": 0,
      "spend_lo": 4900,
      "spend_hi": 7981,
      "spend_mid": 6440,
@@ -8148,7 +8200,7 @@
      "impressions_hi": 400081,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 400,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 1.0,
      "top_regions": [
@@ -8162,17 +8214,17 @@
       }
      ],
      "age": {
-      "18-24": 0.033,
-      "25-34": 0.1261,
-      "35-44": 0.1601,
-      "45-54": 0.1807,
-      "55-64": 0.2145,
-      "65+": 0.2854,
+      "18-24": 0.0329,
+      "25-34": 0.1257,
+      "35-44": 0.1605,
+      "45-54": 0.1806,
+      "55-64": 0.2144,
+      "65+": 0.2857,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.4729,
-      "male": 0.5174,
+      "female": 0.4743,
+      "male": 0.5161,
       "unknown": 0.0097
      },
      "platforms": {
@@ -8197,8 +8249,9 @@
       0,
       0,
       0,
-      474,
-      1124
+      434,
+      1028,
+      136
      ],
      "top_ads": [
       {
@@ -8268,10 +8321,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 107663,
+   "spend_mid": 110613,
    "spend_by_party": {
-    "R": 23488,
-    "D": 84175
+    "R": 24988,
+    "D": 85625
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -8290,15 +8343,15 @@
      "committee": "Christina Bohannan for Congress",
      "ads": 150,
      "active_ads": 46,
-     "new_ads_7d": 24,
-     "spend_lo": 68600,
-     "spend_hi": 99750,
-     "spend_mid": 84175,
-     "impressions_lo": 3139100,
-     "impressions_hi": 3603951,
+     "new_ads_7d": 0,
+     "spend_lo": 69800,
+     "spend_hi": 101450,
+     "spend_mid": 85625,
+     "impressions_lo": 3152100,
+     "impressions_hi": 3617851,
      "open_ended_ads": 1,
      "non_usd_ads": 0,
-     "spend_change_mid": 1300,
+     "spend_change_mid": 1450,
      "ads_change": 0,
      "in_state_share": 0.9601,
      "top_regions": [
@@ -8324,17 +8377,17 @@
       }
      ],
      "age": {
-      "18-24": 0.0637,
-      "25-34": 0.1531,
-      "35-44": 0.1735,
-      "45-54": 0.1399,
-      "55-64": 0.1535,
-      "65+": 0.3164,
+      "18-24": 0.064,
+      "25-34": 0.1536,
+      "35-44": 0.174,
+      "45-54": 0.1398,
+      "55-64": 0.1532,
+      "65+": 0.3155,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5422,
-      "male": 0.4473,
+      "female": 0.5434,
+      "male": 0.446,
       "unknown": 0.0106
      },
      "platforms": {
@@ -8359,8 +8412,9 @@
       8671,
       9804,
       7664,
-      9503,
-      8197
+      9703,
+      8297,
+      1151
      ],
      "top_ads": [
       {
@@ -8398,8 +8452,8 @@
        "start": "2026-10-20",
        "stop": null,
        "text": "On November 3rd, we are going to send a message to Washington that Iowa can’t be bought by corporate Super PACs or special interests. It’s time to put Iowa first and finally say goodbye to Miller-Meeks.",
-       "spend_lo": 4500.0,
-       "spend_hi": 4999.0,
+       "spend_lo": 5000.0,
+       "spend_hi": 5999.0,
        "imp_lo": 150000.0,
        "imp_hi": 174999.0
       },
@@ -8408,8 +8462,8 @@
        "start": "2026-10-20",
        "stop": null,
        "text": "A new report shows inflation accelerating because of persistently high fuel prices caused by the Iran War. Prices are high because Rep. Miller-Meeks voted FIVE times to prolong the war. Twice she actually cast the decidi",
-       "spend_lo": 4000.0,
-       "spend_hi": 4499.0,
+       "spend_lo": 4500.0,
+       "spend_hi": 4999.0,
        "imp_lo": 125000.0,
        "imp_hi": 149999.0
       }
@@ -8435,15 +8489,15 @@
      "committee": "MILLER-MEEKS FOR CONGRESS",
      "ads": 24,
      "active_ads": 8,
-     "new_ads_7d": 15,
-     "spend_lo": 20700,
-     "spend_hi": 26276,
-     "spend_mid": 23488,
-     "impressions_lo": 571200,
-     "impressions_hi": 690976,
+     "new_ads_7d": 0,
+     "spend_lo": 22200,
+     "spend_hi": 27776,
+     "spend_mid": 24988,
+     "impressions_lo": 663200,
+     "impressions_hi": 796976,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 2200,
+     "spend_change_mid": 1500,
      "ads_change": 0,
      "in_state_share": 1.0,
      "top_regions": [
@@ -8458,21 +8512,25 @@
       {
        "region": "Florida",
        "share": 0.0
+      },
+      {
+       "region": "Illinois",
+       "share": 0.0
       }
      ],
      "age": {
-      "18-24": 0.2098,
-      "25-34": 0.258,
-      "35-44": 0.2033,
-      "45-54": 0.146,
-      "55-64": 0.1046,
-      "65+": 0.0784,
+      "18-24": 0.1979,
+      "25-34": 0.2504,
+      "35-44": 0.2012,
+      "45-54": 0.1465,
+      "55-64": 0.1093,
+      "65+": 0.0947,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5018,
-      "male": 0.4923,
-      "unknown": 0.0059
+      "female": 0.4965,
+      "male": 0.4973,
+      "unknown": 0.0062
      },
      "platforms": {
       "facebook": 24,
@@ -8495,14 +8553,15 @@
       0,
       1328,
       2982,
-      5404,
-      6416,
-      7358
+      5281,
+      6279,
+      8059,
+      1059
      ],
      "top_ads": [
       {
-       "id": "1434422985319737",
-       "start": "2026-10-12",
+       "id": "1763852671491137",
+       "start": "2026-10-15",
        "stop": null,
        "text": "Christina Bohannan fits right in with a party that wants no prisons, no police, no borders.",
        "spend_lo": 4500.0,
@@ -8511,12 +8570,12 @@
        "imp_hi": 124999.0
       },
       {
-       "id": "1763852671491137",
-       "start": "2026-10-15",
+       "id": "1434422985319737",
+       "start": "2026-10-12",
        "stop": null,
        "text": "Christina Bohannan fits right in with a party that wants no prisons, no police, no borders.",
-       "spend_lo": 4000.0,
-       "spend_hi": 4499.0,
+       "spend_lo": 4500.0,
+       "spend_hi": 4999.0,
        "imp_lo": 100000.0,
        "imp_hi": 124999.0
       },
@@ -8537,8 +8596,8 @@
        "text": "In Congress, I fight the big insurance lobby. I'm their #1 enemy.",
        "spend_lo": 2500.0,
        "spend_hi": 2999.0,
-       "imp_lo": 50000.0,
-       "imp_hi": 59999.0
+       "imp_lo": 60000.0,
+       "imp_hi": 69999.0
       },
       {
        "id": "1998915610803692",
@@ -8547,8 +8606,301 @@
        "text": "I wrote the legislation that will block insider trading in Congress. I don't care what the DC insiders think.",
        "spend_lo": 2000.0,
        "spend_hi": 2499.0,
-       "imp_lo": 45000.0,
-       "imp_hi": 49999.0
+       "imp_lo": 50000.0,
+       "imp_hi": 59999.0
+      }
+     ],
+     "google": {
+      "tracked": false,
+      "spend_usd": 0,
+      "advertisers": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "CA-22",
+   "chamber": "house",
+   "state": "California",
+   "label": "CA-22",
+   "held_by": "R",
+   "rating": "Toss Up",
+   "rating_date": "2026-09-25",
+   "spend_mid": 109784,
+   "spend_by_party": {
+    "R": 34044,
+    "D": 75740
+   },
+   "google_spend_usd": 0,
+   "candidates": [
+    {
+     "name": "Randy Villegas",
+     "party": "D",
+     "incumbent": false,
+     "tracked": true,
+     "no_meta_ads": null,
+     "pages": [
+      {
+       "id": "104647279008516",
+       "name": "Randy Villegas for Congress"
+      }
+     ],
+     "committee": "VILLEGAS FOR CONGRESS",
+     "ads": 620,
+     "active_ads": 25,
+     "new_ads_7d": 0,
+     "spend_lo": 41300,
+     "spend_hi": 110180,
+     "spend_mid": 75740,
+     "impressions_lo": 4288200,
+     "impressions_hi": 5477480,
+     "open_ended_ads": 0,
+     "non_usd_ads": 0,
+     "spend_change_mid": 200,
+     "ads_change": 0,
+     "in_state_share": 1.0,
+     "top_regions": [
+      {
+       "region": "California",
+       "share": 1.0
+      },
+      {
+       "region": "Arizona",
+       "share": 0.0
+      },
+      {
+       "region": "Texas",
+       "share": 0.0
+      },
+      {
+       "region": "Washington",
+       "share": 0.0
+      },
+      {
+       "region": "Arkansas",
+       "share": 0.0
+      }
+     ],
+     "age": {
+      "18-24": 0.1573,
+      "25-34": 0.3564,
+      "35-44": 0.1844,
+      "45-54": 0.107,
+      "55-64": 0.0812,
+      "65+": 0.1135,
+      "Unknown": 0.0002
+     },
+     "gender": {
+      "female": 0.6092,
+      "male": 0.3818,
+      "unknown": 0.009
+     },
+     "platforms": {
+      "instagram": 620,
+      "facebook": 617
+     },
+     "weekly_est": [
+      0,
+      0,
+      1382,
+      1566,
+      1447,
+      1152,
+      1507,
+      3972,
+      4566,
+      5804,
+      7729,
+      6570,
+      6597,
+      5487,
+      6789,
+      5740,
+      7976,
+      4080,
+      2973,
+      403
+     ],
+     "top_ads": [
+      {
+       "id": "1521744822588290",
+       "start": "2026-08-06",
+       "stop": "2026-10-02",
+       "text": "It's Randy Villegas — your Democratic nominee in California's 22nd District. Today, I'm asking you for $3 -- and here are three reason why: #1. The first poll of the general election just came out, and we're leading MAGA",
+       "spend_lo": 10000.0,
+       "spend_hi": 14999.0,
+       "imp_lo": 200000.0,
+       "imp_hi": 249999.0
+      },
+      {
+       "id": "4542017276087297",
+       "start": "2026-10-01",
+       "stop": null,
+       "text": "It's Randy Villegas — your Democratic nominee in California's 22nd District. Today, I'm asking you for $3 -- and here are three reason why: #1. The first poll of the general election just came out, and we're leading MAGA",
+       "spend_lo": 7000.0,
+       "spend_hi": 7999.0,
+       "imp_lo": 175000.0,
+       "imp_hi": 199999.0
+      },
+      {
+       "id": "1616919280007273",
+       "start": "2026-08-06",
+       "stop": "2026-09-23",
+       "text": "This content was removed because it didn't follow our Advertising Standards.",
+       "spend_lo": 7000.0,
+       "spend_hi": 7999.0,
+       "imp_lo": 175000.0,
+       "imp_hi": 199999.0
+      },
+      {
+       "id": "1043074004847228",
+       "start": "2026-07-08",
+       "stop": "2026-08-01",
+       "text": "I'm Randy Villegas, Democrat running to unseat David Valadao in CA-22. Valadao promised that he would never cut Medicaid. Then he voted for Trump's \"Big Beautiful Bill\" and gutted it. In a district where 70% of residents",
+       "spend_lo": 3500.0,
+       "spend_hi": 3999.0,
+       "imp_lo": 50000.0,
+       "imp_hi": 59999.0
+      },
+      {
+       "id": "926409226849070",
+       "start": "2026-09-25",
+       "stop": "2026-10-02",
+       "text": "This is Randy Villegas - Democratic nominee in California's 22nd District. We're at the point in the race where we're spending money faster than we can raise it. That means every dollar you give today goes straight to TV",
+       "spend_lo": 2000.0,
+       "spend_hi": 2499.0,
+       "imp_lo": 35000.0,
+       "imp_hi": 39999.0
+      }
+     ],
+     "google": {
+      "tracked": false,
+      "spend_usd": 0,
+      "advertisers": []
+     }
+    },
+    {
+     "name": "David Valadao",
+     "party": "R",
+     "incumbent": true,
+     "tracked": true,
+     "no_meta_ads": null,
+     "pages": [
+      {
+       "id": "106005029501370",
+       "name": "David Valadao"
+      }
+     ],
+     "committee": "Valadao for Congress",
+     "ads": 13,
+     "active_ads": 4,
+     "new_ads_7d": 0,
+     "spend_lo": 29700,
+     "spend_hi": 38387,
+     "spend_mid": 34044,
+     "impressions_lo": 2823000,
+     "impressions_hi": 3323987,
+     "open_ended_ads": 0,
+     "non_usd_ads": 0,
+     "spend_change_mid": 2300,
+     "ads_change": 0,
+     "in_state_share": 1.0,
+     "top_regions": [
+      {
+       "region": "California",
+       "share": 1.0
+      }
+     ],
+     "age": {
+      "18-24": 0.1168,
+      "25-34": 0.2806,
+      "35-44": 0.2194,
+      "45-54": 0.1591,
+      "55-64": 0.1163,
+      "65+": 0.1067,
+      "Unknown": 0.0011
+     },
+     "gender": {
+      "female": 0.5352,
+      "male": 0.4553,
+      "unknown": 0.0095
+     },
+     "platforms": {
+      "facebook": 13,
+      "instagram": 13
+     },
+     "weekly_est": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      792,
+      2751,
+      3113,
+      3113,
+      3113,
+      3113,
+      2390,
+      1849,
+      3134,
+      2407,
+      4025,
+      3714,
+      531
+     ],
+     "top_ads": [
+      {
+       "id": "4224631071015227",
+       "start": "2026-08-14",
+       "stop": "2026-10-08",
+       "text": "David Valadao is fighting for Central Valley families and working across the aisle to deliver results. Click here to learn more!",
+       "spend_lo": 10000.0,
+       "spend_hi": 14999.0,
+       "imp_lo": 800000.0,
+       "imp_hi": 899999.0
+      },
+      {
+       "id": "1072446602039429",
+       "start": "2026-08-19",
+       "stop": "2026-09-23",
+       "text": "David Valadao is fighting for Central Valley families and working across the aisle to deliver results. Click here to learn more!",
+       "spend_lo": 6000.0,
+       "spend_hi": 6999.0,
+       "imp_lo": 500000.0,
+       "imp_hi": 599999.0
+      },
+      {
+       "id": "28576653355290530",
+       "start": "2026-10-21",
+       "stop": null,
+       "text": "David Valadao is fighting for Central Valley families and working across the aisle to deliver results. Click here to learn more!",
+       "spend_lo": 3500.0,
+       "spend_hi": 3999.0,
+       "imp_lo": 300000.0,
+       "imp_hi": 349999.0
+      },
+      {
+       "id": "1578491196713858",
+       "start": "2026-10-07",
+       "stop": "2026-10-22",
+       "text": "David Valadao is fighting for Central Valley families and working across the aisle to deliver results. Click here to learn more!",
+       "spend_lo": 3500.0,
+       "spend_hi": 3999.0,
+       "imp_lo": 500000.0,
+       "imp_hi": 599999.0
+      },
+      {
+       "id": "2148444045881920",
+       "start": "2026-10-21",
+       "stop": null,
+       "text": "David Valadao is fighting for Central Valley families and working across the aisle to deliver results. Click here to learn more!",
+       "spend_lo": 2000.0,
+       "spend_hi": 2499.0,
+       "imp_lo": 200000.0,
+       "imp_hi": 249999.0
       }
      ],
      "google": {
@@ -8567,10 +8919,10 @@
    "held_by": "D",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 107523,
+   "spend_mid": 109223,
    "spend_by_party": {
-    "D": 90056,
-    "R": 17467
+    "D": 90656,
+    "R": 18567
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -8590,14 +8942,14 @@
      "ads": 88,
      "active_ads": 18,
      "new_ads_7d": 0,
-     "spend_lo": 80000,
-     "spend_hi": 100112,
-     "spend_mid": 90056,
-     "impressions_lo": 8567500,
-     "impressions_hi": 9872913,
+     "spend_lo": 80600,
+     "spend_hi": 100712,
+     "spend_mid": 90656,
+     "impressions_lo": 8644500,
+     "impressions_hi": 9949913,
      "open_ended_ads": 1,
      "non_usd_ads": 0,
-     "spend_change_mid": 1500,
+     "spend_change_mid": 600,
      "ads_change": 0,
      "in_state_share": 0.9991,
      "top_regions": [
@@ -8623,17 +8975,17 @@
       }
      ],
      "age": {
-      "18-24": 0.1161,
+      "18-24": 0.1162,
       "25-34": 0.2175,
       "35-44": 0.2103,
       "45-54": 0.1619,
-      "55-64": 0.1361,
-      "65+": 0.1581,
+      "55-64": 0.136,
+      "65+": 0.158,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.5513,
-      "male": 0.441,
+      "female": 0.5515,
+      "male": 0.4408,
       "unknown": 0.0077
      },
      "platforms": {
@@ -8650,16 +9002,17 @@
       5598,
       4085,
       4085,
-      4953,
-      5718,
-      5569,
-      4357,
-      4601,
-      5917,
+      4952,
+      5717,
+      5567,
+      4356,
+      4609,
+      5919,
       4787,
-      5830,
-      6247,
-      5721
+      5831,
+      6186,
+      5578,
+      797
      ],
      "top_ads": [
       {
@@ -8733,52 +9086,52 @@
      ],
      "committee": "DEREK MERRIN FOR CONGRESS",
      "ads": 66,
-     "active_ads": 9,
-     "new_ads_7d": 7,
-     "spend_lo": 13800,
-     "spend_hi": 21134,
-     "spend_mid": 17467,
-     "impressions_lo": 1464000,
-     "impressions_hi": 1832134,
+     "active_ads": 8,
+     "new_ads_7d": 0,
+     "spend_lo": 14700,
+     "spend_hi": 22434,
+     "spend_mid": 18567,
+     "impressions_lo": 1579000,
+     "impressions_hi": 1972134,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 600,
+     "spend_change_mid": 1100,
      "ads_change": 0,
-     "in_state_share": 0.9211,
+     "in_state_share": 0.9013,
      "top_regions": [
       {
        "region": "Ohio",
-       "share": 0.9211
+       "share": 0.9013
       },
       {
        "region": "Michigan",
-       "share": 0.0186
+       "share": 0.0252
       },
       {
        "region": "Georgia",
-       "share": 0.0182
+       "share": 0.0169
+      },
+      {
+       "region": "Indiana",
+       "share": 0.0143
       },
       {
        "region": "Kentucky",
-       "share": 0.0103
-      },
-      {
-       "region": "Pennsylvania",
-       "share": 0.0103
+       "share": 0.0138
       }
      ],
      "age": {
-      "18-24": 0.054,
-      "25-34": 0.1222,
-      "35-44": 0.169,
-      "45-54": 0.1601,
-      "55-64": 0.2055,
-      "65+": 0.2892,
+      "18-24": 0.0565,
+      "25-34": 0.1223,
+      "35-44": 0.1684,
+      "45-54": 0.1604,
+      "55-64": 0.2065,
+      "65+": 0.2859,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.4203,
-      "male": 0.574,
+      "female": 0.4167,
+      "male": 0.5776,
       "unknown": 0.0057
      },
      "platforms": {
@@ -8803,14 +9156,25 @@
       1003,
       1070,
       1496,
-      2785,
-      5888
+      2744,
+      6379,
+      650
      ],
      "top_ads": [
       {
+       "id": "1414984670749977",
+       "start": "2026-10-26",
+       "stop": null,
+       "text": "Kaptur has sold out NW Ohio after 43 years in Washington DC. Vote Derek Merrin November 3rd.",
+       "spend_lo": 1000.0,
+       "spend_hi": 1499.0,
+       "imp_lo": 200000.0,
+       "imp_hi": 249999.0
+      },
+      {
        "id": "2326813451490426",
        "start": "2026-10-23",
-       "stop": "2026-10-31",
+       "stop": "2026-11-01",
        "text": "Toledo Police Unions Back Derek Merrin Liberal Marcy Kaptur supports open borders, voted for amnesty for illegal immigrants (even convicted criminals), and voted against a resolution to condemn the “defund the police\" mo",
        "spend_lo": 1000.0,
        "spend_hi": 1499.0,
@@ -8828,325 +9192,24 @@
        "imp_hi": 124999.0
       },
       {
-       "id": "1414984670749977",
-       "start": "2026-10-26",
-       "stop": null,
-       "text": "Kaptur has sold out NW Ohio after 43 years in Washington DC. Vote Derek Merrin November 3rd.",
-       "spend_lo": 800.0,
-       "spend_hi": 899.0,
-       "imp_lo": 150000.0,
-       "imp_hi": 174999.0
-      },
-      {
-       "id": "2741970789552346",
-       "start": "2026-10-22",
-       "stop": "2026-10-30",
-       "text": "Hypocrite Kaptur - You be the Judge. Kaptur accuses Derek Merrin of supporting House Bill 6 - a bill favored by First Energy that included a subsidy for nuclear power plants, because his campaign committee received a tot",
-       "spend_lo": 800.0,
-       "spend_hi": 899.0,
-       "imp_lo": 30000.0,
-       "imp_hi": 34999.0
-      },
-      {
        "id": "3040961746295915",
        "start": "2026-10-26",
        "stop": null,
        "text": "Derek Merrin is laser focused on lowering prices, while liberal Kaptur is focused on insane stuff like men in girls’ sports",
-       "spend_lo": 700.0,
-       "spend_hi": 799.0,
-       "imp_lo": 50000.0,
-       "imp_hi": 59999.0
-      }
-     ],
-     "google": {
-      "tracked": false,
-      "spend_usd": 0,
-      "advertisers": []
-     }
-    }
-   ]
-  },
-  {
-   "id": "CA-22",
-   "chamber": "house",
-   "state": "California",
-   "label": "CA-22",
-   "held_by": "R",
-   "rating": "Toss Up",
-   "rating_date": "2026-09-25",
-   "spend_mid": 107284,
-   "spend_by_party": {
-    "R": 31744,
-    "D": 75540
-   },
-   "google_spend_usd": 0,
-   "candidates": [
-    {
-     "name": "Randy Villegas",
-     "party": "D",
-     "incumbent": false,
-     "tracked": true,
-     "no_meta_ads": null,
-     "pages": [
-      {
-       "id": "104647279008516",
-       "name": "Randy Villegas for Congress"
-      }
-     ],
-     "committee": "VILLEGAS FOR CONGRESS",
-     "ads": 620,
-     "active_ads": 25,
-     "new_ads_7d": 3,
-     "spend_lo": 41100,
-     "spend_hi": 109980,
-     "spend_mid": 75540,
-     "impressions_lo": 4227200,
-     "impressions_hi": 5403480,
-     "open_ended_ads": 0,
-     "non_usd_ads": 0,
-     "spend_change_mid": 100,
-     "ads_change": 0,
-     "in_state_share": 1.0,
-     "top_regions": [
-      {
-       "region": "California",
-       "share": 1.0
+       "spend_lo": 900.0,
+       "spend_hi": 999.0,
+       "imp_lo": 60000.0,
+       "imp_hi": 69999.0
       },
       {
-       "region": "Arizona",
-       "share": 0.0
-      },
-      {
-       "region": "Texas",
-       "share": 0.0
-      },
-      {
-       "region": "Washington",
-       "share": 0.0
-      },
-      {
-       "region": "Oregon",
-       "share": 0.0
-      }
-     ],
-     "age": {
-      "18-24": 0.1577,
-      "25-34": 0.3577,
-      "35-44": 0.1847,
-      "45-54": 0.1068,
-      "55-64": 0.0806,
-      "65+": 0.1123,
-      "Unknown": 0.0002
-     },
-     "gender": {
-      "female": 0.6091,
-      "male": 0.3819,
-      "unknown": 0.009
-     },
-     "platforms": {
-      "instagram": 620,
-      "facebook": 617
-     },
-     "weekly_est": [
-      0,
-      0,
-      1382,
-      1566,
-      1447,
-      1152,
-      1507,
-      3972,
-      4566,
-      5804,
-      7729,
-      6570,
-      6597,
-      5487,
-      6817,
-      5789,
-      8026,
-      4176,
-      2954
-     ],
-     "top_ads": [
-      {
-       "id": "1521744822588290",
-       "start": "2026-08-06",
-       "stop": "2026-10-02",
-       "text": "It's Randy Villegas — your Democratic nominee in California's 22nd District. Today, I'm asking you for $3 -- and here are three reason why: #1. The first poll of the general election just came out, and we're leading MAGA",
-       "spend_lo": 10000.0,
-       "spend_hi": 14999.0,
-       "imp_lo": 200000.0,
-       "imp_hi": 249999.0
-      },
-      {
-       "id": "4542017276087297",
-       "start": "2026-10-01",
+       "id": "1802869500766539",
+       "start": "2026-10-25",
        "stop": null,
-       "text": "It's Randy Villegas — your Democratic nominee in California's 22nd District. Today, I'm asking you for $3 -- and here are three reason why: #1. The first poll of the general election just came out, and we're leading MAGA",
-       "spend_lo": 7000.0,
-       "spend_hi": 7999.0,
-       "imp_lo": 150000.0,
-       "imp_hi": 174999.0
-      },
-      {
-       "id": "1616919280007273",
-       "start": "2026-08-06",
-       "stop": "2026-09-23",
-       "text": "This content was removed because it didn't follow our Advertising Standards.",
-       "spend_lo": 7000.0,
-       "spend_hi": 7999.0,
-       "imp_lo": 175000.0,
-       "imp_hi": 199999.0
-      },
-      {
-       "id": "1043074004847228",
-       "start": "2026-07-08",
-       "stop": "2026-08-01",
-       "text": "I'm Randy Villegas, Democrat running to unseat David Valadao in CA-22. Valadao promised that he would never cut Medicaid. Then he voted for Trump's \"Big Beautiful Bill\" and gutted it. In a district where 70% of residents",
-       "spend_lo": 3500.0,
-       "spend_hi": 3999.0,
-       "imp_lo": 50000.0,
-       "imp_hi": 59999.0
-      },
-      {
-       "id": "926409226849070",
-       "start": "2026-09-25",
-       "stop": "2026-10-02",
-       "text": "This is Randy Villegas - Democratic nominee in California's 22nd District. We're at the point in the race where we're spending money faster than we can raise it. That means every dollar you give today goes straight to TV",
-       "spend_lo": 2000.0,
-       "spend_hi": 2499.0,
-       "imp_lo": 35000.0,
-       "imp_hi": 39999.0
-      }
-     ],
-     "google": {
-      "tracked": false,
-      "spend_usd": 0,
-      "advertisers": []
-     }
-    },
-    {
-     "name": "David Valadao",
-     "party": "R",
-     "incumbent": true,
-     "tracked": true,
-     "no_meta_ads": null,
-     "pages": [
-      {
-       "id": "106005029501370",
-       "name": "David Valadao"
-      }
-     ],
-     "committee": "Valadao for Congress",
-     "ads": 13,
-     "active_ads": 4,
-     "new_ads_7d": 0,
-     "spend_lo": 27400,
-     "spend_hi": 36087,
-     "spend_mid": 31744,
-     "impressions_lo": 2763000,
-     "impressions_hi": 3258987,
-     "open_ended_ads": 0,
-     "non_usd_ads": 0,
-     "spend_change_mid": 500,
-     "ads_change": 0,
-     "in_state_share": 1.0,
-     "top_regions": [
-      {
-       "region": "California",
-       "share": 1.0
-      }
-     ],
-     "age": {
-      "18-24": 0.1182,
-      "25-34": 0.2812,
-      "35-44": 0.2192,
-      "45-54": 0.1587,
-      "55-64": 0.116,
-      "65+": 0.1056,
-      "Unknown": 0.0011
-     },
-     "gender": {
-      "female": 0.5322,
-      "male": 0.4582,
-      "unknown": 0.0096
-     },
-     "platforms": {
-      "facebook": 13,
-      "instagram": 13
-     },
-     "weekly_est": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      792,
-      2751,
-      3113,
-      3113,
-      3113,
-      3113,
-      2390,
-      1849,
-      3134,
-      2407,
-      3288,
-      2682
-     ],
-     "top_ads": [
-      {
-       "id": "4224631071015227",
-       "start": "2026-08-14",
-       "stop": "2026-10-08",
-       "text": "David Valadao is fighting for Central Valley families and working across the aisle to deliver results. Click here to learn more!",
-       "spend_lo": 10000.0,
-       "spend_hi": 14999.0,
-       "imp_lo": 800000.0,
-       "imp_hi": 899999.0
-      },
-      {
-       "id": "1072446602039429",
-       "start": "2026-08-19",
-       "stop": "2026-09-23",
-       "text": "David Valadao is fighting for Central Valley families and working across the aisle to deliver results. Click here to learn more!",
-       "spend_lo": 6000.0,
-       "spend_hi": 6999.0,
-       "imp_lo": 500000.0,
-       "imp_hi": 599999.0
-      },
-      {
-       "id": "1578491196713858",
-       "start": "2026-10-07",
-       "stop": "2026-10-22",
-       "text": "David Valadao is fighting for Central Valley families and working across the aisle to deliver results. Click here to learn more!",
-       "spend_lo": 3500.0,
-       "spend_hi": 3999.0,
-       "imp_lo": 500000.0,
-       "imp_hi": 599999.0
-      },
-      {
-       "id": "28576653355290530",
-       "start": "2026-10-21",
-       "stop": null,
-       "text": "David Valadao is fighting for Central Valley families and working across the aisle to deliver results. Click here to learn more!",
-       "spend_lo": 2000.0,
-       "spend_hi": 2499.0,
-       "imp_lo": 250000.0,
-       "imp_hi": 299999.0
-      },
-      {
-       "id": "4484643428442605",
-       "start": "2026-08-14",
-       "stop": "2026-10-07",
-       "text": "David Valadao is fighting for Central Valley families and working across the aisle to deliver results. Click here to learn more!",
-       "spend_lo": 2000.0,
-       "spend_hi": 2499.0,
-       "imp_lo": 150000.0,
-       "imp_hi": 174999.0
+       "text": "Cheaper gas. Affordable groceries. More money in your pocket. That’s what I’m focused on. Washington needs to get back to the basics and start delivering real results for the American people. That’s exactly what I’ll fig",
+       "spend_lo": 800.0,
+       "spend_hi": 899.0,
+       "imp_lo": 60000.0,
+       "imp_hi": 69999.0
       }
      ],
      "google": {
@@ -9165,9 +9228,9 @@
    "held_by": "D",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 105384,
+   "spend_mid": 105884,
    "spend_by_party": {
-    "D": 77556,
+    "D": 78056,
     "R": 27828
    },
    "google_spend_usd": 0,
@@ -9187,15 +9250,15 @@
      "committee": "VICENTE GONZALEZ FOR CONGRESS",
      "ads": 88,
      "active_ads": 13,
-     "new_ads_7d": 8,
-     "spend_lo": 66900,
-     "spend_hi": 88212,
-     "spend_mid": 77556,
-     "impressions_lo": 6782300,
-     "impressions_hi": 8069912,
+     "new_ads_7d": 0,
+     "spend_lo": 67400,
+     "spend_hi": 88712,
+     "spend_mid": 78056,
+     "impressions_lo": 6928300,
+     "impressions_hi": 8215912,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 700,
+     "spend_change_mid": 500,
      "ads_change": 0,
      "in_state_share": 0.9993,
      "top_regions": [
@@ -9213,18 +9276,18 @@
       }
      ],
      "age": {
-      "18-24": 0.091,
-      "25-34": 0.273,
-      "35-44": 0.2158,
-      "45-54": 0.1759,
+      "18-24": 0.0908,
+      "25-34": 0.2729,
+      "35-44": 0.216,
+      "45-54": 0.176,
       "55-64": 0.1285,
-      "65+": 0.1159,
+      "65+": 0.1158,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5517,
-      "male": 0.441,
-      "unknown": 0.0073
+      "female": 0.5521,
+      "male": 0.4407,
+      "unknown": 0.0072
      },
      "platforms": {
       "facebook": 88,
@@ -9247,9 +9310,10 @@
       10823,
       5464,
       8820,
-      11131,
-      8767,
-      5260
+      11033,
+      8704,
+      5334,
+      587
      ],
      "top_ads": [
       {
@@ -9324,7 +9388,7 @@
      "committee": "Eric Flores for Congress",
      "ads": 45,
      "active_ads": 0,
-     "new_ads_7d": 8,
+     "new_ads_7d": 0,
      "spend_lo": 24000,
      "spend_hi": 31655,
      "spend_mid": 27828,
@@ -9332,7 +9396,7 @@
      "impressions_hi": 4436955,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 200,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 0.9702,
      "top_regions": [
@@ -9394,7 +9458,8 @@
       1749,
       2243,
       3928,
-      2964
+      2964,
+      0
      ],
      "top_ads": [
       {
@@ -9464,10 +9529,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 95680,
+   "spend_mid": 97930,
    "spend_by_party": {
     "R": 7500,
-    "D": 88180
+    "D": 90430
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -9486,25 +9551,25 @@
      "committee": "POINDEXTER FOR CONGRESS",
      "ads": 139,
      "active_ads": 28,
-     "new_ads_7d": 5,
-     "spend_lo": 75800,
-     "spend_hi": 100561,
-     "spend_mid": 88180,
-     "impressions_lo": 3157900,
-     "impressions_hi": 3839161,
+     "new_ads_7d": 0,
+     "spend_lo": 77800,
+     "spend_hi": 103061,
+     "spend_mid": 90430,
+     "impressions_lo": 3253900,
+     "impressions_hi": 3960161,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 3000,
+     "spend_change_mid": 2250,
      "ads_change": 0,
-     "in_state_share": 0.8688,
+     "in_state_share": 0.8691,
      "top_regions": [
       {
        "region": "Ohio",
-       "share": 0.8688
+       "share": 0.8691
       },
       {
        "region": "California",
-       "share": 0.0151
+       "share": 0.015
       },
       {
        "region": "New York",
@@ -9520,17 +9585,17 @@
       }
      ],
      "age": {
-      "18-24": 0.0194,
-      "25-34": 0.1143,
-      "35-44": 0.2087,
-      "45-54": 0.1952,
-      "55-64": 0.2014,
-      "65+": 0.261,
+      "18-24": 0.0198,
+      "25-34": 0.1152,
+      "35-44": 0.2089,
+      "45-54": 0.1949,
+      "55-64": 0.2012,
+      "65+": 0.2599,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5107,
-      "male": 0.4808,
+      "female": 0.5126,
+      "male": 0.479,
       "unknown": 0.0085
      },
      "platforms": {
@@ -9543,20 +9608,21 @@
       925,
       848,
       808,
-      2061,
-      2499,
-      3036,
-      2985,
-      2806,
-      5136,
-      7098,
-      7217,
-      7597,
-      7355,
-      6494,
-      7109,
-      9897,
-      9992
+      2052,
+      2487,
+      3024,
+      2973,
+      2794,
+      5124,
+      7086,
+      7205,
+      7585,
+      7332,
+      6453,
+      7038,
+      10486,
+      10524,
+      1370
      ],
      "top_ads": [
       {
@@ -9580,6 +9646,16 @@
        "imp_hi": 149999.0
       },
       {
+       "id": "2592218721255258",
+       "start": "2026-10-21",
+       "stop": null,
+       "text": "Take it from those who know me best. I will always show up and fight for our community.",
+       "spend_lo": 5000.0,
+       "spend_hi": 5999.0,
+       "imp_lo": 250000.0,
+       "imp_hi": 299999.0
+      },
+      {
        "id": "1023161853815645",
        "start": "2026-07-29",
        "stop": "2026-09-15",
@@ -9588,16 +9664,6 @@
        "spend_hi": 4499.0,
        "imp_lo": 100000.0,
        "imp_hi": 124999.0
-      },
-      {
-       "id": "2592218721255258",
-       "start": "2026-10-21",
-       "stop": null,
-       "text": "Take it from those who know me best. I will always show up and fight for our community.",
-       "spend_lo": 3500.0,
-       "spend_hi": 3999.0,
-       "imp_lo": 175000.0,
-       "imp_hi": 199999.0
       },
       {
        "id": "1597775392030242",
@@ -9685,6 +9751,7 @@
       0,
       0,
       0,
+      0,
       0
      ],
      "top_ads": [
@@ -9715,9 +9782,9 @@
    "held_by": "D",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 80697,
+   "spend_mid": 81897,
    "spend_by_party": {
-    "D": 65448,
+    "D": 66648,
     "R": 15249
    },
    "google_spend_usd": 0,
@@ -9736,30 +9803,30 @@
      ],
      "committee": "Castor for Congress",
      "ads": 104,
-     "active_ads": 51,
-     "new_ads_7d": 14,
-     "spend_lo": 56600,
-     "spend_hi": 74296,
-     "spend_mid": 65448,
-     "impressions_lo": 3418500,
-     "impressions_hi": 4061896,
+     "active_ads": 48,
+     "new_ads_7d": 0,
+     "spend_lo": 57800,
+     "spend_hi": 75496,
+     "spend_mid": 66648,
+     "impressions_lo": 3507500,
+     "impressions_hi": 4180896,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 800,
+     "spend_change_mid": 1200,
      "ads_change": 0,
-     "in_state_share": 0.86,
+     "in_state_share": 0.8616,
      "top_regions": [
       {
        "region": "Florida",
-       "share": 0.86
+       "share": 0.8616
       },
       {
        "region": "New York",
-       "share": 0.0136
+       "share": 0.0134
       },
       {
        "region": "California",
-       "share": 0.0115
+       "share": 0.0113
       },
       {
        "region": "Texas",
@@ -9767,21 +9834,21 @@
       },
       {
        "region": "Georgia",
-       "share": 0.0096
+       "share": 0.0095
       }
      ],
      "age": {
-      "18-24": 0.1176,
-      "25-34": 0.271,
-      "35-44": 0.2243,
-      "45-54": 0.148,
-      "55-64": 0.1092,
-      "65+": 0.1296,
+      "18-24": 0.118,
+      "25-34": 0.2719,
+      "35-44": 0.2247,
+      "45-54": 0.1481,
+      "55-64": 0.1088,
+      "65+": 0.1282,
       "Unknown": 0.0003
      },
      "gender": {
-      "female": 0.6034,
-      "male": 0.3882,
+      "female": 0.6037,
+      "male": 0.3879,
       "unknown": 0.0084
      },
      "platforms": {
@@ -9804,10 +9871,11 @@
       7344,
       8476,
       8976,
-      5750,
-      3151,
-      3395,
-      13284
+      5746,
+      3078,
+      3284,
+      12861,
+      1811
      ],
      "top_ads": [
       {
@@ -9952,6 +10020,7 @@
       0,
       0,
       0,
+      0,
       0
      ],
      "top_ads": [
@@ -9992,10 +10061,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 75017,
+   "spend_mid": 76217,
    "spend_by_party": {
     "R": 5446,
-    "D": 69571
+    "D": 70771
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -10014,21 +10083,21 @@
      "committee": "Christina for Congress",
      "ads": 58,
      "active_ads": 10,
-     "new_ads_7d": 8,
-     "spend_lo": 60200,
-     "spend_hi": 78942,
-     "spend_mid": 69571,
-     "impressions_lo": 4595000,
-     "impressions_hi": 5428942,
+     "new_ads_7d": 0,
+     "spend_lo": 61000,
+     "spend_hi": 80542,
+     "spend_mid": 70771,
+     "impressions_lo": 4665000,
+     "impressions_hi": 5508942,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 600,
+     "spend_change_mid": 1200,
      "ads_change": 0,
-     "in_state_share": 0.9774,
+     "in_state_share": 0.9778,
      "top_regions": [
       {
        "region": "Michigan",
-       "share": 0.9774
+       "share": 0.9778
       },
       {
        "region": "California",
@@ -10049,16 +10118,16 @@
      ],
      "age": {
       "18-24": 0.1054,
-      "25-34": 0.2358,
-      "35-44": 0.2244,
-      "45-54": 0.1447,
-      "55-64": 0.1312,
-      "65+": 0.1584,
+      "25-34": 0.2363,
+      "35-44": 0.2251,
+      "45-54": 0.1448,
+      "55-64": 0.131,
+      "65+": 0.1573,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5725,
-      "male": 0.4191,
+      "female": 0.5728,
+      "male": 0.4188,
       "unknown": 0.0084
      },
      "platforms": {
@@ -10083,8 +10152,9 @@
       10108,
       11479,
       7047,
-      4903,
-      3874
+      4952,
+      4452,
+      573
      ],
      "top_ads": [
       {
@@ -10229,6 +10299,7 @@
       0,
       0,
       0,
+      0,
       0
      ],
      "top_ads": [
@@ -10299,10 +10370,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 62563,
+   "spend_mid": 63863,
    "spend_by_party": {
-    "R": 21886,
-    "D": 40677
+    "R": 22486,
+    "D": 41377
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -10322,24 +10393,24 @@
      "ads": 46,
      "active_ads": 3,
      "new_ads_7d": 0,
-     "spend_lo": 34800,
-     "spend_hi": 46554,
-     "spend_mid": 40677,
-     "impressions_lo": 1412900,
-     "impressions_hi": 1686354,
+     "spend_lo": 35500,
+     "spend_hi": 47254,
+     "spend_mid": 41377,
+     "impressions_lo": 1487900,
+     "impressions_hi": 1786354,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 500,
+     "spend_change_mid": 700,
      "ads_change": 0,
-     "in_state_share": 0.9914,
+     "in_state_share": 0.9919,
      "top_regions": [
       {
        "region": "Pennsylvania",
-       "share": 0.9914
+       "share": 0.9919
       },
       {
        "region": "New York",
-       "share": 0.0011
+       "share": 0.001
       },
       {
        "region": "California",
@@ -10350,23 +10421,23 @@
        "share": 0.0005
       },
       {
-       "region": "Massachusetts",
+       "region": "New Jersey",
        "share": 0.0004
       }
      ],
      "age": {
-      "18-24": 0.0499,
-      "25-34": 0.1567,
-      "35-44": 0.2009,
-      "45-54": 0.167,
-      "55-64": 0.176,
-      "65+": 0.2495,
+      "18-24": 0.0517,
+      "25-34": 0.1609,
+      "35-44": 0.2043,
+      "45-54": 0.168,
+      "55-64": 0.1741,
+      "65+": 0.241,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5416,
-      "male": 0.449,
-      "unknown": 0.0094
+      "female": 0.5421,
+      "male": 0.4485,
+      "unknown": 0.0093
      },
      "platforms": {
       "facebook": 46,
@@ -10390,8 +10461,9 @@
       3887,
       5111,
       5879,
-      5852,
-      4471
+      6012,
+      4658,
+      353
      ],
      "top_ads": [
       {
@@ -10425,6 +10497,16 @@
        "imp_hi": 69999.0
       },
       {
+       "id": "889500687485322",
+       "start": "2026-10-20",
+       "stop": null,
+       "text": "Rob Bresnahan voted for $83 billion dollars in giveaways for data centers and to make it impossible for towns in Pennsylvania to stop them from being built. Rob Bresnahan is voting for data centers. Not the people he’s s",
+       "spend_lo": 2000.0,
+       "spend_hi": 2499.0,
+       "imp_lo": 250000.0,
+       "imp_hi": 299999.0
+      },
+      {
        "id": "1435994702039540",
        "start": "2026-10-02",
        "stop": "2026-10-30",
@@ -10433,16 +10515,6 @@
        "spend_hi": 2499.0,
        "imp_lo": 50000.0,
        "imp_hi": 59999.0
-      },
-      {
-       "id": "1074564271733875",
-       "start": "2026-08-21",
-       "stop": "2026-09-21",
-       "text": "Paige Cognetti here — National Republicans are gearing up to spend millions of dollars to keep this seat in their hands. This is one of the most competitive House districts in the country, and we need to prepare to fight",
-       "spend_lo": 2000.0,
-       "spend_hi": 2499.0,
-       "imp_lo": 30000.0,
-       "imp_hi": 34999.0
       }
      ],
      "google": {
@@ -10467,14 +10539,14 @@
      "ads": 28,
      "active_ads": 5,
      "new_ads_7d": 0,
-     "spend_lo": 18900,
-     "spend_hi": 24872,
-     "spend_mid": 21886,
-     "impressions_lo": 1965000,
-     "impressions_hi": 2332972,
+     "spend_lo": 19500,
+     "spend_hi": 25472,
+     "spend_mid": 22486,
+     "impressions_lo": 2000000,
+     "impressions_hi": 2382972,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 400,
+     "spend_change_mid": 600,
      "ads_change": 0,
      "in_state_share": 1.0,
      "top_regions": [
@@ -10496,18 +10568,18 @@
       }
      ],
      "age": {
-      "18-24": 0.1036,
-      "25-34": 0.2168,
-      "35-44": 0.2169,
-      "45-54": 0.1692,
-      "55-64": 0.1508,
-      "65+": 0.1426,
+      "18-24": 0.1045,
+      "25-34": 0.2181,
+      "35-44": 0.2168,
+      "45-54": 0.1688,
+      "55-64": 0.15,
+      "65+": 0.1419,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5252,
-      "male": 0.4685,
-      "unknown": 0.0063
+      "female": 0.5311,
+      "male": 0.4627,
+      "unknown": 0.0062
      },
      "platforms": {
       "facebook": 28,
@@ -10531,8 +10603,9 @@
       1309,
       1833,
       2949,
-      3856,
-      3090
+      3908,
+      3271,
+      367
      ],
      "top_ads": [
       {
@@ -10556,6 +10629,16 @@
        "imp_hi": 249999.0
       },
       {
+       "id": "1951465895812428",
+       "start": "2026-10-23",
+       "stop": null,
+       "text": "Rob Bresnahan is proud to have the support of hardworking Pennsylvanians and the unions that represent them. He's fighting for good-paying jobs, stronger communities, and a brighter future for PA. Vote Rob Bresnahan for ",
+       "spend_lo": 1500.0,
+       "spend_hi": 1999.0,
+       "imp_lo": 100000.0,
+       "imp_hi": 124999.0
+      },
+      {
        "id": "1652624036317267",
        "start": "2026-10-20",
        "stop": "2026-10-29",
@@ -10574,16 +10657,6 @@
        "spend_hi": 1999.0,
        "imp_lo": 100000.0,
        "imp_hi": 124999.0
-      },
-      {
-       "id": "1951465895812428",
-       "start": "2026-10-23",
-       "stop": null,
-       "text": "Rob Bresnahan is proud to have the support of hardworking Pennsylvanians and the unions that represent them. He's fighting for good-paying jobs, stronger communities, and a brighter future for PA. Vote Rob Bresnahan for ",
-       "spend_lo": 1000.0,
-       "spend_hi": 1499.0,
-       "imp_lo": 90000.0,
-       "imp_hi": 99999.0
       }
      ],
      "google": {
@@ -10602,10 +10675,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-25",
-   "spend_mid": 56212,
+   "spend_mid": 56812,
    "spend_by_party": {
     "R": 8046,
-    "D": 48166
+    "D": 48766
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -10624,29 +10697,29 @@
      "committee": "AGER FOR CONGRESS",
      "ads": 67,
      "active_ads": 4,
-     "new_ads_7d": 1,
-     "spend_lo": 42000,
-     "spend_hi": 54333,
-     "spend_mid": 48166,
-     "impressions_lo": 1781200,
-     "impressions_hi": 2103233,
+     "new_ads_7d": 0,
+     "spend_lo": 42600,
+     "spend_hi": 54933,
+     "spend_mid": 48766,
+     "impressions_lo": 1816200,
+     "impressions_hi": 2138233,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 500,
+     "spend_change_mid": 600,
      "ads_change": 0,
-     "in_state_share": 0.9699,
+     "in_state_share": 0.9705,
      "top_regions": [
       {
        "region": "North Carolina",
-       "share": 0.9699
+       "share": 0.9705
       },
       {
        "region": "Georgia",
-       "share": 0.0111
+       "share": 0.0109
       },
       {
        "region": "Tennessee",
-       "share": 0.0079
+       "share": 0.0078
       },
       {
        "region": "South Carolina",
@@ -10658,18 +10731,18 @@
       }
      ],
      "age": {
-      "18-24": 0.0162,
-      "25-34": 0.036,
-      "35-44": 0.1991,
-      "45-54": 0.1744,
-      "55-64": 0.2012,
-      "65+": 0.3731,
+      "18-24": 0.016,
+      "25-34": 0.0358,
+      "35-44": 0.1998,
+      "45-54": 0.175,
+      "55-64": 0.2011,
+      "65+": 0.3722,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.5537,
-      "male": 0.4338,
-      "unknown": 0.0124
+      "female": 0.5542,
+      "male": 0.4334,
+      "unknown": 0.0125
      },
      "platforms": {
       "facebook": 67,
@@ -10690,11 +10763,12 @@
       3171,
       3366,
       3546,
-      5452,
-      6962,
-      6702,
-      5283,
-      8003
+      5450,
+      7028,
+      6800,
+      5367,
+      7955,
+      402
      ],
      "top_ads": [
       {
@@ -10722,10 +10796,10 @@
        "start": "2026-10-08",
        "stop": null,
        "text": "Jamie Ager here — National Republicans are spending millions of dollars to keep this seat in their hands. This is one of the most competitive House districts in the country, and we need to prepare in order to fight back.",
-       "spend_lo": 2500.0,
-       "spend_hi": 2999.0,
-       "imp_lo": 70000.0,
-       "imp_hi": 79999.0
+       "spend_lo": 3000.0,
+       "spend_hi": 3499.0,
+       "imp_lo": 80000.0,
+       "imp_hi": 89999.0
       },
       {
        "id": "921454367693285",
@@ -10830,7 +10904,8 @@
       1211,
       1211,
       1225,
-      112
+      112,
+      0
      ],
      "top_ads": [
       {
@@ -11046,6 +11121,15 @@
     "R": 7702528
    },
    "ads": 37414
+  },
+  {
+   "date": "2026-11-02",
+   "spend_mid": 40175992,
+   "by_party": {
+    "D": 32229064,
+    "R": 7946928
+   },
+   "ads": 37415
   }
  ],
  "methodology": "Digital Politics selected every race the Cook Political Report rated a Toss Up for Senate, Governor and House, and then identified each nominee's own Facebook Pages (Pages whose ads carried the candidate committee's 'Paid for by' disclaimer). Super PACs, parties and outside groups were excluded, including Pages set up to attack a candidate.\n\nEach day the tracker queries Meta's Ad Library API for every political ad those Pages delivered in the United States since June 23, 2026. Meta reports spend and impressions as ranges for each ad's lifetime, so totals are shown as ranges with a midpoint estimate. Ads that began before the window may include earlier spending. Weekly figures are estimates that spread each ad's reported spend evenly across its delivery dates. Audience shares are weighted by estimated impressions and describe who saw the ads, not who the campaign targeted.\n\nRaw API responses are retained privately."
