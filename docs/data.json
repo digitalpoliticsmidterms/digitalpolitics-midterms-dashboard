@@ -4,141 +4,141 @@
     "national_spend_usd": 212711826.0
   },
   "cumulative": {
-    "national_spend_usd": 492248604.0,
-    "advertiser_count": 43682,
+    "national_spend_usd": 506127563.0,
+    "advertiser_count": 43798,
     "top_advertisers": [
       {
         "page_id": "1386969781166493",
         "page_name": "Common Sense Voters Coalition",
         "disclaimer": "MAGA INC",
-        "spend_usd": 12653569.0,
-        "ad_count": 26343
+        "spend_usd": 13688469.0,
+        "ad_count": 28153
       },
       {
         "page_id": "108107432370909",
         "page_name": "Kalshi - Trade the Headlines",
         "disclaimer": "KALSHI INC.",
-        "spend_usd": 12044294.0,
-        "ad_count": 4041
+        "spend_usd": 13370122.0,
+        "ad_count": 4329
       },
       {
         "page_id": "212559768612959",
         "page_name": "WinSenate",
         "disclaimer": "WINSENATE",
-        "spend_usd": 7840827.0,
-        "ad_count": 3739
+        "spend_usd": 8109115.0,
+        "ad_count": 3870
       },
       {
         "page_id": "1626884974030414",
         "page_name": "James Talarico",
         "disclaimer": "TALARICO FOR TEXAS",
-        "spend_usd": 7825832.0,
-        "ad_count": 916
+        "spend_usd": 7885291.0,
+        "ad_count": 946
       },
       {
         "page_id": "174371409720577",
         "page_name": "Abdul El-Sayed",
         "disclaimer": "Abdul for U.S. Senate",
-        "spend_usd": 7027121.0,
-        "ad_count": 22583
-      },
-      {
-        "page_id": "318975057964832",
-        "page_name": "America PAC",
-        "disclaimer": "America PAC",
-        "spend_usd": 6605780.0,
-        "ad_count": 11050
+        "spend_usd": 7171806.0,
+        "ad_count": 22962
       },
       {
         "page_id": "1370758889449189",
         "page_name": "Lower Costs Now",
         "disclaimer": "LOWER COSTS NOW",
-        "spend_usd": 6603566.0,
-        "ad_count": 25702
+        "spend_usd": 6980044.0,
+        "ad_count": 28004
+      },
+      {
+        "page_id": "318975057964832",
+        "page_name": "America PAC",
+        "disclaimer": "America PAC",
+        "spend_usd": 6726460.0,
+        "ad_count": 11384
       },
       {
         "page_id": "12301006942",
         "page_name": "Democrats",
         "disclaimer": "DNC SERVICES CORP./DEM. NAT'L COMMITTEE",
-        "spend_usd": 6535832.0,
-        "ad_count": 20073
-      },
-      {
-        "page_id": "107483817554072",
-        "page_name": "WorkMoney",
-        "disclaimer": "WorkMoney",
-        "spend_usd": 4393080.0,
-        "ad_count": 7666
+        "spend_usd": 6572468.0,
+        "ad_count": 20318
       },
       {
         "page_id": "1163832573477744",
         "page_name": "No on 40: Protect Funding for Schools, Healthcare & Public Safety",
         "disclaimer": "No on Prop 40 - Doctors, Teachers, Small Businesses, Working Families and Public Safety Against the Reckless Wealth Tax Experiment. Ad committee\u2019s top funders: California Primary Care Association Advocates & California Medical Association.",
-        "spend_usd": 4373876.0,
-        "ad_count": 3584
+        "spend_usd": 4667353.0,
+        "ad_count": 3694
+      },
+      {
+        "page_id": "107483817554072",
+        "page_name": "WorkMoney",
+        "disclaimer": "WorkMoney",
+        "spend_usd": 4393861.0,
+        "ad_count": 7686
       },
       {
         "page_id": "916623425064173",
         "page_name": "One Nation",
         "disclaimer": "One Nation",
-        "spend_usd": 4307580.0,
-        "ad_count": 4530
-      },
-      {
-        "page_id": "1336293769761923",
-        "page_name": "Jon Ossoff",
-        "disclaimer": "JON OSSOFF FOR SENATE",
-        "spend_usd": 3858746.0,
-        "ad_count": 737
+        "spend_usd": 4364743.0,
+        "ad_count": 4640
       },
       {
         "page_id": "92021268117",
         "page_name": "Working America",
         "disclaimer": "Working America",
-        "spend_usd": 3601676.0,
-        "ad_count": 60410
+        "spend_usd": 4006365.0,
+        "ad_count": 63125
+      },
+      {
+        "page_id": "1336293769761923",
+        "page_name": "Jon Ossoff",
+        "disclaimer": "JON OSSOFF FOR SENATE",
+        "spend_usd": 3881103.0,
+        "ad_count": 748
       },
       {
         "page_id": "2011677365822396",
         "page_name": "Ground News",
         "disclaimer": "Ground News",
-        "spend_usd": 3568417.0,
-        "ad_count": 25666
+        "spend_usd": 3622280.0,
+        "ad_count": 26386
       },
       {
         "page_id": "409309302263826",
         "page_name": "Turning Point PAC",
         "disclaimer": "TURNING POINT PAC INC.",
-        "spend_usd": 3380461.0,
-        "ad_count": 8784
+        "spend_usd": 3395200.0,
+        "ad_count": 8836
       },
       {
         "page_id": "1058516420670570",
         "page_name": "Yes on Proposition 42",
         "disclaimer": "Yes on 42 \u2013 Protect Retirement & Life Savings, a coalition of retirees, blue-collar workers, seniors, veterans, small businesses & taxpayers",
-        "spend_usd": 2977112.0,
-        "ad_count": 3766
-      },
-      {
-        "page_id": "264836380292048",
-        "page_name": "Rep. Gina Hinojosa",
-        "disclaimer": "Gina Hinojosa Campaign",
-        "spend_usd": 2650111.0,
-        "ad_count": 26974
+        "spend_usd": 3113755.0,
+        "ad_count": 4126
       },
       {
         "page_id": "570953166908066",
         "page_name": "Vivek Ramaswamy",
         "disclaimer": "Vivek Ramaswamy and Rob McColley for Ohio",
-        "spend_usd": 2627701.0,
-        "ad_count": 8916
+        "spend_usd": 2746146.0,
+        "ad_count": 9068
+      },
+      {
+        "page_id": "264836380292048",
+        "page_name": "Rep. Gina Hinojosa",
+        "disclaimer": "Gina Hinojosa Campaign",
+        "spend_usd": 2731128.0,
+        "ad_count": 27331
       },
       {
         "page_id": "1335554192968283",
         "page_name": "Dale William",
         "disclaimer": "4936 Ventures LLC",
-        "spend_usd": 2401149.0,
-        "ad_count": 1034
+        "spend_usd": 2423872.0,
+        "ad_count": 1046
       },
       {
         "page_id": "2011677365822396",
@@ -151,85 +151,92 @@
         "page_id": "11465191261",
         "page_name": "JPMorganChase",
         "disclaimer": "JPMORGAN CHASE BANK, NA",
-        "spend_usd": 2141976.0,
-        "ad_count": 4076
+        "spend_usd": 2161094.0,
+        "ad_count": 4182
       },
       {
         "page_id": "410726399046796",
         "page_name": "Troy Jackson",
         "disclaimer": "Troy Jackson for Maine",
-        "spend_usd": 2092425.0,
-        "ad_count": 26584
+        "spend_usd": 2102565.0,
+        "ad_count": 26785
       },
       {
         "page_id": "474227102732389",
         "page_name": "Turning Point Action",
         "disclaimer": "Turning Point Action",
-        "spend_usd": 1918254.0,
-        "ad_count": 4799
-      },
-      {
-        "page_id": "198024590300902",
-        "page_name": "Josh Shapiro",
-        "disclaimer": "Josh Shapiro",
-        "spend_usd": 1902146.0,
-        "ad_count": 2588
+        "spend_usd": 2044725.0,
+        "ad_count": 5057
       },
       {
         "page_id": "1345582475298547",
         "page_name": "Texas PAC",
         "disclaimer": "Texas PAC",
-        "spend_usd": 1899945.0,
-        "ad_count": 6194
+        "spend_usd": 1953914.0,
+        "ad_count": 6380
+      },
+      {
+        "page_id": "198024590300902",
+        "page_name": "Josh Shapiro",
+        "disclaimer": "Josh Shapiro",
+        "spend_usd": 1931529.0,
+        "ad_count": 2680
       },
       {
         "page_id": "108873101593827",
         "page_name": "Dr. Annie Andrews",
         "disclaimer": "DR. ANNIE ANDREWS FOR SENATE",
-        "spend_usd": 1895911.0,
-        "ad_count": 16620
-      },
-      {
-        "page_id": "6266829799",
-        "page_name": "Sherrod Brown",
-        "disclaimer": "Friends of Sherrod Brown",
-        "spend_usd": 1837672.0,
-        "ad_count": 2914
-      },
-      {
-        "page_id": "114833761835",
-        "page_name": "Dan Patrick",
-        "disclaimer": "Texans For Dan Patrick",
-        "spend_usd": 1833439.0,
-        "ad_count": 4501
+        "spend_usd": 1925749.0,
+        "ad_count": 17022
       },
       {
         "page_id": "584869581374000",
         "page_name": "State + Local Election Alliance",
         "disclaimer": "State + Local Election Alliance",
-        "spend_usd": 1824778.0,
-        "ad_count": 3736
+        "spend_usd": 1856077.0,
+        "ad_count": 3848
+      },
+      {
+        "page_id": "6266829799",
+        "page_name": "Sherrod Brown",
+        "disclaimer": "Friends of Sherrod Brown",
+        "spend_usd": 1854437.0,
+        "ad_count": 3010
+      },
+      {
+        "page_id": "114833761835",
+        "page_name": "Dan Patrick",
+        "disclaimer": "Texans For Dan Patrick",
+        "spend_usd": 1853988.0,
+        "ad_count": 4604
       },
       {
         "page_id": "18982436812",
         "page_name": "ACLU",
         "disclaimer": "American Civil Liberties Union",
-        "spend_usd": 1786590.0,
-        "ad_count": 4557
+        "spend_usd": 1804260.0,
+        "ad_count": 4661
       },
       {
-        "page_id": "309308412520731",
-        "page_name": "Sandy Hook Promise",
-        "disclaimer": "Sandy Hook Promise",
-        "spend_usd": 1656134.0,
-        "ad_count": 4847
+        "page_id": "102163335100899",
+        "page_name": "Defend The Vote",
+        "disclaimer": "DEFEND THE VOTE ACTION FUND",
+        "spend_usd": 1783384.0,
+        "ad_count": 1796
       },
       {
         "page_id": "1138815389310118",
         "page_name": "Team Ossoff",
         "disclaimer": "JON OSSOFF FOR SENATE",
-        "spend_usd": 1654473.0,
-        "ad_count": 1374
+        "spend_usd": 1675839.0,
+        "ad_count": 1410
+      },
+      {
+        "page_id": "309308412520731",
+        "page_name": "Sandy Hook Promise",
+        "disclaimer": "Sandy Hook Promise",
+        "spend_usd": 1671839.0,
+        "ad_count": 5004
       },
       {
         "page_id": "654896757698932",
@@ -239,25 +246,39 @@
         "ad_count": 1363
       },
       {
-        "page_id": "102163335100899",
-        "page_name": "Defend The Vote",
-        "disclaimer": "DEFEND THE VOTE ACTION FUND",
-        "spend_usd": 1644589.0,
-        "ad_count": 1650
+        "page_id": "107553188401159",
+        "page_name": "Brandon Gill",
+        "disclaimer": "Brandon Gill for Texas",
+        "spend_usd": 1593982.0,
+        "ad_count": 4946
       },
       {
         "page_id": "340153562850578",
         "page_name": "Tim Tebow",
         "disclaimer": "TIM TEBOW FOUNDATION",
-        "spend_usd": 1583802.0,
-        "ad_count": 3194
+        "spend_usd": 1593123.0,
+        "ad_count": 3267
       },
       {
-        "page_id": "107553188401159",
-        "page_name": "Brandon Gill",
-        "disclaimer": "Brandon Gill for Texas",
-        "spend_usd": 1575905.0,
-        "ad_count": 4717
+        "page_id": "111025563615171",
+        "page_name": "Tom Tiffany",
+        "disclaimer": "Tiffany for Wisconsin",
+        "spend_usd": 1591283.0,
+        "ad_count": 5694
+      },
+      {
+        "page_id": "1287000207833508",
+        "page_name": "Sherrod Brown Let Us Down",
+        "disclaimer": "SLF PAC",
+        "spend_usd": 1572430.0,
+        "ad_count": 1363
+      },
+      {
+        "page_id": "720544961134059",
+        "page_name": "MAHA Movie",
+        "disclaimer": "JEFF HAYS FILMS LLC",
+        "spend_usd": 1571021.0,
+        "ad_count": 814
       },
       {
         "page_id": "993180150554810",
@@ -267,18 +288,11 @@
         "ad_count": 397
       },
       {
-        "page_id": "720544961134059",
-        "page_name": "MAHA Movie",
-        "disclaimer": "JEFF HAYS FILMS LLC",
-        "spend_usd": 1564319.0,
-        "ad_count": 800
-      },
-      {
         "page_id": "674302579102988",
         "page_name": "bethepeople",
         "disclaimer": "Bigger Picture US, Inc.",
-        "spend_usd": 1563772.0,
-        "ad_count": 460
+        "spend_usd": 1564462.0,
+        "ad_count": 464
       },
       {
         "page_id": "102915374460262",
@@ -288,123 +302,109 @@
         "ad_count": 1113
       },
       {
-        "page_id": "111025563615171",
-        "page_name": "Tom Tiffany",
-        "disclaimer": "Tiffany for Wisconsin",
-        "spend_usd": 1551552.0,
-        "ad_count": 5585
-      },
-      {
         "page_id": "297450796040",
         "page_name": "Bruce Blakeman for Governor - Make New York Affordable",
         "disclaimer": "Blakeman for New York",
-        "spend_usd": 1531025.0,
-        "ad_count": 557
-      },
-      {
-        "page_id": "1287000207833508",
-        "page_name": "Sherrod Brown Let Us Down",
-        "disclaimer": "SLF PAC",
-        "spend_usd": 1529163.0,
-        "ad_count": 1315
+        "spend_usd": 1551625.0,
+        "ad_count": 568
       },
       {
         "page_id": "156994304362574",
         "page_name": "American Bridge 21st Century",
         "disclaimer": "AB PAC",
-        "spend_usd": 1505805.0,
-        "ad_count": 2063
+        "spend_usd": 1510904.0,
+        "ad_count": 2090
       },
       {
         "page_id": "123192635089",
         "page_name": "Republicans",
         "disclaimer": "REPUBLICAN NATIONAL COMMITTEE",
-        "spend_usd": 1358190.0,
-        "ad_count": 10241
+        "spend_usd": 1426861.0,
+        "ad_count": 10578
       },
       {
         "page_id": "1576552839287418",
         "page_name": "Senate Leadership Fund",
         "disclaimer": "SLF PAC",
-        "spend_usd": 1303644.0,
-        "ad_count": 1872
-      },
-      {
-        "page_id": "1121557611034507",
-        "page_name": "Adam Hamilton for Kansas",
-        "disclaimer": "Hamilton for Kansas",
-        "spend_usd": 1265471.0,
-        "ad_count": 3510
-      },
-      {
-        "page_id": "20787991568",
-        "page_name": "Senate Democrats",
-        "disclaimer": "DSCC",
-        "spend_usd": 1263706.0,
-        "ad_count": 2501
+        "spend_usd": 1365646.0,
+        "ad_count": 1942
       },
       {
         "page_id": "349800608987143",
         "page_name": "Texans for Economic Liberty",
         "disclaimer": "Texans for Economic Liberty",
-        "spend_usd": 1261305.0,
-        "ad_count": 787
-      },
-      {
-        "page_id": "570092813023833",
-        "page_name": "Matt Walsh",
-        "disclaimer": "The Daily Wire",
-        "spend_usd": 1252039.0,
-        "ad_count": 11509
+        "spend_usd": 1312723.0,
+        "ad_count": 801
       },
       {
         "page_id": "747436915270894",
         "page_name": "Congressional Leadership Fund",
         "disclaimer": "CONGRESSIONAL LEADERSHIP FUND",
-        "spend_usd": 1238680.0,
-        "ad_count": 2608
+        "spend_usd": 1309345.0,
+        "ad_count": 2725
+      },
+      {
+        "page_id": "1121557611034507",
+        "page_name": "Adam Hamilton for Kansas",
+        "disclaimer": "Hamilton for Kansas",
+        "spend_usd": 1288342.0,
+        "ad_count": 3609
+      },
+      {
+        "page_id": "20787991568",
+        "page_name": "Senate Democrats",
+        "disclaimer": "DSCC",
+        "spend_usd": 1278718.0,
+        "ad_count": 2541
+      },
+      {
+        "page_id": "570092813023833",
+        "page_name": "Matt Walsh",
+        "disclaimer": "The Daily Wire",
+        "spend_usd": 1261763.0,
+        "ad_count": 11786
       },
       {
         "page_id": "967260066470460",
         "page_name": "YES on Prop 38 - Immunology Medical Research & Cures",
         "disclaimer": "YES on 38: Californians for Life-Saving Immunology Research and Cures, sponsored by the Michelson Center for Public Policy. Ad Committee\u2019s Top Funders: Gary K. Michelson, Michelson Center for Public Policy, Inc., & Meyer Luskin",
-        "spend_usd": 1223419.0,
-        "ad_count": 1414
+        "spend_usd": 1244660.0,
+        "ad_count": 1430
       },
       {
         "page_id": "1039701332716228",
         "page_name": "Pete Buttigieg",
         "disclaimer": "WIN THE ERA PAC",
-        "spend_usd": 1195607.0,
-        "ad_count": 5545
+        "spend_usd": 1200645.0,
+        "ad_count": 5693
       },
       {
         "page_id": "1435071773455316",
         "page_name": "Daily Wire",
         "disclaimer": "The Daily Wire",
-        "spend_usd": 1187782.0,
-        "ad_count": 19742
+        "spend_usd": 1194059.0,
+        "ad_count": 20356
       },
       {
         "page_id": "100494606092644",
         "page_name": "End The Wokeness",
         "disclaimer": "End The Wokeness",
-        "spend_usd": 1182646.0,
-        "ad_count": 3836
+        "spend_usd": 1189288.0,
+        "ad_count": 3926
       },
       {
         "page_id": "23790541544",
         "page_name": "Democrats",
         "disclaimer": "DCCC",
-        "spend_usd": 1157587.0,
-        "ad_count": 2902
+        "spend_usd": 1176798.0,
+        "ad_count": 2969
       },
       {
         "page_id": "107572881870115",
         "page_name": "Josh Turek",
         "disclaimer": "Josh Turek for Iowa",
-        "spend_usd": 1157238.0,
-        "ad_count": 5282
+        "spend_usd": 1168385.0,
+        "ad_count": 5389
       },
       {
         "page_id": "267264556649899",
@@ -414,18 +414,39 @@
         "ad_count": 20
       },
       {
-        "page_id": "558219887366326",
-        "page_name": "Dr. Amy Acton",
-        "disclaimer": "Ohioans for Amy Acton",
-        "spend_usd": 1132910.0,
-        "ad_count": 7354
-      },
-      {
         "page_id": "1155212867963791",
         "page_name": "AFP Action",
         "disclaimer": "AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION)",
-        "spend_usd": 1122738.0,
-        "ad_count": 6093
+        "spend_usd": 1141353.0,
+        "ad_count": 6272
+      },
+      {
+        "page_id": "374812972549792",
+        "page_name": "Angie Nixon for Florida",
+        "disclaimer": "Angie For Florida",
+        "spend_usd": 1139529.0,
+        "ad_count": 4056
+      },
+      {
+        "page_id": "558219887366326",
+        "page_name": "Dr. Amy Acton",
+        "disclaimer": "Ohioans for Amy Acton",
+        "spend_usd": 1135666.0,
+        "ad_count": 7586
+      },
+      {
+        "page_id": "106612915352436",
+        "page_name": "Mary Peltola",
+        "disclaimer": "ALASKANS FOR MARY",
+        "spend_usd": 1131118.0,
+        "ad_count": 2801
+      },
+      {
+        "page_id": "316769131522344",
+        "page_name": "Right Vote",
+        "disclaimer": "Right Vote Inc",
+        "spend_usd": 1125630.0,
+        "ad_count": 692
       },
       {
         "page_id": "1002411192963630",
@@ -435,130 +456,116 @@
         "ad_count": 3892
       },
       {
-        "page_id": "374812972549792",
-        "page_name": "Angie Nixon for Florida",
-        "disclaimer": "Angie For Florida",
-        "spend_usd": 1111760.0,
-        "ad_count": 3861
-      },
-      {
-        "page_id": "106612915352436",
-        "page_name": "Mary Peltola",
-        "disclaimer": "ALASKANS FOR MARY",
-        "spend_usd": 1104779.0,
-        "ad_count": 2701
-      },
-      {
-        "page_id": "316769131522344",
-        "page_name": "Right Vote",
-        "disclaimer": "Right Vote Inc",
-        "spend_usd": 1089830.0,
-        "ad_count": 680
-      },
-      {
         "page_id": "113891694102",
         "page_name": "Energy Citizens",
         "disclaimer": "AMERICAN PETROLEUM INSTITUTE",
-        "spend_usd": 1082743.0,
-        "ad_count": 20013
+        "spend_usd": 1089177.0,
+        "ad_count": 20491
       },
       {
         "page_id": "8492293163",
         "page_name": "Environmental Defense Fund",
         "disclaimer": "Environmental Defense Fund",
-        "spend_usd": 1044425.0,
-        "ad_count": 6894
+        "spend_usd": 1049138.0,
+        "ad_count": 7008
       },
       {
         "page_id": "1362053473662471",
         "page_name": "Texas Forever",
         "disclaimer": "Texas Forever",
-        "spend_usd": 1018690.0,
-        "ad_count": 1012
-      },
-      {
-        "page_id": "790539937480642",
-        "page_name": "NO on Prop 44 - Stop the Attack on Patients",
-        "disclaimer": "No On Prop 44 - Stop the Attack on Patients and Community Health Clinics, sponsored by California Primary Care Association Advocates. Ad Committee\u2019s Top Funders AltaMed Health Services, California Primary Care Association Advocates, and Family Health Centers of San Diego.",
-        "spend_usd": 1004221.0,
-        "ad_count": 885
-      },
-      {
-        "page_id": "167586229923327",
-        "page_name": "World Food Program USA",
-        "disclaimer": "World Food Program USA",
-        "spend_usd": 998712.0,
-        "ad_count": 3116
+        "spend_usd": 1042746.0,
+        "ad_count": 1091
       },
       {
         "page_id": "505598353158784",
         "page_name": "Rob Sand for Iowa",
         "disclaimer": "Rob Sand for Iowa",
-        "spend_usd": 990339.0,
-        "ad_count": 10723
-      },
-      {
-        "page_id": "121268821249550",
-        "page_name": "World Central Kitchen",
-        "disclaimer": "World Central Kitchen",
-        "spend_usd": 989844.0,
-        "ad_count": 9180
+        "spend_usd": 1029041.0,
+        "ad_count": 10967
       },
       {
         "page_id": "956778190860716",
         "page_name": "Rick Jackson for Governor",
         "disclaimer": "Jackson for Governor, Inc.",
-        "spend_usd": 983898.0,
-        "ad_count": 1802
+        "spend_usd": 1018014.0,
+        "ad_count": 1853
+      },
+      {
+        "page_id": "790539937480642",
+        "page_name": "NO on Prop 44 - Stop the Attack on Patients",
+        "disclaimer": "No On Prop 44 - Stop the Attack on Patients and Community Health Clinics, sponsored by California Primary Care Association Advocates. Ad Committee\u2019s Top Funders AltaMed Health Services, California Primary Care Association Advocates, and Family Health Centers of San Diego.",
+        "spend_usd": 1011595.0,
+        "ad_count": 906
+      },
+      {
+        "page_id": "167586229923327",
+        "page_name": "World Food Program USA",
+        "disclaimer": "World Food Program USA",
+        "spend_usd": 1003554.0,
+        "ad_count": 3180
+      },
+      {
+        "page_id": "121268821249550",
+        "page_name": "World Central Kitchen",
+        "disclaimer": "World Central Kitchen",
+        "spend_usd": 998067.0,
+        "ad_count": 9423
       },
       {
         "page_id": "127225910653607",
         "page_name": "PragerU",
         "disclaimer": "Prager University",
-        "spend_usd": 982765.0,
-        "ad_count": 9826
+        "spend_usd": 995336.0,
+        "ad_count": 10019
       },
       {
         "page_id": "376776419037747",
         "page_name": "Turning Point USA",
         "disclaimer": "Turning Point USA, Inc.",
-        "spend_usd": 974120.0,
-        "ad_count": 14723
+        "spend_usd": 982679.0,
+        "ad_count": 15123
       },
       {
         "page_id": "385473284886474",
         "page_name": "Hillsdale College",
         "disclaimer": "Hillsdale College",
-        "spend_usd": 969681.0,
-        "ad_count": 3097
-      },
-      {
-        "page_id": "33110852384",
-        "page_name": "Doctors Without Borders/M\u00e9decins Sans Fronti\u00e8res (MSF)",
-        "disclaimer": "Doctors Without Borders/M\u00e9decins Sans Fronti\u00e8res USA",
-        "spend_usd": 959693.0,
-        "ad_count": 8082
+        "spend_usd": 981485.0,
+        "ad_count": 3199
       },
       {
         "page_id": "1228073290391900",
         "page_name": "Wisconsin Ideas Project",
         "disclaimer": "Wisconsin Ideas Project",
-        "spend_usd": 950515.0,
-        "ad_count": 3535
+        "spend_usd": 966679.0,
+        "ad_count": 3612
+      },
+      {
+        "page_id": "33110852384",
+        "page_name": "Doctors Without Borders/M\u00e9decins Sans Fronti\u00e8res (MSF)",
+        "disclaimer": "Doctors Without Borders/M\u00e9decins Sans Fronti\u00e8res USA",
+        "spend_usd": 966462.0,
+        "ad_count": 8304
       },
       {
         "page_id": "228754857151053",
         "page_name": "House Majority PAC",
         "disclaimer": "HMP",
-        "spend_usd": 913339.0,
-        "ad_count": 2307
+        "spend_usd": 954592.0,
+        "ad_count": 2399
+      },
+      {
+        "page_id": "103910725985046",
+        "page_name": "Forward Blue",
+        "disclaimer": "Forward Blue",
+        "spend_usd": 954398.0,
+        "ad_count": 10612
       },
       {
         "page_id": "146716918692692",
         "page_name": "AFP-Wisconsin",
         "disclaimer": "AMERICANS FOR PROSPERITY",
-        "spend_usd": 907765.0,
-        "ad_count": 935
+        "spend_usd": 919292.0,
+        "ad_count": 956
       },
       {
         "page_id": "163681003677318",
@@ -566,13 +573,6 @@
         "disclaimer": "The Patriotic Prophet",
         "spend_usd": 905088.0,
         "ad_count": 541
-      },
-      {
-        "page_id": "103910725985046",
-        "page_name": "Forward Blue",
-        "disclaimer": "Forward Blue",
-        "spend_usd": 901191.0,
-        "ad_count": 10409
       },
       {
         "page_id": "1163627126823548",
@@ -585,336 +585,336 @@
         "page_id": "558219887366326",
         "page_name": "Dr. Amy Acton",
         "disclaimer": "Ohio Democratic Party",
-        "spend_usd": 891116.0,
-        "ad_count": 4037
-      },
-      {
-        "page_id": "24330467048",
-        "page_name": "Americans for Prosperity",
-        "disclaimer": "AMERICANS FOR PROSPERITY",
-        "spend_usd": 877342.0,
-        "ad_count": 3887
+        "spend_usd": 892171.0,
+        "ad_count": 4048
       },
       {
         "page_id": "10461186460",
         "page_name": "Ben & Jerry's",
         "disclaimer": "BEN & JERRY'S HOMEMADE, INC.",
-        "spend_usd": 872734.0,
-        "ad_count": 9617
+        "spend_usd": 883428.0,
+        "ad_count": 9666
+      },
+      {
+        "page_id": "24330467048",
+        "page_name": "Americans for Prosperity",
+        "disclaimer": "AMERICANS FOR PROSPERITY",
+        "spend_usd": 879991.0,
+        "ad_count": 3973
       },
       {
         "page_id": "774857119052969",
         "page_name": "Political Identity",
         "disclaimer": "Political Identity",
-        "spend_usd": 849083.0,
-        "ad_count": 1238
+        "spend_usd": 855422.0,
+        "ad_count": 1261
       },
       {
-        "page_id": "127225910653607",
-        "page_name": "PragerU",
-        "disclaimer": "PragerU",
-        "spend_usd": 825309.0,
-        "ad_count": 6458
+        "page_id": "723421757524895",
+        "page_name": "FOX One",
+        "disclaimer": "FOX CORPORATION",
+        "spend_usd": 847737.0,
+        "ad_count": 61
       },
       {
         "page_id": "1294510163744171",
         "page_name": "The Truth About Josh Turek",
         "disclaimer": "SLF PAC",
-        "spend_usd": 822394.0,
-        "ad_count": 1173
+        "spend_usd": 846598.0,
+        "ad_count": 1203
+      },
+      {
+        "page_id": "937596382775951",
+        "page_name": "Restoration of America Pac",
+        "disclaimer": "Restoration of America Pac",
+        "spend_usd": 836614.0,
+        "ad_count": 4656
+      },
+      {
+        "page_id": "127225910653607",
+        "page_name": "PragerU",
+        "disclaimer": "PragerU",
+        "spend_usd": 831532.0,
+        "ad_count": 6610
       },
       {
         "page_id": "109320440856128",
         "page_name": "Blue Square Alliance",
         "disclaimer": "Blue Square Alliance Against Hate, Corp.",
-        "spend_usd": 820107.0,
-        "ad_count": 1011
-      },
-      {
-        "page_id": "9324910069",
-        "page_name": "NRSC",
-        "disclaimer": "NRSC",
-        "spend_usd": 806247.0,
-        "ad_count": 2456
-      },
-      {
-        "page_id": "8501031021",
-        "page_name": "VoteVets",
-        "disclaimer": "VOTEVETS",
-        "spend_usd": 797113.0,
-        "ad_count": 950
-      },
-      {
-        "page_id": "179204028758675",
-        "page_name": "California Secretary of State",
-        "disclaimer": "California Secretary of State Office",
-        "spend_usd": 792441.0,
-        "ad_count": 437
+        "spend_usd": 830107.0,
+        "ad_count": 1043
       },
       {
         "page_id": "101165966152",
         "page_name": "AFL-CIO",
         "disclaimer": "AFL-CIO",
-        "spend_usd": 790164.0,
-        "ad_count": 5552
+        "spend_usd": 826345.0,
+        "ad_count": 5896
+      },
+      {
+        "page_id": "179204028758675",
+        "page_name": "California Secretary of State",
+        "disclaimer": "California Secretary of State Office",
+        "spend_usd": 819309.0,
+        "ad_count": 474
       },
       {
         "page_id": "1428283027462702",
         "page_name": "Restoration of America",
         "disclaimer": "Restoration of America",
-        "spend_usd": 788205.0,
-        "ad_count": 1726
+        "spend_usd": 818484.0,
+        "ad_count": 1780
       },
       {
-        "page_id": "92925746942",
-        "page_name": "Judicial Watch",
-        "disclaimer": "Judicial Watch",
-        "spend_usd": 783201.0,
-        "ad_count": 2179
+        "page_id": "9324910069",
+        "page_name": "NRSC",
+        "disclaimer": "NRSC",
+        "spend_usd": 818161.0,
+        "ad_count": 2554
       },
       {
-        "page_id": "9258148868",
-        "page_name": "The New Yorker",
-        "disclaimer": "The New Yorker",
-        "spend_usd": 781030.0,
-        "ad_count": 2507
+        "page_id": "8501031021",
+        "page_name": "VoteVets",
+        "disclaimer": "VOTEVETS",
+        "spend_usd": 816174.0,
+        "ad_count": 992
       },
       {
         "page_id": "1524020107726785",
         "page_name": "Duty & Country",
         "disclaimer": "DUTY AND COUNTRY",
-        "spend_usd": 779210.0,
-        "ad_count": 255
+        "spend_usd": 801607.0,
+        "ad_count": 268
       },
       {
-        "page_id": "300992409852",
-        "page_name": "Hoover Institution",
-        "disclaimer": "Hoover Institution",
-        "spend_usd": 773848.0,
-        "ad_count": 4045
+        "page_id": "92925746942",
+        "page_name": "Judicial Watch",
+        "disclaimer": "Judicial Watch",
+        "spend_usd": 791218.0,
+        "ad_count": 2239
       },
       {
-        "page_id": "1316372698453411",
-        "page_name": "Alexandria Ocasio-Cortez",
-        "disclaimer": "Alexandria Ocasio-Cortez for Congress",
-        "spend_usd": 773000.0,
-        "ad_count": 5203
+        "page_id": "110925118506732",
+        "page_name": "Make America Great Again Inc.",
+        "disclaimer": "MAGA INC",
+        "spend_usd": 787385.0,
+        "ad_count": 135
       },
       {
-        "page_id": "342294162453301",
-        "page_name": "Planned Parenthood",
-        "disclaimer": "Planned Parenthood Federation of America",
-        "spend_usd": 767545.0,
-        "ad_count": 12176
+        "page_id": "9258148868",
+        "page_name": "The New Yorker",
+        "disclaimer": "The New Yorker",
+        "spend_usd": 786881.0,
+        "ad_count": 2626
       }
     ],
     "states": [
       {
         "state": "California",
-        "spend_usd": 58580166.0
+        "spend_usd": 60300604.0
       },
       {
         "state": "Texas",
-        "spend_usd": 46287667.0
+        "spend_usd": 47899115.0
       },
       {
         "state": "Ohio",
-        "spend_usd": 33961528.0
+        "spend_usd": 35004242.0
       },
       {
         "state": "Michigan",
-        "spend_usd": 30304459.0
+        "spend_usd": 31184744.0
       },
       {
         "state": "Florida",
-        "spend_usd": 26873028.0
+        "spend_usd": 27666683.0
       },
       {
         "state": "New York",
-        "spend_usd": 23923894.0
+        "spend_usd": 24490661.0
       },
       {
         "state": "Arizona",
-        "spend_usd": 16916419.0
+        "spend_usd": 17305687.0
       },
       {
         "state": "Pennsylvania",
-        "spend_usd": 16521794.0
+        "spend_usd": 16885961.0
       },
       {
         "state": "Georgia",
-        "spend_usd": 14558878.0
-      },
-      {
-        "state": "North Carolina",
-        "spend_usd": 14309502.0
+        "spend_usd": 14924194.0
       },
       {
         "state": "Iowa",
-        "spend_usd": 14256908.0
+        "spend_usd": 14713261.0
+      },
+      {
+        "state": "North Carolina",
+        "spend_usd": 14659642.0
       },
       {
         "state": "Wisconsin",
-        "spend_usd": 13918300.0
+        "spend_usd": 14329943.0
       },
       {
         "state": "Illinois",
-        "spend_usd": 12756193.0
+        "spend_usd": 13050640.0
       },
       {
         "state": "Colorado",
-        "spend_usd": 10186516.0
+        "spend_usd": 10493604.0
       },
       {
         "state": "Maine",
-        "spend_usd": 9722884.0
+        "spend_usd": 9998654.0
       },
       {
         "state": "Alaska",
-        "spend_usd": 9656012.0
+        "spend_usd": 9954584.0
       },
       {
         "state": "Virginia",
-        "spend_usd": 9481449.0
+        "spend_usd": 9755305.0
       },
       {
         "state": "Minnesota",
-        "spend_usd": 8974060.0
+        "spend_usd": 9246206.0
       },
       {
         "state": "Massachusetts",
-        "spend_usd": 8622297.0
+        "spend_usd": 8823063.0
       },
       {
         "state": "New Jersey",
-        "spend_usd": 7694304.0
+        "spend_usd": 7856730.0
       },
       {
         "state": "Washington",
-        "spend_usd": 7641126.0
+        "spend_usd": 7814785.0
       },
       {
         "state": "Missouri",
-        "spend_usd": 6883964.0
+        "spend_usd": 7025432.0
       },
       {
         "state": "Tennessee",
-        "spend_usd": 6684520.0
+        "spend_usd": 6842230.0
       },
       {
         "state": "Kansas",
-        "spend_usd": 5911576.0
+        "spend_usd": 6154795.0
       },
       {
         "state": "South Carolina",
-        "spend_usd": 5879705.0
+        "spend_usd": 6064853.0
       },
       {
         "state": "Maryland",
-        "spend_usd": 5788566.0
+        "spend_usd": 5910693.0
       },
       {
         "state": "Oregon",
-        "spend_usd": 5183000.0
+        "spend_usd": 5291965.0
       },
       {
         "state": "Nevada",
-        "spend_usd": 5098363.0
-      },
-      {
-        "state": "Indiana",
-        "spend_usd": 5060582.0
+        "spend_usd": 5263695.0
       },
       {
         "state": "New Hampshire",
-        "spend_usd": 5020813.0
+        "spend_usd": 5211934.0
+      },
+      {
+        "state": "Indiana",
+        "spend_usd": 5189500.0
       },
       {
         "state": "Connecticut",
-        "spend_usd": 4161528.0
+        "spend_usd": 4252834.0
       },
       {
         "state": "Alabama",
-        "spend_usd": 3776399.0
+        "spend_usd": 3886786.0
       },
       {
         "state": "Louisiana",
-        "spend_usd": 3712184.0
+        "spend_usd": 3804205.0
       },
       {
         "state": "Nebraska",
-        "spend_usd": 3364476.0
+        "spend_usd": 3488897.0
       },
       {
         "state": "Kentucky",
-        "spend_usd": 3234100.0
+        "spend_usd": 3353247.0
       },
       {
         "state": "Oklahoma",
-        "spend_usd": 3107092.0
+        "spend_usd": 3177136.0
       },
       {
         "state": "New Mexico",
-        "spend_usd": 2689507.0
-      },
-      {
-        "state": "Utah",
-        "spend_usd": 2296353.0
+        "spend_usd": 2774902.0
       },
       {
         "state": "Arkansas",
-        "spend_usd": 2287101.0
+        "spend_usd": 2350455.0
+      },
+      {
+        "state": "Utah",
+        "spend_usd": 2338120.0
       },
       {
         "state": "Montana",
-        "spend_usd": 2244526.0
+        "spend_usd": 2298038.0
       },
       {
         "state": "Mississippi",
-        "spend_usd": 2129016.0
+        "spend_usd": 2240461.0
       },
       {
         "state": "Washington, District of Columbia",
-        "spend_usd": 1985887.0
+        "spend_usd": 2011397.0
       },
       {
         "state": "Idaho",
-        "spend_usd": 1942769.0
+        "spend_usd": 1990890.0
       },
       {
         "state": "West Virginia",
-        "spend_usd": 1527074.0
+        "spend_usd": 1569541.0
       },
       {
         "state": "Rhode Island",
-        "spend_usd": 1302870.0
+        "spend_usd": 1328084.0
       },
       {
         "state": "Delaware",
-        "spend_usd": 1273173.0
+        "spend_usd": 1304545.0
       },
       {
         "state": "Hawaii",
-        "spend_usd": 1264106.0
+        "spend_usd": 1287474.0
       },
       {
         "state": "Wyoming",
-        "spend_usd": 946849.0
+        "spend_usd": 961482.0
       },
       {
         "state": "Vermont",
-        "spend_usd": 903584.0
+        "spend_usd": 920547.0
       },
       {
         "state": "South Dakota",
-        "spend_usd": 847011.0
+        "spend_usd": 865768.0
       },
       {
         "state": "North Dakota",
-        "spend_usd": 594526.0
+        "spend_usd": 609349.0
       }
     ],
-    "daily_reports_added": 39
+    "daily_reports_added": 40
   },
   "daily_observations": [
     {
@@ -37393,6 +37393,918 @@
           "page_name": "Senate Democrats",
           "disclaimer": "DSCC",
           "spend_usd": 16696.0,
+          "ad_count": 71
+        }
+      ]
+    },
+    {
+      "report_end_date": "2026-10-31",
+      "national_spend_usd": 13878959.0,
+      "states": [
+        {
+          "state": "California",
+          "spend_usd": 1720438.0
+        },
+        {
+          "state": "Texas",
+          "spend_usd": 1611448.0
+        },
+        {
+          "state": "Ohio",
+          "spend_usd": 1042714.0
+        },
+        {
+          "state": "Michigan",
+          "spend_usd": 880285.0
+        },
+        {
+          "state": "Florida",
+          "spend_usd": 793655.0
+        },
+        {
+          "state": "New York",
+          "spend_usd": 566767.0
+        },
+        {
+          "state": "Iowa",
+          "spend_usd": 456353.0
+        },
+        {
+          "state": "Wisconsin",
+          "spend_usd": 411643.0
+        },
+        {
+          "state": "Arizona",
+          "spend_usd": 389268.0
+        },
+        {
+          "state": "Georgia",
+          "spend_usd": 365316.0
+        },
+        {
+          "state": "Pennsylvania",
+          "spend_usd": 364167.0
+        },
+        {
+          "state": "North Carolina",
+          "spend_usd": 350140.0
+        },
+        {
+          "state": "Colorado",
+          "spend_usd": 307088.0
+        },
+        {
+          "state": "Alaska",
+          "spend_usd": 298572.0
+        },
+        {
+          "state": "Illinois",
+          "spend_usd": 294447.0
+        },
+        {
+          "state": "Maine",
+          "spend_usd": 275770.0
+        },
+        {
+          "state": "Virginia",
+          "spend_usd": 273856.0
+        },
+        {
+          "state": "Minnesota",
+          "spend_usd": 272146.0
+        },
+        {
+          "state": "Kansas",
+          "spend_usd": 243219.0
+        },
+        {
+          "state": "Massachusetts",
+          "spend_usd": 200766.0
+        },
+        {
+          "state": "New Hampshire",
+          "spend_usd": 191121.0
+        },
+        {
+          "state": "South Carolina",
+          "spend_usd": 185148.0
+        },
+        {
+          "state": "Washington",
+          "spend_usd": 173659.0
+        },
+        {
+          "state": "Nevada",
+          "spend_usd": 165332.0
+        },
+        {
+          "state": "New Jersey",
+          "spend_usd": 162426.0
+        },
+        {
+          "state": "Tennessee",
+          "spend_usd": 157710.0
+        },
+        {
+          "state": "Missouri",
+          "spend_usd": 141468.0
+        },
+        {
+          "state": "Indiana",
+          "spend_usd": 128918.0
+        },
+        {
+          "state": "Nebraska",
+          "spend_usd": 124421.0
+        },
+        {
+          "state": "Maryland",
+          "spend_usd": 122127.0
+        },
+        {
+          "state": "Kentucky",
+          "spend_usd": 119147.0
+        },
+        {
+          "state": "Mississippi",
+          "spend_usd": 111445.0
+        },
+        {
+          "state": "Alabama",
+          "spend_usd": 110387.0
+        },
+        {
+          "state": "Oregon",
+          "spend_usd": 108965.0
+        },
+        {
+          "state": "Louisiana",
+          "spend_usd": 92021.0
+        },
+        {
+          "state": "Connecticut",
+          "spend_usd": 91306.0
+        },
+        {
+          "state": "New Mexico",
+          "spend_usd": 85395.0
+        },
+        {
+          "state": "Oklahoma",
+          "spend_usd": 70044.0
+        },
+        {
+          "state": "Arkansas",
+          "spend_usd": 63354.0
+        },
+        {
+          "state": "Montana",
+          "spend_usd": 53512.0
+        },
+        {
+          "state": "Idaho",
+          "spend_usd": 48121.0
+        },
+        {
+          "state": "West Virginia",
+          "spend_usd": 42467.0
+        },
+        {
+          "state": "Utah",
+          "spend_usd": 41767.0
+        },
+        {
+          "state": "Delaware",
+          "spend_usd": 31372.0
+        },
+        {
+          "state": "Washington, District of Columbia",
+          "spend_usd": 25510.0
+        },
+        {
+          "state": "Rhode Island",
+          "spend_usd": 25214.0
+        },
+        {
+          "state": "Hawaii",
+          "spend_usd": 23368.0
+        },
+        {
+          "state": "South Dakota",
+          "spend_usd": 18757.0
+        },
+        {
+          "state": "Vermont",
+          "spend_usd": 16963.0
+        },
+        {
+          "state": "North Dakota",
+          "spend_usd": 14823.0
+        },
+        {
+          "state": "Wyoming",
+          "spend_usd": 14633.0
+        }
+      ],
+      "top_advertisers": [
+        {
+          "page_id": "108107432370909",
+          "page_name": "Kalshi - Trade the Headlines",
+          "disclaimer": "KALSHI INC.",
+          "spend_usd": 1325828.0,
+          "ad_count": 288
+        },
+        {
+          "page_id": "1386969781166493",
+          "page_name": "Common Sense Voters Coalition",
+          "disclaimer": "MAGA INC",
+          "spend_usd": 1034900.0,
+          "ad_count": 1810
+        },
+        {
+          "page_id": "92021268117",
+          "page_name": "Working America",
+          "disclaimer": "Working America",
+          "spend_usd": 404689.0,
+          "ad_count": 2715
+        },
+        {
+          "page_id": "1370758889449189",
+          "page_name": "Lower Costs Now",
+          "disclaimer": "LOWER COSTS NOW",
+          "spend_usd": 376478.0,
+          "ad_count": 2302
+        },
+        {
+          "page_id": "1163832573477744",
+          "page_name": "No on 40: Protect Funding for Schools, Healthcare & Public Safety",
+          "disclaimer": "No on Prop 40 - Doctors, Teachers, Small Businesses, Working Families and Public Safety Against the Reckless Wealth Tax Experiment. Ad committee\u2019s top funders: California Primary Care Association Advocates & California Medical Association.",
+          "spend_usd": 293477.0,
+          "ad_count": 110
+        },
+        {
+          "page_id": "212559768612959",
+          "page_name": "WinSenate",
+          "disclaimer": "WINSENATE",
+          "spend_usd": 268288.0,
+          "ad_count": 131
+        },
+        {
+          "page_id": "110925118506732",
+          "page_name": "Make America Great Again Inc.",
+          "disclaimer": "MAGA INC",
+          "spend_usd": 156944.0,
+          "ad_count": 23
+        },
+        {
+          "page_id": "174371409720577",
+          "page_name": "Abdul El-Sayed",
+          "disclaimer": "Abdul for U.S. Senate",
+          "spend_usd": 144685.0,
+          "ad_count": 379
+        },
+        {
+          "page_id": "723421757524895",
+          "page_name": "FOX One",
+          "disclaimer": "FOX CORPORATION",
+          "spend_usd": 138942.0,
+          "ad_count": 4
+        },
+        {
+          "page_id": "102163335100899",
+          "page_name": "Defend The Vote",
+          "disclaimer": "DEFEND THE VOTE ACTION FUND",
+          "spend_usd": 138795.0,
+          "ad_count": 146
+        },
+        {
+          "page_id": "1058516420670570",
+          "page_name": "Yes on Proposition 42",
+          "disclaimer": "Yes on 42 \u2013 Protect Retirement & Life Savings, a coalition of retirees, blue-collar workers, seniors, veterans, small businesses & taxpayers",
+          "spend_usd": 136643.0,
+          "ad_count": 360
+        },
+        {
+          "page_id": "474227102732389",
+          "page_name": "Turning Point Action",
+          "disclaimer": "Turning Point Action",
+          "spend_usd": 126471.0,
+          "ad_count": 258
+        },
+        {
+          "page_id": "181888625087",
+          "page_name": "Greg Abbott",
+          "disclaimer": "Texans for Greg Abbott",
+          "spend_usd": 120815.0,
+          "ad_count": 10
+        },
+        {
+          "page_id": "318975057964832",
+          "page_name": "America PAC",
+          "disclaimer": "America PAC",
+          "spend_usd": 120680.0,
+          "ad_count": 334
+        },
+        {
+          "page_id": "570953166908066",
+          "page_name": "Vivek Ramaswamy",
+          "disclaimer": "Vivek Ramaswamy and Rob McColley for Ohio",
+          "spend_usd": 118445.0,
+          "ad_count": 152
+        },
+        {
+          "page_id": "1107487965781870",
+          "page_name": "Texas Challengers",
+          "disclaimer": "Texas Majority PAC",
+          "spend_usd": 99887.0,
+          "ad_count": 21
+        },
+        {
+          "page_id": "264836380292048",
+          "page_name": "Rep. Gina Hinojosa",
+          "disclaimer": "Gina Hinojosa Campaign",
+          "spend_usd": 81017.0,
+          "ad_count": 357
+        },
+        {
+          "page_id": "782932888227839",
+          "page_name": "Eric Jones for Congress",
+          "disclaimer": "Eric Jones for Congress",
+          "spend_usd": 79373.0,
+          "ad_count": 52
+        },
+        {
+          "page_id": "937596382775951",
+          "page_name": "Restoration of America Pac",
+          "disclaimer": "Restoration of America Pac",
+          "spend_usd": 72404.0,
+          "ad_count": 167
+        },
+        {
+          "page_id": "747436915270894",
+          "page_name": "Congressional Leadership Fund",
+          "disclaimer": "CONGRESSIONAL LEADERSHIP FUND",
+          "spend_usd": 70665.0,
+          "ad_count": 117
+        },
+        {
+          "page_id": "123192635089",
+          "page_name": "Republicans",
+          "disclaimer": "REPUBLICAN NATIONAL COMMITTEE",
+          "spend_usd": 68671.0,
+          "ad_count": 337
+        },
+        {
+          "page_id": "1228968233640772",
+          "page_name": "People Over Politics Kansas",
+          "disclaimer": "People Over Politics Action Fund",
+          "spend_usd": 63843.0,
+          "ad_count": 48
+        },
+        {
+          "page_id": "1576552839287418",
+          "page_name": "Senate Leadership Fund",
+          "disclaimer": "SLF PAC",
+          "spend_usd": 62002.0,
+          "ad_count": 70
+        },
+        {
+          "page_id": "1626884974030414",
+          "page_name": "James Talarico",
+          "disclaimer": "TALARICO FOR TEXAS",
+          "spend_usd": 59459.0,
+          "ad_count": 30
+        },
+        {
+          "page_id": "855945510915981",
+          "page_name": "Mike Minogue for Governor",
+          "disclaimer": "Mike Minogue for Governor",
+          "spend_usd": 58580.0,
+          "ad_count": 104
+        },
+        {
+          "page_id": "916623425064173",
+          "page_name": "One Nation",
+          "disclaimer": "One Nation",
+          "spend_usd": 57163.0,
+          "ad_count": 110
+        },
+        {
+          "page_id": "1307247472474299",
+          "page_name": "Stop Unfair Tax Shifts Today",
+          "disclaimer": "Stop Unfair Tax Shifts Today",
+          "spend_usd": 56157.0,
+          "ad_count": 75
+        },
+        {
+          "page_id": "1345582475298547",
+          "page_name": "Texas PAC",
+          "disclaimer": "Texas PAC",
+          "spend_usd": 53969.0,
+          "ad_count": 186
+        },
+        {
+          "page_id": "2011677365822396",
+          "page_name": "Ground News",
+          "disclaimer": "Ground News",
+          "spend_usd": 53863.0,
+          "ad_count": 720
+        },
+        {
+          "page_id": "103910725985046",
+          "page_name": "Forward Blue",
+          "disclaimer": "Forward Blue",
+          "spend_usd": 53207.0,
+          "ad_count": 203
+        },
+        {
+          "page_id": "484019021672099",
+          "page_name": "Blaise Ingoglia",
+          "disclaimer": "Blaise Ingoglia for CFO",
+          "spend_usd": 52501.0,
+          "ad_count": 15
+        },
+        {
+          "page_id": "349800608987143",
+          "page_name": "Texans for Economic Liberty",
+          "disclaimer": "Texans for Economic Liberty",
+          "spend_usd": 51418.0,
+          "ad_count": 14
+        },
+        {
+          "page_id": "1418745308444720",
+          "page_name": "Scott Colom For Senate",
+          "disclaimer": "Scott Colom For Senate",
+          "spend_usd": 46287.0,
+          "ad_count": 27
+        },
+        {
+          "page_id": "171287339973880",
+          "page_name": "LCV Victory Fund",
+          "disclaimer": "LCV VICTORY FUND",
+          "spend_usd": 43733.0,
+          "ad_count": 78
+        },
+        {
+          "page_id": "1287000207833508",
+          "page_name": "Sherrod Brown Let Us Down",
+          "disclaimer": "SLF PAC",
+          "spend_usd": 43267.0,
+          "ad_count": 48
+        },
+        {
+          "page_id": "1318436504691799",
+          "page_name": "No on Prop 45 - Protect California Communities",
+          "disclaimer": "Ad Committee\u2019s Top Funders: California State Council of Laborers, Operating Engineers Local Union No. 3, Southern California District Council of Laborers: \u201cNo on Prop 45 - Protect California Communities\u201d",
+          "spend_usd": 43165.0,
+          "ad_count": 25
+        },
+        {
+          "page_id": "1293303113874889",
+          "page_name": "GOP Votes",
+          "disclaimer": "SLF PAC",
+          "spend_usd": 42668.0,
+          "ad_count": 45
+        },
+        {
+          "page_id": "228754857151053",
+          "page_name": "House Majority PAC",
+          "disclaimer": "HMP",
+          "spend_usd": 41253.0,
+          "ad_count": 92
+        },
+        {
+          "page_id": "2278338985596482",
+          "page_name": "House Majority Forward",
+          "disclaimer": "House Majority Forward",
+          "spend_usd": 40012.0,
+          "ad_count": 126
+        },
+        {
+          "page_id": "111025563615171",
+          "page_name": "Tom Tiffany",
+          "disclaimer": "Tiffany for Wisconsin",
+          "spend_usd": 39731.0,
+          "ad_count": 109
+        },
+        {
+          "page_id": "505598353158784",
+          "page_name": "Rob Sand for Iowa",
+          "disclaimer": "Rob Sand for Iowa",
+          "spend_usd": 38702.0,
+          "ad_count": 244
+        },
+        {
+          "page_id": "12301006942",
+          "page_name": "Democrats",
+          "disclaimer": "DNC SERVICES CORP./DEM. NAT'L COMMITTEE",
+          "spend_usd": 36636.0,
+          "ad_count": 245
+        },
+        {
+          "page_id": "101165966152",
+          "page_name": "AFL-CIO",
+          "disclaimer": "AFL-CIO",
+          "spend_usd": 36181.0,
+          "ad_count": 344
+        },
+        {
+          "page_id": "316769131522344",
+          "page_name": "Right Vote",
+          "disclaimer": "Right Vote Inc",
+          "spend_usd": 35800.0,
+          "ad_count": 12
+        },
+        {
+          "page_id": "118802984645347",
+          "page_name": "Stand with Crypto",
+          "disclaimer": "Stand with Crypto Alliance, Inc.",
+          "spend_usd": 34645.0,
+          "ad_count": 144
+        },
+        {
+          "page_id": "8934429638",
+          "page_name": "Planned Parenthood Action",
+          "disclaimer": "Planned Parenthood Votes",
+          "spend_usd": 34402.0,
+          "ad_count": 32
+        },
+        {
+          "page_id": "956778190860716",
+          "page_name": "Rick Jackson for Governor",
+          "disclaimer": "Jackson for Governor, Inc.",
+          "spend_usd": 34116.0,
+          "ad_count": 51
+        },
+        {
+          "page_id": "118170508227375",
+          "page_name": "Florida Sheriffs Association",
+          "disclaimer": "Florida Sheriffs Association",
+          "spend_usd": 33785.0,
+          "ad_count": 61
+        },
+        {
+          "page_id": "194981393894304",
+          "page_name": "Free Enterprise Alliance",
+          "disclaimer": "Free Enterprise Alliance",
+          "spend_usd": 33714.0,
+          "ad_count": 91
+        },
+        {
+          "page_id": "5550296508",
+          "page_name": "CNN",
+          "disclaimer": "CNN",
+          "spend_usd": 31752.0,
+          "ad_count": 33
+        },
+        {
+          "page_id": "584869581374000",
+          "page_name": "State + Local Election Alliance",
+          "disclaimer": "State + Local Election Alliance",
+          "spend_usd": 31299.0,
+          "ad_count": 112
+        },
+        {
+          "page_id": "106540378626808",
+          "page_name": "Marie Gluesenkamp Perez for Congress",
+          "disclaimer": "MARIE FOR CONGRESS",
+          "spend_usd": 30793.0,
+          "ad_count": 110
+        },
+        {
+          "page_id": "1246790675193185",
+          "page_name": "Forward Frontier",
+          "disclaimer": "Forward Frontier",
+          "spend_usd": 30569.0,
+          "ad_count": 3
+        },
+        {
+          "page_id": "1428283027462702",
+          "page_name": "Restoration of America",
+          "disclaimer": "Restoration of America",
+          "spend_usd": 30279.0,
+          "ad_count": 54
+        },
+        {
+          "page_id": "108873101593827",
+          "page_name": "Dr. Annie Andrews",
+          "disclaimer": "DR. ANNIE ANDREWS FOR SENATE",
+          "spend_usd": 29838.0,
+          "ad_count": 402
+        },
+        {
+          "page_id": "198024590300902",
+          "page_name": "Josh Shapiro",
+          "disclaimer": "Josh Shapiro",
+          "spend_usd": 29383.0,
+          "ad_count": 92
+        },
+        {
+          "page_id": "814157878447396",
+          "page_name": "Government That Works PAC",
+          "disclaimer": "Government That Works PAC",
+          "spend_usd": 28204.0,
+          "ad_count": 98
+        },
+        {
+          "page_id": "409309302263826",
+          "page_name": "Turning Point PAC",
+          "disclaimer": "TURNING POINT PAC INC",
+          "spend_usd": 28151.0,
+          "ad_count": 67
+        },
+        {
+          "page_id": "374812972549792",
+          "page_name": "Angie Nixon for Florida",
+          "disclaimer": "Angie For Florida",
+          "spend_usd": 27769.0,
+          "ad_count": 195
+        },
+        {
+          "page_id": "179204028758675",
+          "page_name": "California Secretary of State",
+          "disclaimer": "California Secretary of State Office",
+          "spend_usd": 26868.0,
+          "ad_count": 37
+        },
+        {
+          "page_id": "112325855474892",
+          "page_name": "NEA Education Votes",
+          "disclaimer": "National Education Association",
+          "spend_usd": 26656.0,
+          "ad_count": 189
+        },
+        {
+          "page_id": "106612915352436",
+          "page_name": "Mary Peltola",
+          "disclaimer": "ALASKANS FOR MARY",
+          "spend_usd": 26339.0,
+          "ad_count": 100
+        },
+        {
+          "page_id": "1049390151581299",
+          "page_name": "Double Tap Action",
+          "disclaimer": "DOUBLE TAP ACTION",
+          "spend_usd": 25616.0,
+          "ad_count": 9
+        },
+        {
+          "page_id": "1323611197495130",
+          "page_name": "Frontline Leaders Action",
+          "disclaimer": "Frontline Leaders Action",
+          "spend_usd": 24825.0,
+          "ad_count": 4
+        },
+        {
+          "page_id": "1294510163744171",
+          "page_name": "The Truth About Josh Turek",
+          "disclaimer": "SLF PAC",
+          "spend_usd": 24204.0,
+          "ad_count": 30
+        },
+        {
+          "page_id": "1362053473662471",
+          "page_name": "Texas Forever",
+          "disclaimer": "Texas Forever",
+          "spend_usd": 24056.0,
+          "ad_count": 79
+        },
+        {
+          "page_id": "86680728811",
+          "page_name": "ABC News",
+          "disclaimer": "ABC News",
+          "spend_usd": 23772.0,
+          "ad_count": 6
+        },
+        {
+          "page_id": "1355786207618780",
+          "page_name": "Brighter Colorado",
+          "disclaimer": "Brighter Colorado",
+          "spend_usd": 23754.0,
+          "ad_count": 16
+        },
+        {
+          "page_id": "1121557611034507",
+          "page_name": "Adam Hamilton for Kansas",
+          "disclaimer": "Hamilton for Kansas",
+          "spend_usd": 22871.0,
+          "ad_count": 99
+        },
+        {
+          "page_id": "1335554192968283",
+          "page_name": "Dale William",
+          "disclaimer": "4936 Ventures LLC",
+          "spend_usd": 22723.0,
+          "ad_count": 12
+        },
+        {
+          "page_id": "1524020107726785",
+          "page_name": "Duty & Country",
+          "disclaimer": "DUTY AND COUNTRY",
+          "spend_usd": 22397.0,
+          "ad_count": 13
+        },
+        {
+          "page_id": "1336293769761923",
+          "page_name": "Jon Ossoff",
+          "disclaimer": "JON OSSOFF FOR SENATE",
+          "spend_usd": 22357.0,
+          "ad_count": 11
+        },
+        {
+          "page_id": "111030864973008",
+          "page_name": "Voters Not Politicians Education Fund",
+          "disclaimer": "Voters Not Politicians Education Fund",
+          "spend_usd": 21442.0,
+          "ad_count": 49
+        },
+        {
+          "page_id": "1138815389310118",
+          "page_name": "Team Ossoff",
+          "disclaimer": "JON OSSOFF FOR SENATE",
+          "spend_usd": 21366.0,
+          "ad_count": 36
+        },
+        {
+          "page_id": "967260066470460",
+          "page_name": "YES on Prop 38 - Immunology Medical Research & Cures",
+          "disclaimer": "YES on 38: Californians for Life-Saving Immunology Research and Cures, sponsored by the Michelson Center for Public Policy. Ad Committee\u2019s Top Funders: Gary K. Michelson, Michelson Center for Public Policy, Inc., & Meyer Luskin",
+          "spend_usd": 21241.0,
+          "ad_count": 16
+        },
+        {
+          "page_id": "1063673923494604",
+          "page_name": "Yes on Proposition 37",
+          "disclaimer": "Yes on 37, California Homeownership",
+          "spend_usd": 20628.0,
+          "ad_count": 63
+        },
+        {
+          "page_id": "297450796040",
+          "page_name": "Bruce Blakeman for Governor - Make New York Affordable",
+          "disclaimer": "Blakeman for New York",
+          "spend_usd": 20600.0,
+          "ad_count": 11
+        },
+        {
+          "page_id": "114833761835",
+          "page_name": "Dan Patrick",
+          "disclaimer": "Texans For Dan Patrick",
+          "spend_usd": 20549.0,
+          "ad_count": 103
+        },
+        {
+          "page_id": "223279937535149",
+          "page_name": "Yes on Prop 3 CA",
+          "disclaimer": "Yes on Prop 3, sponsored by education and labor organizations",
+          "spend_usd": 20228.0,
+          "ad_count": 8
+        },
+        {
+          "page_id": "23790541544",
+          "page_name": "Democrats",
+          "disclaimer": "DCCC",
+          "spend_usd": 19211.0,
+          "ad_count": 67
+        },
+        {
+          "page_id": "11465191261",
+          "page_name": "JPMorganChase",
+          "disclaimer": "JPMORGAN CHASE BANK, NA",
+          "spend_usd": 19118.0,
+          "ad_count": 106
+        },
+        {
+          "page_id": "8501031021",
+          "page_name": "VoteVets",
+          "disclaimer": "VOTEVETS",
+          "spend_usd": 19061.0,
+          "ad_count": 42
+        },
+        {
+          "page_id": "103075334816156",
+          "page_name": "UFCW Votes",
+          "disclaimer": "UNITED FOOD & COMMERCIAL WORKERS INTERNATIONAL UNION",
+          "spend_usd": 18883.0,
+          "ad_count": 540
+        },
+        {
+          "page_id": "246202135860578",
+          "page_name": "Ashley Moody",
+          "disclaimer": "MOODY FOR FLORIDA",
+          "spend_usd": 18744.0,
+          "ad_count": 27
+        },
+        {
+          "page_id": "1307346082458623",
+          "page_name": "North Star - Alaska",
+          "disclaimer": "North Star",
+          "spend_usd": 18703.0,
+          "ad_count": 89
+        },
+        {
+          "page_id": "1155212867963791",
+          "page_name": "AFP Action",
+          "disclaimer": "AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION)",
+          "spend_usd": 18615.0,
+          "ad_count": 179
+        },
+        {
+          "page_id": "106883058787001",
+          "page_name": "Free American",
+          "disclaimer": "Liberty Lane",
+          "spend_usd": 18515.0,
+          "ad_count": 85
+        },
+        {
+          "page_id": "819190257946679",
+          "page_name": "Yes On Prop 40",
+          "disclaimer": "Yes on 40 - Billionaire Tax Now - No on 41 & 42, Sponsored by Service Employees International Union - United Healthcare Workers West",
+          "spend_usd": 18253.0,
+          "ad_count": 6
+        },
+        {
+          "page_id": "107553188401159",
+          "page_name": "Brandon Gill",
+          "disclaimer": "Brandon Gill for Texas",
+          "spend_usd": 18077.0,
+          "ad_count": 229
+        },
+        {
+          "page_id": "1283023534894968",
+          "page_name": "Greater Empire State",
+          "disclaimer": "Greater Empire State",
+          "spend_usd": 17915.0,
+          "ad_count": 24
+        },
+        {
+          "page_id": "737775476094100",
+          "page_name": "Vote YES on 3: All-Party Primaries",
+          "disclaimer": "Coalition for Healthy Democracy",
+          "spend_usd": 17863.0,
+          "ad_count": 22
+        },
+        {
+          "page_id": "1331457423390498",
+          "page_name": "Votenowrep.com",
+          "disclaimer": "Swamp Fox Solutions",
+          "spend_usd": 17816.0,
+          "ad_count": 4
+        },
+        {
+          "page_id": "1310205992167773",
+          "page_name": "Vote No on Prop 45",
+          "disclaimer": "No on Prop 45, sponsored by labor, health and environmental organizations",
+          "spend_usd": 17714.0,
+          "ad_count": 2
+        },
+        {
+          "page_id": "18982436812",
+          "page_name": "ACLU",
+          "disclaimer": "American Civil Liberties Union",
+          "spend_usd": 17670.0,
+          "ad_count": 104
+        },
+        {
+          "page_id": "2294830990636604",
+          "page_name": "Streets For All",
+          "disclaimer": "Streets For All",
+          "spend_usd": 17612.0,
+          "ad_count": 65
+        },
+        {
+          "page_id": "783753138471485",
+          "page_name": "JB Pritzker",
+          "disclaimer": "JB for Governor",
+          "spend_usd": 17113.0,
+          "ad_count": 46
+        },
+        {
+          "page_id": "984307011580765",
+          "page_name": "David Crowley",
+          "disclaimer": "Crowley for Wisconsin",
+          "spend_usd": 17051.0,
+          "ad_count": 106
+        },
+        {
+          "page_id": "87023326103",
+          "page_name": "Kathy Hochul",
+          "disclaimer": "Friends for Kathy Hochul",
+          "spend_usd": 16893.0,
+          "ad_count": 138
+        },
+        {
+          "page_id": "6266829799",
+          "page_name": "Sherrod Brown",
+          "disclaimer": "Friends of Sherrod Brown",
+          "spend_usd": 16765.0,
+          "ad_count": 96
+        },
+        {
+          "page_id": "873397649186877",
+          "page_name": "Conservatives For America",
+          "disclaimer": "Conservatives for America",
+          "spend_usd": 16636.0,
           "ad_count": 71
         }
       ]
