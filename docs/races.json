@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-05",
- "generated_at": "2026-11-04T20:01:33Z",
+ "updated": "2026-11-06",
+ "generated_at": "2026-11-05T20:10:59Z",
  "window_start": "2026-06-23",
- "change_since": "2026-11-04",
+ "change_since": "2026-11-05",
  "baseline": {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "candidates": {
    "TX-SEN|James Talarico": {
-    "spend_mid": 9732800,
+    "spend_mid": 9733800,
     "ads": 501,
     "tracked": true
    },
@@ -17,7 +17,7 @@
     "tracked": true
    },
    "MI-SEN|Abdul El-Sayed": {
-    "spend_mid": 7690567,
+    "spend_mid": 7691667,
     "ads": 6566,
     "tracked": true
    },
@@ -27,7 +27,7 @@
     "tracked": true
    },
    "OH-GOV|Vivek Ramaswamy": {
-    "spend_mid": 3108740,
+    "spend_mid": 3129590,
     "ads": 2120,
     "tracked": true
    },
@@ -42,17 +42,17 @@
     "tracked": true
    },
    "ME-SEN|Susan Collins": {
-    "spend_mid": 318348,
+    "spend_mid": 318948,
     "ads": 903,
     "tracked": true
    },
    "WI-GOV|Tom Tiffany": {
-    "spend_mid": 1771550,
+    "spend_mid": 1778850,
     "ads": 899,
     "tracked": true
    },
    "WI-GOV|David Crowley": {
-    "spend_mid": 669760,
+    "spend_mid": 675460,
     "ads": 680,
     "tracked": true
    },
@@ -67,12 +67,12 @@
     "tracked": true
    },
    "AK-SEN|Mary Peltola": {
-    "spend_mid": 1432391,
+    "spend_mid": 1432791,
     "ads": 718,
     "tracked": true
    },
    "AK-SEN|Dan Sullivan": {
-    "spend_mid": 327972,
+    "spend_mid": 329072,
     "ads": 256,
     "tracked": true
    },
@@ -82,12 +82,12 @@
     "tracked": true
    },
    "IA-SEN|Ashley Hinson": {
-    "spend_mid": 155168,
+    "spend_mid": 155768,
     "ads": 64,
     "tracked": true
    },
    "GA-GOV|Rick Jackson": {
-    "spend_mid": 1174762,
+    "spend_mid": 1200762,
     "ads": 276,
     "tracked": true
    },
@@ -117,7 +117,7 @@
     "tracked": true
    },
    "CO-08|Manny Rutinel": {
-    "spend_mid": 485816,
+    "spend_mid": 486016,
     "ads": 167,
     "tracked": true
    },
@@ -187,7 +187,7 @@
     "tracked": true
    },
    "TX-15|Bobby Pulido": {
-    "spend_mid": 156022,
+    "spend_mid": 156422,
     "ads": 1256,
     "tracked": true
    },
@@ -202,7 +202,7 @@
     "tracked": true
    },
    "AK-GOV|Treg Taylor": {
-    "spend_mid": 17614,
+    "spend_mid": 17814,
     "ads": 71,
     "tracked": true
    },
@@ -252,7 +252,7 @@
     "tracked": true
    },
    "AZ-06|Juan Ciscomani": {
-    "spend_mid": 4146,
+    "spend_mid": 4246,
     "ads": 9,
     "tracked": true
    },
@@ -272,7 +272,7 @@
     "tracked": true
    },
    "IA-01|Mariannette Miller-Meeks": {
-    "spend_mid": 29688,
+    "spend_mid": 32588,
     "ads": 24,
     "tracked": true
    },
@@ -342,7 +342,7 @@
     "tracked": true
    },
    "PA-08|Rob Bresnahan": {
-    "spend_mid": 22886,
+    "spend_mid": 23486,
     "ads": 28,
     "tracked": true
    },
@@ -398,19 +398,19 @@
   "races": 34,
   "candidates": 70,
   "candidates_tracked": 70,
-  "spend_lo": 35860400,
-  "spend_hi": 46636585,
-  "spend_mid": 41248492,
+  "spend_lo": 35860500,
+  "spend_hi": 46636685,
+  "spend_mid": 41248592,
   "ads": 37415,
-  "active_ads": 19,
+  "active_ads": 17,
   "by_chamber": {
    "senate": 26961412,
-   "governor": 9832902,
+   "governor": 9833002,
    "house": 4454178
   },
   "by_party": {
    "D": 32759314,
-   "R": 8489178
+   "R": 8489278
   },
   "google_spend_usd": 0,
   "google_candidates_tracked": 0
@@ -427,7 +427,7 @@
    "spend_mid": 9733800,
    "ads": 501,
    "active_ads": 1,
-   "spend_change_mid": 1000
+   "spend_change_mid": 0
   },
   {
    "name": "Abdul El-Sayed",
@@ -440,7 +440,7 @@
    "spend_mid": 7691667,
    "ads": 6566,
    "active_ads": 2,
-   "spend_change_mid": 1100
+   "spend_change_mid": 0
   },
   {
    "name": "Vivek Ramaswamy",
@@ -448,12 +448,12 @@
    "race": "OH-GOV",
    "race_label": "Ohio Governor",
    "chamber": "governor",
-   "spend_lo": 2740600,
-   "spend_hi": 3518580,
-   "spend_mid": 3129590,
+   "spend_lo": 2740700,
+   "spend_hi": 3518680,
+   "spend_mid": 3129690,
    "ads": 2120,
    "active_ads": 2,
-   "spend_change_mid": 20850
+   "spend_change_mid": 100
   },
   {
    "name": "Troy Jackson",
@@ -505,7 +505,7 @@
    "spend_mid": 1778850,
    "ads": 899,
    "active_ads": 1,
-   "spend_change_mid": 7300
+   "spend_change_mid": 0
   },
   {
    "name": "Josh Turek",
@@ -531,7 +531,7 @@
    "spend_mid": 1432791,
    "ads": 718,
    "active_ads": 0,
-   "spend_change_mid": 400
+   "spend_change_mid": 0
   },
   {
    "name": "Rick Jackson",
@@ -544,7 +544,7 @@
    "spend_mid": 1200762,
    "ads": 276,
    "active_ads": 0,
-   "spend_change_mid": 26000
+   "spend_change_mid": 0
   }
  ],
  "untracked": [],
@@ -591,7 +591,7 @@
      "impressions_hi": 144445775,
      "open_ended_ads": 76,
      "non_usd_ads": 0,
-     "spend_change_mid": 1000,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 0.4768,
      "top_regions": [
@@ -647,14 +647,14 @@
       349949,
       283489,
       745570,
-      700969,
-      475877,
-      752666,
-      591037,
-      867180,
-      1085790,
-      938575,
-      163745
+      700770,
+      475413,
+      752202,
+      590572,
+      866716,
+      1082515,
+      927139,
+      180513
      ],
      "top_ads": [
       {
@@ -900,7 +900,7 @@
      "impressions_hi": 234702386,
      "open_ended_ads": 52,
      "non_usd_ads": 0,
-     "spend_change_mid": 1100,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 0.4535,
      "top_regions": [
@@ -959,11 +959,11 @@
       520113,
       478395,
       525374,
-      771323,
-      751239,
-      732036,
-      683540,
-      214317
+      771321,
+      751230,
+      732009,
+      683506,
+      214390
      ],
      "top_ads": [
       {
@@ -1179,9 +1179,9 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-17",
-   "spend_mid": 5229464,
+   "spend_mid": 5229564,
    "spend_by_party": {
-    "R": 3129590,
+    "R": 3129690,
     "D": 2099874
    },
    "google_spend_usd": 0,
@@ -1202,14 +1202,14 @@
      "ads": 2120,
      "active_ads": 2,
      "new_ads_7d": 0,
-     "spend_lo": 2740600,
-     "spend_hi": 3518580,
-     "spend_mid": 3129590,
+     "spend_lo": 2740700,
+     "spend_hi": 3518680,
+     "spend_mid": 3129690,
      "impressions_lo": 263633800,
      "impressions_hi": 297581246,
      "open_ended_ads": 66,
      "non_usd_ads": 0,
-     "spend_change_mid": 20850,
+     "spend_change_mid": 100,
      "ads_change": 0,
      "in_state_share": 0.9968,
      "top_regions": [
@@ -1263,16 +1263,16 @@
       72006,
       71911,
       70525,
-      74669,
-      84228,
-      90731,
-      88577,
-      104041,
-      375737,
-      400252,
-      369563,
-      793826,
-      271028
+      74665,
+      84223,
+      90726,
+      88572,
+      104036,
+      375617,
+      400104,
+      367435,
+      780440,
+      286935
      ],
      "top_ads": [
       {
@@ -1288,7 +1288,7 @@
       {
        "id": "1138202112050382",
        "start": "2026-10-21",
-       "stop": "2026-11-04",
+       "stop": "2026-11-05",
        "text": "VP Vance: Unlike his opponent, Vivek isn't a career bureaucrat beholden to lobbyists – he’s an outsider who will root out fraud and waste, cut taxes, slash red tape, and put money back in your pocket. Vote Vivek Ramaswam",
        "spend_lo": 45000.0,
        "spend_hi": 49999.0,
@@ -1298,7 +1298,7 @@
       {
        "id": "1764185138203912",
        "start": "2026-10-24",
-       "stop": "2026-11-04",
+       "stop": "2026-11-05",
        "text": "VP Vance: Unlike his opponent, Vivek isn't a career bureaucrat beholden to lobbyists – he’s an outsider who will root out fraud and waste, cut taxes, slash red tape, and put money back in your pocket. Vote Vivek Ramaswam",
        "spend_lo": 35000.0,
        "spend_hi": 39999.0,
@@ -1416,9 +1416,9 @@
       94323,
       189763,
       192654,
-      544946,
-      218095,
-      20973
+      544874,
+      217927,
+      21214
      ],
      "top_ads": [
       {
@@ -1664,7 +1664,7 @@
      "impressions_hi": 46232899,
      "open_ended_ads": 2,
      "non_usd_ads": 0,
-     "spend_change_mid": 600,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 0.9957,
      "top_regions": [
@@ -1722,12 +1722,12 @@
       19793,
       18058,
       19072,
-      23383,
-      25579,
-      29061,
-      37059,
-      36190,
-      12174
+      23382,
+      25577,
+      29057,
+      37052,
+      36172,
+      12205
      ],
      "top_ads": [
       {
@@ -1827,7 +1827,7 @@
      "impressions_hi": 181001857,
      "open_ended_ads": 56,
      "non_usd_ads": 0,
-     "spend_change_mid": 7300,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 0.9997,
      "top_regions": [
@@ -1858,7 +1858,7 @@
       "35-44": 0.2194,
       "45-54": 0.1604,
       "55-64": 0.1294,
-      "65+": 0.101,
+      "65+": 0.1009,
       "Unknown": 0.0001
      },
      "gender": {
@@ -1885,12 +1885,12 @@
       134065,
       197084,
       162647,
-      172446,
-      151470,
-      156207,
-      184490,
-      251075,
-      84103
+      172445,
+      151427,
+      156158,
+      184391,
+      249122,
+      86248
      ],
      "top_ads": [
       {
@@ -1926,7 +1926,7 @@
       {
        "id": "1479407780670821",
        "start": "2026-10-26",
-       "stop": "2026-11-04",
+       "stop": "2026-11-05",
        "text": "David Crowley took nearly $2 million from Jeffrey Epstein’s inner circle. The paper trail is clear: California tech billionaire Reid Hoffman – who visited Epstein’s private island – dumped $2.5 million into the Wisconsin",
        "spend_lo": 20000.0,
        "spend_hi": 24999.0,
@@ -1973,7 +1973,7 @@
      "impressions_hi": 40035032,
      "open_ended_ads": 12,
      "non_usd_ads": 0,
-     "spend_change_mid": 5700,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 0.9607,
      "top_regions": [
@@ -2034,9 +2034,9 @@
       33261,
       62210,
       67603,
-      134923,
-      124007,
-      44665
+      133299,
+      121058,
+      49238
      ],
      "top_ads": [
       {
@@ -2052,7 +2052,7 @@
       {
        "id": "1815051612850922",
        "start": "2026-10-20",
-       "stop": "2026-11-04",
+       "stop": "2026-11-05",
        "text": "We checked your record, just like you asked Tom Tiffany.",
        "spend_lo": 30000.0,
        "spend_hi": 34999.0,
@@ -2062,7 +2062,7 @@
       {
        "id": "1461159672596047",
        "start": "2026-10-24",
-       "stop": "2026-11-04",
+       "stop": "2026-11-05",
        "text": "Obama: There is nobody better to lead Wisconsin forward. Vote David Crowley for Governor.",
        "spend_lo": 25000.0,
        "spend_hi": 29999.0,
@@ -2082,7 +2082,7 @@
       {
        "id": "1129545262904356",
        "start": "2026-10-20",
-       "stop": "2026-11-04",
+       "stop": "2026-11-05",
        "text": "We checked your record, just like you asked Tom Tiffany.",
        "spend_lo": 15000.0,
        "spend_hi": 19999.0,
@@ -2197,15 +2197,15 @@
       133447,
       138133,
       143154,
-      189174,
-      203539,
-      66250
+      186830,
+      200258,
+      71875
      ],
      "top_ads": [
       {
        "id": "1031004573381817",
        "start": "2026-10-21",
-       "stop": "2026-11-04",
+       "stop": "2026-11-05",
        "text": "Please watch and consider making a donation to Sherrod’s campaign today >>",
        "spend_lo": 100000.0,
        "spend_hi": 124999.0,
@@ -2433,7 +2433,7 @@
      "impressions_hi": 57772191,
      "open_ended_ads": 9,
      "non_usd_ads": 0,
-     "spend_change_mid": 400,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 0.7902,
      "top_regions": [
@@ -2494,9 +2494,9 @@
       53525,
       122357,
       171928,
-      214127,
-      247851,
-      50140
+      214118,
+      247785,
+      50216
      ],
      "top_ads": [
       {
@@ -2579,7 +2579,7 @@
      "impressions_hi": 15457647,
      "open_ended_ads": 3,
      "non_usd_ads": 0,
-     "spend_change_mid": 1100,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 1.0,
      "top_regions": [
@@ -2641,8 +2641,8 @@
       32245,
       45279,
       38153,
-      47534,
-      15939
+      45303,
+      18170
      ],
      "top_ads": [
       {
@@ -2668,7 +2668,7 @@
       {
        "id": "1091509150175642",
        "start": "2026-10-26",
-       "stop": "2026-11-04",
+       "stop": "2026-11-05",
        "text": "Peltola Became a D.C. Lobbyist",
        "spend_lo": 25000.0,
        "spend_hi": 29999.0,
@@ -2688,7 +2688,7 @@
       {
        "id": "1637505634694942",
        "start": "2026-10-26",
-       "stop": "2026-11-04",
+       "stop": "2026-11-05",
        "text": "Why don’t we see any ads talking about Mary Peltola’s accomplishments while in Congress? Because she didn’t have any. Vote for someone who gets things done for Alaska. Vote for Dan S. Sullivan on Nov. 3rd!",
        "spend_lo": 7000.0,
        "spend_hi": 7999.0,
@@ -2804,8 +2804,8 @@
       95033,
       98059,
       107116,
-      93994,
-      24762
+      93972,
+      24784
      ],
      "top_ads": [
       {
@@ -2888,7 +2888,7 @@
      "impressions_hi": 12350940,
      "open_ended_ads": 4,
      "non_usd_ads": 0,
-     "spend_change_mid": 600,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 0.9902,
      "top_regions": [
@@ -2950,8 +2950,8 @@
       8954,
       16342,
       14266,
-      44370,
-      16025
+      44328,
+      16066
      ],
      "top_ads": [
       {
@@ -3051,7 +3051,7 @@
      "impressions_hi": 100515462,
      "open_ended_ads": 38,
      "non_usd_ads": 0,
-     "spend_change_mid": 26000,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 1.0,
      "top_regions": [
@@ -3112,15 +3112,15 @@
       101132,
       121091,
       115070,
-      121271,
-      235475,
-      78629
+      120650,
+      229997,
+      84728
      ],
      "top_ads": [
       {
        "id": "1468119178713847",
        "start": "2026-10-25",
-       "stop": "2026-11-04",
+       "stop": "2026-11-05",
        "text": "Georgians are showing up for Rick Jackson. Join the crowd and cast your vote for Governor! rickjackson.com/vote",
        "spend_lo": 45000.0,
        "spend_hi": 49999.0,
@@ -3160,7 +3160,7 @@
       {
        "id": "1593387611989736",
        "start": "2026-10-25",
-       "stop": "2026-11-04",
+       "stop": "2026-11-05",
        "text": "Georgia, it’s time! Get out and vote for Rick Jackson for Governor. rickjackson.com/vote",
        "spend_lo": 20000.0,
        "spend_hi": 24999.0,
@@ -3242,25 +3242,25 @@
      },
      "weekly_est": [
       12235,
-      11131,
-      8962,
-      8962,
-      9319,
-      9679,
-      12137,
-      15736,
-      14656,
-      17275,
-      18748,
-      19032,
-      21879,
-      25490,
-      25457,
-      25490,
-      26272,
-      27912,
-      27669,
-      8779
+      11124,
+      8950,
+      8950,
+      9307,
+      9667,
+      12125,
+      15724,
+      14644,
+      17262,
+      18736,
+      19020,
+      21843,
+      25424,
+      25390,
+      25423,
+      26205,
+      27846,
+      27602,
+      9343
      ],
      "top_ads": [
       {
@@ -3296,7 +3296,7 @@
       {
        "id": "1514043516865944",
        "start": "2026-07-02",
-       "stop": "2026-11-03",
+       "stop": "2026-11-04",
        "text": "If we win this race, I will become the first Democratic Governor of Georgia this century. That’s not symbolism — that’s power. Power to stop Trump’s agenda at the state level. Power to protect voting rights. Power to fli",
        "spend_lo": 25000.0,
        "spend_hi": 29999.0,
@@ -3417,13 +3417,13 @@
       27021,
       27473,
       27562,
-      41362,
-      43545,
-      48039,
-      55992,
-      153044,
-      203372,
-      76137
+      41275,
+      43443,
+      47937,
+      55890,
+      152856,
+      202662,
+      77427
      ],
      "top_ads": [
       {
@@ -3713,26 +3713,26 @@
       "instagram": 4331
      },
      "weekly_est": [
-      16809,
-      10857,
-      16201,
-      14478,
-      11206,
-      12840,
-      12216,
-      19915,
-      16543,
-      25082,
-      33387,
-      46114,
-      52972,
-      55374,
-      57477,
-      61794,
-      62979,
-      83024,
-      47865,
-      9612
+      16807,
+      10854,
+      16199,
+      14476,
+      11203,
+      12837,
+      12214,
+      19912,
+      16540,
+      25079,
+      33384,
+      46112,
+      52969,
+      55371,
+      57475,
+      61791,
+      62976,
+      83021,
+      47863,
+      9665
      ],
      "top_ads": [
       {
@@ -3891,7 +3891,7 @@
      "impressions_hi": 14275339,
      "open_ended_ads": 6,
      "non_usd_ads": 0,
-     "spend_change_mid": 200,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 0.6838,
      "top_regions": [
@@ -3935,26 +3935,26 @@
       "instagram": 167
      },
      "weekly_est": [
-      12718,
-      16999,
+      12717,
+      16998,
       12459,
-      12003,
-      12596,
+      12002,
+      12595,
       14628,
       14685,
       10543,
-      11240,
-      16098,
-      20398,
+      11239,
+      16097,
+      20397,
       25421,
-      27911,
+      27910,
       26160,
-      28286,
+      28285,
       27927,
       36591,
-      51264,
-      54361,
-      17912
+      51025,
+      53944,
+      18583
      ],
      "top_ads": [
       {
@@ -4096,11 +4096,11 @@
       911,
       1375,
       1461,
-      1168,
-      1073,
-      1079,
-      967,
-      347
+      1166,
+      1071,
+      1077,
+      964,
+      358
      ],
      "top_ads": [
       {
@@ -6012,7 +6012,7 @@
      "impressions_hi": 9017545,
      "open_ended_ads": 1,
      "non_usd_ads": 0,
-     "spend_change_mid": 400,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 0.9057,
      "top_regions": [
@@ -6218,15 +6218,15 @@
       792,
       1264,
       478,
-      2745,
-      4789,
-      1863
+      2673,
+      4705,
+      2019
      ],
      "top_ads": [
       {
        "id": "1761794575050631",
        "start": "2026-10-20",
-       "stop": "2026-11-04",
+       "stop": "2026-11-05",
        "text": "When a family was left with no other choice in their immigration case, they asked Monica De La Cruz for help. She answered the call and delivered. Monica De La Cruz has proven that she puts people over politics. It’s who",
        "spend_lo": 3000.0,
        "spend_hi": 3499.0,
@@ -6381,9 +6381,9 @@
       0,
       0,
       4035,
-      13861,
-      12659,
-      3435
+      13740,
+      12447,
+      3768
      ],
      "top_ads": [
       {
@@ -6457,7 +6457,7 @@
      ],
      "committee": "Treg for Governor",
      "ads": 71,
-     "active_ads": 2,
+     "active_ads": 0,
      "new_ads_7d": 0,
      "spend_lo": 13500,
      "spend_hi": 22129,
@@ -6466,7 +6466,7 @@
      "impressions_hi": 1383129,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 200,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 0.8866,
      "top_regions": [
@@ -6480,7 +6480,7 @@
       },
       {
        "region": "California",
-       "share": 0.007
+       "share": 0.0071
       },
       {
        "region": "Florida",
@@ -6492,16 +6492,16 @@
       }
      ],
      "age": {
-      "18-24": 0.0291,
+      "18-24": 0.029,
       "25-34": 0.097,
-      "35-44": 0.1708,
+      "35-44": 0.1709,
       "45-54": 0.1749,
       "55-64": 0.2266,
-      "65+": 0.3015,
+      "65+": 0.3014,
       "Unknown": 0.0001
      },
      "gender": {
-      "female": 0.414,
+      "female": 0.4141,
       "male": 0.5769,
       "unknown": 0.009
      },
@@ -6527,9 +6527,9 @@
       0,
       119,
       604,
-      2848,
-      1693,
-      315
+      2854,
+      1713,
+      289
      ],
      "top_ads": [
       {
@@ -7809,10 +7809,10 @@
       7318,
       8127,
       13744,
-      11666,
-      12916,
-      6805,
-      2917
+      11615,
+      12558,
+      6447,
+      3684
      ],
      "top_ads": [
       {
@@ -7828,7 +7828,7 @@
       {
        "id": "1618381169880978",
        "start": "2026-10-18",
-       "stop": "2026-11-04",
+       "stop": "2026-11-05",
        "text": "JoAnna Mendoza is a proud mom, dedicated lifelong public servant, and retired United States Marine. Throughout her life, she has always answered the call to serve—whether by defending the United States from enemies abroa",
        "spend_lo": 15000.0,
        "spend_hi": 19999.0,
@@ -7895,7 +7895,7 @@
      "impressions_hi": 434991,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 100,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 0.9996,
      "top_regions": [
@@ -7918,16 +7918,16 @@
      ],
      "age": {
       "18-24": 0.0068,
-      "25-34": 0.0402,
-      "35-44": 0.1274,
-      "45-54": 0.1781,
+      "25-34": 0.04,
+      "35-44": 0.1273,
+      "45-54": 0.1782,
       "55-64": 0.2564,
-      "65+": 0.3909,
+      "65+": 0.3913,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.39,
-      "male": 0.6032,
+      "female": 0.3907,
+      "male": 0.6026,
       "unknown": 0.0068
      },
      "platforms": {
@@ -7943,18 +7943,18 @@
       0,
       0,
       49,
-      108,
+      107,
       496,
-      396,
-      225,
-      658,
-      714,
+      395,
+      224,
+      657,
+      713,
       134,
-      244,
-      208,
-      485,
-      359,
-      169
+      243,
+      207,
+      474,
+      346,
+      201
      ],
      "top_ads": [
       {
@@ -8501,7 +8501,7 @@
      "impressions_hi": 1126976,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 2900,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 1.0,
      "top_regions": [
@@ -8563,8 +8563,8 @@
       2982,
       5573,
       6655,
-      11354,
-      4696
+      11036,
+      5014
      ],
      "top_ads": [
       {
@@ -8600,7 +8600,7 @@
       {
        "id": "2137405277170754",
        "start": "2026-10-26",
-       "stop": "2026-11-04",
+       "stop": "2026-11-05",
        "text": "I wrote the legislation that will block insider trading in Congress. I don't care what the DC insiders think.",
        "spend_lo": 3000.0,
        "spend_hi": 3499.0,
@@ -8725,9 +8725,9 @@
       6851,
       5849,
       8085,
-      4175,
-      3065,
-      1136
+      4174,
+      3063,
+      1139
      ],
      "top_ads": [
       {
@@ -8867,9 +8867,9 @@
       1849,
       3134,
       2407,
-      5488,
-      5762,
-      2470
+      5332,
+      5544,
+      2845
      ],
      "top_ads": [
       {
@@ -8885,7 +8885,7 @@
       {
        "id": "28576653355290530",
        "start": "2026-10-21",
-       "stop": "2026-11-04",
+       "stop": "2026-11-05",
        "text": "David Valadao is fighting for Central Valley families and working across the aisle to deliver results. Click here to learn more!",
        "spend_lo": 7000.0,
        "spend_hi": 7999.0,
@@ -10566,7 +10566,7 @@
      "impressions_hi": 2557972,
      "open_ended_ads": 0,
      "non_usd_ads": 0,
-     "spend_change_mid": 600,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 1.0,
      "top_regions": [
@@ -10627,9 +10627,9 @@
       1309,
       1833,
       2949,
-      3959,
-      3421,
-      1166
+      3921,
+      3335,
+      1290
      ],
      "top_ads": [
       {
@@ -10655,7 +10655,7 @@
       {
        "id": "1951465895812428",
        "start": "2026-10-23",
-       "stop": "2026-11-04",
+       "stop": "2026-11-05",
        "text": "Rob Bresnahan is proud to have the support of hardworking Pennsylvanians and the unions that represent them. He's fighting for good-paying jobs, stronger communities, and a brighter future for PA. Vote Rob Bresnahan for ",
        "spend_lo": 2000.0,
        "spend_hi": 2499.0,
@@ -11179,6 +11179,15 @@
    "by_party": {
     "D": 32759314,
     "R": 8489178
+   },
+   "ads": 37415
+  },
+  {
+   "date": "2026-11-06",
+   "spend_mid": 41248592,
+   "by_party": {
+    "D": 32759314,
+    "R": 8489278
    },
    "ads": 37415
   }
