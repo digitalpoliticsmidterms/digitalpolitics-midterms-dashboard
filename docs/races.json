@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-06",
- "generated_at": "2026-11-05T20:10:59Z",
+ "updated": "2026-11-07",
+ "generated_at": "2026-11-06T20:31:48Z",
  "window_start": "2026-06-23",
- "change_since": "2026-11-05",
+ "change_since": "2026-11-06",
  "baseline": {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "candidates": {
    "TX-SEN|James Talarico": {
     "spend_mid": 9733800,
@@ -27,7 +27,7 @@
     "tracked": true
    },
    "OH-GOV|Vivek Ramaswamy": {
-    "spend_mid": 3129590,
+    "spend_mid": 3129690,
     "ads": 2120,
     "tracked": true
    },
@@ -398,18 +398,18 @@
   "races": 34,
   "candidates": 70,
   "candidates_tracked": 70,
-  "spend_lo": 35860500,
-  "spend_hi": 46636685,
-  "spend_mid": 41248592,
-  "ads": 37415,
-  "active_ads": 17,
+  "spend_lo": 35863900,
+  "spend_hi": 46640881,
+  "spend_mid": 41252390,
+  "ads": 37419,
+  "active_ads": 19,
   "by_chamber": {
-   "senate": 26961412,
+   "senate": 26965210,
    "governor": 9833002,
    "house": 4454178
   },
   "by_party": {
-   "D": 32759314,
+   "D": 32763112,
    "R": 8489278
   },
   "google_spend_usd": 0,
@@ -426,7 +426,7 @@
    "spend_hi": 10599399,
    "spend_mid": 9733800,
    "ads": 501,
-   "active_ads": 1,
+   "active_ads": 0,
    "spend_change_mid": 0
   },
   {
@@ -453,7 +453,7 @@
    "spend_mid": 3129690,
    "ads": 2120,
    "active_ads": 2,
-   "spend_change_mid": 100
+   "spend_change_mid": 0
   },
   {
    "name": "Troy Jackson",
@@ -526,12 +526,12 @@
    "race": "AK-SEN",
    "race_label": "Alaska Senate",
    "chamber": "senate",
-   "spend_lo": 1273300,
-   "spend_hi": 1592282,
-   "spend_mid": 1432791,
-   "ads": 718,
-   "active_ads": 0,
-   "spend_change_mid": 0
+   "spend_lo": 1276700,
+   "spend_hi": 1596478,
+   "spend_mid": 1436589,
+   "ads": 722,
+   "active_ads": 3,
+   "spend_change_mid": 3798
   },
   {
    "name": "Rick Jackson",
@@ -582,7 +582,7 @@
      ],
      "committee": "TALARICO FOR TEXAS",
      "ads": 501,
-     "active_ads": 1,
+     "active_ads": 0,
      "new_ads_7d": 0,
      "spend_lo": 8868200,
      "spend_hi": 10599399,
@@ -647,14 +647,14 @@
       349949,
       283489,
       745570,
-      700770,
-      475413,
-      752202,
-      590572,
-      866716,
-      1082515,
-      927139,
-      180513
+      703208,
+      481100,
+      757890,
+      596260,
+      872403,
+      1088186,
+      912458,
+      164335
      ],
      "top_ads": [
       {
@@ -959,11 +959,11 @@
       520113,
       478395,
       525374,
-      771321,
-      751230,
-      732009,
-      683506,
-      214390
+      771318,
+      751221,
+      732000,
+      683498,
+      214418
      ],
      "top_ads": [
       {
@@ -1209,7 +1209,7 @@
      "impressions_hi": 297581246,
      "open_ended_ads": 66,
      "non_usd_ads": 0,
-     "spend_change_mid": 100,
+     "spend_change_mid": 0,
      "ads_change": 0,
      "in_state_share": 0.9968,
      "top_regions": [
@@ -1263,16 +1263,16 @@
       72006,
       71911,
       70525,
-      74665,
-      84223,
-      90726,
-      88572,
-      104036,
-      375617,
-      400104,
-      367435,
-      780440,
-      286935
+      74661,
+      84218,
+      90721,
+      88567,
+      104031,
+      375612,
+      400078,
+      367406,
+      780411,
+      287049
      ],
      "top_ads": [
       {
@@ -1885,12 +1885,12 @@
       134065,
       197084,
       162647,
-      172445,
-      151427,
-      156158,
-      184391,
-      249122,
-      86248
+      172443,
+      151424,
+      156155,
+      184388,
+      249119,
+      86261
      ],
      "top_ads": [
       {
@@ -2403,10 +2403,10 @@
    "held_by": "R",
    "rating": "Toss Up",
    "rating_date": "2026-09-23",
-   "spend_mid": 1761863,
+   "spend_mid": 1765661,
    "spend_by_party": {
     "R": 329072,
-    "D": 1432791
+    "D": 1436589
    },
    "google_spend_usd": 0,
    "candidates": [
@@ -2423,35 +2423,35 @@
       }
      ],
      "committee": "ALASKANS FOR MARY",
-     "ads": 718,
-     "active_ads": 0,
-     "new_ads_7d": 0,
-     "spend_lo": 1273300,
-     "spend_hi": 1592282,
-     "spend_mid": 1432791,
-     "impressions_lo": 50374300,
-     "impressions_hi": 57772191,
+     "ads": 722,
+     "active_ads": 3,
+     "new_ads_7d": 4,
+     "spend_lo": 1276700,
+     "spend_hi": 1596478,
+     "spend_mid": 1436589,
+     "impressions_lo": 50470400,
+     "impressions_hi": 57885187,
      "open_ended_ads": 9,
      "non_usd_ads": 0,
-     "spend_change_mid": 0,
-     "ads_change": 0,
-     "in_state_share": 0.7902,
+     "spend_change_mid": 3798,
+     "ads_change": 4,
+     "in_state_share": 0.7887,
      "top_regions": [
       {
        "region": "Alaska",
-       "share": 0.7902
+       "share": 0.7887
       },
       {
        "region": "California",
-       "share": 0.0337
+       "share": 0.034
       },
       {
        "region": "Washington",
-       "share": 0.0188
+       "share": 0.0189
       },
       {
        "region": "New York",
-       "share": 0.0127
+       "share": 0.0128
       },
       {
        "region": "Texas",
@@ -2459,22 +2459,22 @@
       }
      ],
      "age": {
-      "18-24": 0.1356,
-      "25-34": 0.2355,
-      "35-44": 0.1891,
+      "18-24": 0.1354,
+      "25-34": 0.2351,
+      "35-44": 0.1889,
       "45-54": 0.1243,
-      "55-64": 0.1135,
-      "65+": 0.2019,
+      "55-64": 0.1136,
+      "65+": 0.2026,
       "Unknown": 0.0001
      },
      "gender": {
       "female": 0.49,
-      "male": 0.4961,
+      "male": 0.496,
       "unknown": 0.014
      },
      "platforms": {
-      "facebook": 690,
-      "instagram": 641
+      "facebook": 694,
+      "instagram": 645
      },
      "weekly_est": [
       37806,
@@ -2496,7 +2496,7 @@
       171928,
       214118,
       247785,
-      50216
+      54014
      ],
      "top_ads": [
       {
@@ -3913,7 +3913,7 @@
       },
       {
        "region": "Florida",
-       "share": 0.0188
+       "share": 0.0189
       }
      ],
      "age": {
@@ -3937,24 +3937,24 @@
      "weekly_est": [
       12717,
       16998,
-      12459,
+      12458,
       12002,
       12595,
       14628,
-      14685,
+      14684,
       10543,
       11239,
       16097,
       20397,
       25421,
       27910,
-      26160,
+      26159,
       28285,
-      27927,
+      27926,
       36591,
       51025,
       53944,
-      18583
+      18599
      ],
      "top_ads": [
       {
@@ -7918,16 +7918,16 @@
      ],
      "age": {
       "18-24": 0.0068,
-      "25-34": 0.04,
-      "35-44": 0.1273,
-      "45-54": 0.1782,
-      "55-64": 0.2564,
-      "65+": 0.3913,
+      "25-34": 0.0399,
+      "35-44": 0.1272,
+      "45-54": 0.1784,
+      "55-64": 0.2566,
+      "65+": 0.3911,
       "Unknown": 0.0
      },
      "gender": {
-      "female": 0.3907,
-      "male": 0.6026,
+      "female": 0.391,
+      "male": 0.6022,
       "unknown": 0.0068
      },
      "platforms": {
@@ -7942,19 +7942,19 @@
       0,
       0,
       0,
-      49,
-      107,
-      496,
-      395,
+      48,
+      106,
+      495,
+      394,
       224,
       657,
-      713,
-      134,
-      243,
-      207,
-      474,
-      346,
-      201
+      712,
+      133,
+      242,
+      206,
+      464,
+      334,
+      231
      ],
      "top_ads": [
       {
@@ -11190,6 +11190,15 @@
     "R": 8489278
    },
    "ads": 37415
+  },
+  {
+   "date": "2026-11-07",
+   "spend_mid": 41252390,
+   "by_party": {
+    "D": 32763112,
+    "R": 8489278
+   },
+   "ads": 37419
   }
  ],
  "methodology": "Digital Politics selected every race the Cook Political Report rated a Toss Up for Senate, Governor and House, and then identified each nominee's own Facebook Pages (Pages whose ads carried the candidate committee's 'Paid for by' disclaimer). Super PACs, parties and outside groups were excluded, including Pages set up to attack a candidate.\n\nEach day the tracker queries Meta's Ad Library API for every political ad those Pages delivered in the United States since June 23, 2026. Meta reports spend and impressions as ranges for each ad's lifetime, so totals are shown as ranges with a midpoint estimate. Ads that began before the window may include earlier spending. Weekly figures are estimates that spread each ad's reported spend evenly across its delivery dates. Audience shares are weighted by estimated impressions and describe who saw the ads, not who the campaign targeted.\n\nRaw API responses are retained privately."
